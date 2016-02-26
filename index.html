@@ -1,0 +1,61 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta http-equiv="X-UA-Compatible" content="IE=Edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta charset="UTF-8">
+    <title>Dot Gov Domains</title>
+    <link href='https://fonts.googleapis.com/css?family=Open+Sans:400,300,700,300italic' rel='stylesheet' type='text/css'>
+    <link rel="stylesheet" href="css/style.min.css">
+</head>
+
+<body ng-app="govDomains">
+    <div class="container" ng-controller="mainCtrl">
+    <a href="" id="top"></a>
+        <h1 class="title">Dot Gov Domains</h1>
+        <h3 class="subtitle">Search .gov domains by agency, state or name.</h2>
+        <div class="info"> <a href="" ng-click="aboutModal()">More info</a></div>
+        <div class="initselector-row">
+            <span>Select Domain Type:</span>
+            <fieldset>
+                <a href="" class="initlabel fedlabel" id="fedlabel" ng-click="getItems('federal')" ng-class="{'activelabel': select === 'federal'}">Federal</a>
+                <a href="" class="initlabel statelabel" id="statelabel" ng-click="getItems('state')" ng-class="{'activelabel': select === 'state' }">State</a>
+            </fieldset>
+        </div>
+        <div class="main" ng-show="active">
+
+            <form class="search">
+                <div class="searchby"><span>Search Type</span> 
+                    <input type="radio" name="searchtype" ng-model="radioVal" id="option1" ng-change="changeFunc()" ng-value="optionType">
+                    <label class="cap" for="option1">{{optionType}}</label>
+                    <input type="radio" name="searchtype" ng-model="radioVal" id="option2" ng-change="changeFunc()" value="domain">
+                    <label for="option2">Domain</label></div>
+                <div class="search-search" >
+                    <input class="main-form" type="text" ng-focus="activeSearch = true;" ng-change="autoCompleteItems()" ng-model="searchVal" ng-disabled="!radioVal">
+                    
+                    <ul class="auto-list" ng-show="activeSearch && matchedItems.length > 0">
+                        <li ng-repeat="item in matchedItems" ng-model="dropDownSel" ng-click="emptyList($index)">{{item}}</li>
+                    </ul>
+                    <button type="submit" class="search-button" ng-click="getResults('search')">Search</button>    <button class="search-button" ng-click="getResults('all')" class="list">List All</button>
+                </div>
+               
+                              
+            </form>
+            
+            
+        </div>
+        
+    </div>
+    <script src="https://ajax.googleapis.com/ajax/libs/angularjs/1.4.9/angular.min.js"></script>
+    <script src="https://ajax.googleapis.com/ajax/libs/angularjs/1.4.9/angular-aria.min.js"></script>
+    <script src="scripts/app.js" type="text/javascript"></script>
+   <script src="scripts/services/data.js" type="text/javascript"></script>
+    <script src="scripts/controllers/main.js" type="text/javascript"></script>
+
+    <script src="scripts/directives/about.js" type="text/javascript"></script>
+    <script src="scripts/directives/filter.js" type="text/javascript"></script>
+    <script src="scripts/directives/results.js" type="text/javascript"></script>
+</body>
+
+</html>

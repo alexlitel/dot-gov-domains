@@ -1,0 +1,4 @@
+# Dot Gov Domains
+[Dot Gov Domains](http://alexlitel.github.io/dot-gov-domains) is an Angular-based project intended to create a visually accessible means of sifting through data pertaining to federal and state .gov (and fed.us) domains. Data used in the project comes from the [GSA's .Gov Domains API](http://catalog.data.gov/dataset/gov-domains-api-c9856) and [18F's HTTPS pulse project](https://pulse.cio.gov/https/domains/). Although the data has been slightly modified (mostly for reasons of presentation), there may still be some signficant errors.
+
+This project falls under the [MIT license](http://www.github.com/alexlitel/bocker/blob/master/LICENSE.md). Feel free to suggest improvements, fork the project, create your a version for your own government's variant of .gov.

@@ -1,0 +1,21 @@
+
+// ==========================================================================
+// Media query mixin 
+// ==========================================================================
+@mixin m-q($size, $min: null, $max: null) {
+    @if $size=="min" {
+        @media only screen and (min-width: #{$min}) {
+            @content;
+        }
+    }
+    @else if $size=="max" {
+        @media only screen and (max-width: #{$max}) {
+            @content;
+        }
+    }
+    @else if $size=="minmax" {
+        @media only screen and (min-width: $min) and (max-width: $max) {
+            @content;
+        }
+    }
+}

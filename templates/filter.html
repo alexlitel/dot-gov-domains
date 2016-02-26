@@ -1,0 +1,60 @@
+<div class="filter-filter {{'filter-' + optsafe}}" ng-attr-data-filter="{{optprop}}">
+    <div class="filter-filter-inner filter-content"><span class="filter-filter-option">{{optprop}}</span>
+        <div ng-if="opttype === 'boo'" class="filter-options">
+            <div class="buttons">
+                <div class="btn-opt-wrapper">
+                    <input type="radio" ng-attr-id="{{optsafe + 'true'}}" ng-attr-name="{{optsafe + '-rad'}}" ng-model="radValue" value="true">
+                    <label for="{{optsafe + 'true'}}">True</label>
+                </div>
+                <div class="btn-opt-wrapper">
+                    <input type="radio" ng-attr-id="{{optsafe + 'false'}}" ng-attr-name="{{optsafe + 'rad'}}" ng-model="radValue" value="false">
+                    <label for="{{optsafe + 'false'}}">False</label>
+                </div>
+            </div>
+        </div>
+        <div ng-if="opttype === 'str'" class="filter-options">
+            <div class="buttons">
+                <div class="btn-opt-wrapper">
+                    <input type="radio" ng-attr-id="{{optsafe + 'begins'}}" ng-attr-name="{{optsafe + '-rad'}}" ng-model="radValue" value="begins">
+                    <label for="{{optsafe + 'begins'}}">Begins with</label>
+                </div>
+                <div class="btn-opt-wrapper">
+                    <input type="radio" ng-attr-id="{{optsafe + 'ends'}}" ng-attr-name="{{optsafe + '-rad'}}" ng-model="radValue" value="ends">
+                    <label for="{{optsafe + 'ends'}}">Ends with</label>
+                </div>
+                <div class="btn-opt-wrapper">
+                    <input type="radio" ng-attr-id="{{optsafe + 'contains'}}" ng-attr-name="{{optsafe + '-rad'}}" ng-model="radValue" value="contains">
+                    <label for="{{optsafe + 'ends'}}">Contains</label>
+                </div>
+            </div>
+            <div class="field">
+                <input type="text" ng-attr-name="{{optsafe + 'field'}}" placeholder="search term" ng-model="textValue">
+            </div>
+        </div>
+        <div ng-if="opttype === 'num'" class="filter-options">
+            <div class="buttons">
+                <div class="btn-opt-wrapper">
+                    <input type="radio" ng-attr-id="{{optsafe + 'min'}}" ng-attr-name="{{optsafe + '-rad'}}" ng-model="radValue" value="min">
+                    <label for="{{optsafe + 'min'}}">Min</label>
+                </div>
+                <div class="btn-opt-wrapper">
+                    <input type="radio" ng-attr-id="{{optsafe + 'max'}}" ng-attr-name="{{optsafe + '-rad'}}" ng-model="radValue" value="max">
+                    <label for="{{optsafe + 'max'}}">Max</label>
+                </div>
+                <div class="btn-opt-wrapper">
+                    <input type="radio" ng-attr-id="{{optsafe + 'range'}}" ng-attr-name="{{optsafe + '-rad'}}" ng-model="radValue" value="range">
+                    <label for="{{optsafe + 'range'}}">Range</label>
+                </div>
+            </div>
+            <div class="field">
+                <input type="number" min="0" max="5000" ng-attr-name="{{optsafe + 'field'}}" ng-model="numValue">
+                <input type="number" min="0" max="5000" ng-show="radValue === 'range'" ng-attr-name="{{optsafe + 'field'}}" ng-model="numValue2">
+            </div>
+        </div>
+        <div class="exclude-check" ng-if="opttype !== 'boo'">
+            <input type="checkbox" name="exclude" id="exclude" ng-model="excludeCheck">
+            <label for="exclude">Exclude from results</label>
+        </div>
+        <button class="remove-filter" href="" ng-click="removeFilter($event);">Remove Filter</button>
+    </div>
+</div>

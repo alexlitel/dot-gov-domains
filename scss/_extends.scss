@@ -1,0 +1,32 @@
+%btn {
+    color: $btn-color;
+    transition: 250ms ease-out;
+    background: $btn-color-bg;
+    border: 2px solid $btn-color-bdr;
+    &:hover,
+    &:active {
+        border-color: $p-color;
+        background: $p-color;
+        color: $sec-color;
+    }
+}
+
+%btn2 {
+    display: block;
+    margin: 0 auto;
+    padding: 10px;
+    font-size: 1.1em;
+    @include m-q("min", 450px) {
+        padding: 5px;
+    }
+ 
+    background: transparent;
+    border: 1.5px solid;
+    font-weight: 400;
+    color: $pct-color;
+    &:hover,
+    &:focus {
+        background: darken($pct-color, 15);
+        color: white;
+    }
+}

@@ -1,0 +1,19 @@
+##OSX stuff
+.DS_Store
+.DS_Store?
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+.AppleDouble
+.LSOverride
+
+
+
+#Testing
+stuff.txt
+
+
+##Sublime Text stuff
+*.sublime-project
+*.sublime-workspace
