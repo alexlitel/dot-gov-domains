@@ -27,7 +27,6 @@
             <li class="li results-item" ng-repeat="item in displayResults | orderBy: sortFunc : reverse" ng-class="{'result-active': hasData === true}">
                 <h2>{{item[filterType]}}</h2>
                 <div class="domain-count" ng-if="filterType !== 'Domain Name'">{{item["Domain Count"]}} {{(item["Domain Count"] > 1) ? "domains" : "domain"}} <span>({{item.Percentage}}% of {{select}} domains)</span></div>
-                <!-- <div ng-if="filterType === 'Domain Name'" ng-repeat="(key, val) in item"><span>{{key}}</span> <span>{{val}}</span></li> -->
                 <div class="result-helper-link"><a href="" ng-click="addDetails($event, $index, filterType);">{{(filterType !== 'Domain Name') ? (hasData === true) ? "Hide Domains" : "Show Domains" : (hasData === true) ? "Hide Domain Info" : "Show Domain Info"}}</a></div>
             </li>
         </ul>
