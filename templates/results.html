@@ -1,0 +1,52 @@
+<div class="results-wrapper">
+    <div class="results" ng-if="results.length > 1">
+        <div class="results-filter">
+            <h2>{{resultsCount}} results</h2><a href="" class="filter-toggle" ng-click="filterForm = !filterForm;">{{(filterForm) ? "Hide Filter Options" : "Show Filter Options"}}</a>
+            <h3 ng-if="filterType === 'Domain Name'">Showing {{pagination.pageStartCount}} to {{pagination.pageEndCount}} domains</h3>
+            <form class="results-filter-form" ng-hide="!filterForm">
+                <div class="filters"></div>
+                <div ng-hide="selectForm.options.length === 0" class="select-container">
+                    <span class="filt-label">Filter Type</span>
+                    <select form="selection" class="form-select" ng-model="selectForm.selectedOption">
+                        <option ng-repeat="option in selectForm.options" value="{{option}}">{{option}}</option>
+                    </select>
+                    <button class="select-button" ng-click="selectForm.selectOption(selectForm.selectedOption)">Add filter</button>
+                </div>
+                <button class="btn-row-btn" ng-click="selectForm.cancelFilter();">Cancel</button>
+                <button class="btn-row-btn" ng-click="selectForm.filterResults();">Filter</button>
+            </form>
+        </div>
+        <div ng-if="filterType !== 'Domain Name'" class="sortrow"><span>Sort By</span> <a href="" ng-click="sortBy(filterType)" ng-class="{option: sortType === filterType, reverse: reverse}">{{filterType}} <span class="sr-only">{{(reverse === false) ? "ascending order" : "descending order" }}</span></a>
+            <a href="" ng-click="sortBy('Domain Count')" ng-hide="filterType==='Domain Name'" ng-class="{option: sortType === 'Domain Count', reverse: reverse}">Domain Count <span class="sr-only">{{(reverse === false) ? "ascending order" : "descending order" }}</span></a>
+        </div>
+        <div ng-if="filterType === 'Domain Name'" class="page-nav">
+            <button ng-hide="pagination.pageMult === 0;" ng-click="pageFunc('minus')">Previous Results</button>
+            <button ng-hide="pagination.pageEndCount === resultsCount" ng-click="pageFunc('plus')">Next Page</button>
+        </div>
+        <ul class="results-container">
+            <li class="li results-item" ng-repeat="item in displayResults | orderBy: sortFunc : reverse" ng-class="{'result-active': hasData === true}">
+                <h2>{{item[filterType]}}</h2>
+                <div class="domain-count" ng-if="filterType !== 'Domain Name'">{{item["Domain Count"]}} {{(item["Domain Count"] > 1) ? "domains" : "domain"}} <span>({{item.Percentage}}% of {{select}} domains)</span></div>
+                <!-- <div ng-if="filterType === 'Domain Name'" ng-repeat="(key, val) in item"><span>{{key}}</span> <span>{{val}}</span></li> -->
+                <div class="result-helper-link"><a href="" ng-click="addDetails($event, $index, filterType);">{{(filterType !== 'Domain Name') ? (hasData === true) ? "Hide Domains" : "Show Domains" : (hasData === true) ? "Hide Domain Info" : "Show Domain Info"}}</a></div>
+            </li>
+        </ul>
+        <div ng-if="filterType === 'Domain Name'" class="page-nav">
+            <button ng-hide="pagination.pageMult === 0;" ng-click="pageFunc('minus')">Previous Page</button>
+            <button ng-hide="pagination.pageEndCount === resultsCount" ng-click="pageFunc('plus')">Next Page</button>
+        </div>
+    </div>
+    <div class="results" ng-if="results.length === undefined">
+        <ul class="results-container">
+            <li class="li results-item">
+                <h2>{{results[filterType]}}</h2>
+                <div class="domain-count" ng-if="filterType !== 'Domain Name'">{{results["Domain Count"]}} {{(results["Domain Count"] > 1) ? "domains" : "domain"}} <span>({{results.Percentage}}% of {{select}} domains)</span></div>
+                <div ng-if="filterType !== 'Domain Name'" class="domain-list">
+                    <div ng-repeat="domain in results.Domains">{{domain}}</div>
+                </div>
+                <div ng-if="filterType === 'Domain Name'" ng-repeat="(key, val) in results"><span ng-if="key !== filterType"><b>{{key}}:</b> {{val}}</span></div>
+            </li>
+        </ul>
+    </div>
+    <a class="top-nav" href="" ng-click="goToTop();">Go to top</a>
+</div>
