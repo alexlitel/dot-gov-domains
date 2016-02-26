@@ -66,6 +66,9 @@ app.directive('results', function($compile, $filter, $location, $anchorScroll) {
 
 
                     filterResults: function() {
+                        if (scope.filteredResults !== scope.results) {
+                          scope.filteredResults = scope.results;
+                        }
                         scope.selectForm.currFilters.forEach(function(item) {
                             var safe, currScope, childScope, filterFunc;
                             safe = item.replace(/\s+/g, "").toLowerCase();
