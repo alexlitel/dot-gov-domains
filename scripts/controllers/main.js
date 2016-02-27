@@ -25,6 +25,15 @@ app.controller('mainCtrl', function($scope, $compile, DataService) {
 
     };
 
+    $scope.blurEvent = function(event) {
+        if (!angular.element(event.relatedTarget).hasClass('auto-list-item')) {
+          $scope.activeSearch = false;
+        } 
+        if (angular.element(event.relatedTarget).hasClass('auto-list-item')) {
+            console.log("this does have the classs");
+        }
+    };
+
 
     $scope.changeFunc = function() {
         if ($scope.matchedItems) {
