@@ -32,10 +32,10 @@
                     <input type="radio" name="searchtype" ng-model="radioVal" id="option2" ng-change="changeFunc()" value="domain">
                     <label for="option2">Domain</label></div>
                 <div class="search-search" >
-                    <input class="main-form" type="text" ng-focus="activeSearch = true;" ng-blur="blurEvent($event)" ng-change="autoCompleteItems()" ng-model="searchVal" ng-disabled="!radioVal">
+                    <input class="main-form" type="text" ng-focus="activeSearch = true;" ng-change="autoCompleteItems()"  ng-blur="blurEvent($event)" ng-model="searchVal" ng-disabled="!radioVal">
                     
                     <ul class="auto-list" ng-show="activeSearch && matchedItems.length > 0">
-                        <li ng-repeat="item in matchedItems" ng-model="dropDownSel" ng-click="emptyList($index)">{{item}}</li>
+                        <li class="auto-list-item" ng-repeat="item in matchedItems" ng-model="dropDownSel" ng-click="emptyList($index)">{{item}}</li>
                     </ul>
                     <button type="submit" class="search-button" ng-click="getResults('search')">Search</button>    <button class="search-button" ng-click="getResults('all')" class="list">List All</button>
                 </div>           
