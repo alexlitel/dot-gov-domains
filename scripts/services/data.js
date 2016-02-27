@@ -1,13 +1,6 @@
 app.service('DataService', function($http) {
-    this.getData = function(type) {
-        if (sessionStorage.getItem(type) === null) {
+    this.getData = function(type, callback) {
             var url = (type === "federal") ? 'fed.json' : 'nofed-statesonly.json';
-            $http.get('data/' + url).then(function(response) {
-                sessionStorage.setItem(type, JSON.stringify(response.data));
-                return response.data;
-            });
-        } else {
-            return JSON.parse(sessionStorage.getItem(type));
-        }
+            $http.get('data/' + url).then(callback);
     };
 });

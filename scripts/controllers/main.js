@@ -1,5 +1,17 @@
 app.controller('mainCtrl', function($scope, $compile, DataService) {
     $scope.getItems = function(type) {
+        var grabData = function(type) {
+            if (sessionStorage.getItem(type) !== null) {
+                $scope.data = JSON.parse(sessionStorage.getItem(type));
+            }
+
+            if (sessionStorage.getItem(type) === null) {
+                DataService.getData(type, function(response) {
+                    $scope.data = response.data;
+                    sessionStorage.setItem(type, JSON.stringify(response.data));
+                });
+            }
+        };
         $scope.select = type;
         $scope.active = true;
         $scope.optionType = (type === 'federal') ? 'agency' : 'state';
@@ -12,8 +24,9 @@ app.controller('mainCtrl', function($scope, $compile, DataService) {
             angular.element(document.querySelector('.results-wrapper')).scope().$destroy();
             angular.element(document.querySelector('.results-wrapper')).remove();
         }
+        grabData(type);
 
-        $scope.data = DataService.getData(type);
+
 
     };
 
@@ -27,8 +40,8 @@ app.controller('mainCtrl', function($scope, $compile, DataService) {
 
     $scope.blurEvent = function(event) {
         if (!angular.element(event.relatedTarget).hasClass('auto-list-item')) {
-          $scope.activeSearch = false;
-        } 
+            $scope.activeSearch = false;
+        }
     };
 
 
