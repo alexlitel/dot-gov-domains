@@ -29,9 +29,6 @@ app.controller('mainCtrl', function($scope, $compile, DataService) {
         if (!angular.element(event.relatedTarget).hasClass('auto-list-item')) {
           $scope.activeSearch = false;
         } 
-        if (angular.element(event.relatedTarget).hasClass('auto-list-item')) {
-            console.log("this does have the classs");
-        }
     };
 
 
