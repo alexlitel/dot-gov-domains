@@ -131,6 +131,7 @@ app.controller('mainCtrl', function($scope, $compile, DataService) {
                 });
                 item["Domain Count"] = item.Domains.length;
                 item.Percentage = +((item["Domain Count"] / $scope.data.length) * 100).toFixed(2);
+                console.log(typeof item.Percentage);
             });
         }
         if (rFilter === 'Domain Name') {

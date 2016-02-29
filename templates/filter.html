@@ -47,8 +47,8 @@
                 </div>
             </div>
             <div class="field">
-                <input type="number" min="0" max="5000" ng-attr-name="{{optsafe + 'field'}}" ng-model="numValue">
-                <input type="number" min="0" max="5000" ng-show="radValue === 'range'" ng-attr-name="{{optsafe + 'field'}}" ng-model="numValue2">
+                <input type="number" step="any" min="0" max="5000" ng-attr-name="{{optsafe + 'field'}}" ng-model="numValue">
+                <input type="number" step="any" min="0" max="5000" ng-show="radValue === 'range'" ng-attr-name="{{optsafe + 'field'}}" ng-model="numValue2">
             </div>
         </div>
         <div class="exclude-check" ng-if="opttype !== 'boo'">

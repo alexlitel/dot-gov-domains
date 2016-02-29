@@ -161,7 +161,9 @@
     .sortrow {
         span {
             display: block;
+            margin-bottom: 1em;
             @include m-q("min", 338px) {
+                margin: auto;
                 display: inline-block;
             }
         }
@@ -221,7 +223,10 @@
         background: $sec-color;
         box-shadow: $bx-shdw-1;
         padding: 30px 0;
+        margin: 0 20px 25px;
+        @include m-q("min", 338px) {
         margin: 0 20px 42px;
+    }
         display: block;
         color: $pct-color;
         .btn-row-btn {
@@ -255,13 +260,20 @@
                 margin: 10px auto;
                 .buttons {
                     display: block;
-                    .btn-opt-wrapper {
-                        text-align: left;
-                        margin-left: 40px;
-                        @include m-q("min", 400px) {
-                            margin: auto;
-                            text-align: center;
-                            display: inline-block;
+                    @at-root {
+                        .filter-filter[opttype="str"] .buttons .btn-opt-wrapper {
+                            text-align: left;
+                            margin-left: 40px;
+                            @include m-q("min", 400px) {
+                                margin: auto;
+                                text-align: center;
+                                display: inline-block;
+                            }
+                        }
+                        .filter-filter[opttype="boo"] .buttons .btn-opt-wrapper, .filter-filter[opttype="num"] .buttons .btn-opt-wrapper {
+                                margin: auto 2px;
+                                text-align: center;
+                                display: inline-block;
                         }
                     }
                     input[type="radio"] {
@@ -274,11 +286,16 @@
                 }
                 .field {
                     display: block;
+                    input {
+                        border: 1px solid $bdr-color;
+                    }
+                    input[type="number"] {
+                        padding: 5px;
+                    }
                     input[type="text"] {
                         padding: 20px;
                         width: 100%;
                         max-width: 500px;
-                        border: 1px solid $bdr-color;
                     }
                 }
             }

@@ -67,14 +67,16 @@ app.directive('results', function($compile, $filter, $location, $anchorScroll) {
 
                     filterResults: function() {
                         if (scope.filteredResults !== scope.results) {
-                          scope.filteredResults = scope.results;
+                            scope.filteredResults = scope.results;
                         }
                         scope.selectForm.currFilters.forEach(function(item) {
                             var safe, currScope, childScope, filterFunc;
                             safe = item.replace(/\s+/g, "").toLowerCase();
                             currScope = angular.element(document.querySelector('.filter-' + safe)).isolateScope();
                             childScope = currScope.$$childHead;
+
                             filterFunc = function(value, index, array) {
+
                                 if (currScope.opttype === 'boo') {
                                     return (currScope.$$childTail.excludeCheck !== true) ? value[item] === childScope.radValue : value[item] !== childScope.radValue;
                                 } else if (currScope.opttype === 'str') {
@@ -98,13 +100,17 @@ app.directive('results', function($compile, $filter, $location, $anchorScroll) {
                                     }
                                 } else if (currScope.opttype === 'num') {
                                     if (childScope.numValue !== null) {
-                                        if (currScope.radValue === 'min') {
-                                            return (currScope.$$childTail.excludeCheck !== true) ? value[item] >= childScope.numValue : !(value[item] >= childScope.numValue) === true;
+                                        var bin;
+                                        if (childScope.radValue === 'min') {
+                                            bin = value[item] >= childScope.numValue;
+                                            return (currScope.$$childTail.excludeCheck !== true) ? bin === true : bin === false;
                                         } else if (childScope.radValue === 'max') {
-                                            return (currScope.$$childTail.excludeCheck !== true) ? value[item] <= childScope.numValue : !(value[item] <= childScope.numValue) === true;
+                                            bin = value[item] <= childScope.numValue;
+                                            return (currScope.$$childTail.excludeCheck !== true) ? bin === true : bin === false;
                                         } else if (childScope.radValue === 'range') {
                                             if (childScope.numValue2 !== null) {
-                                                return (currScope.$$childTail.excludeCheck !== true) ? value[item] >= childScope.numValue && value[item] <= childScope.numValue2 : !(value[item] >= childScope.numValue && value[item] <= childScope.numValue2) === true;
+                                                bin = value[item] >= childScope.numValue && value[item] <= childScope.numValue2;
+                                                return (currScope.$$childTail.excludeCheck !== true) ? bin === true : bin === false;
                                             }
                                         }
                                     }
