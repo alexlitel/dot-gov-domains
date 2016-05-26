@@ -10,8 +10,13 @@ Thumbs.db
 
 
 
-#Testing
-stuff.txt
+#Node stuff
+node_modules
+.gulp
+data2
+gulpfile.js
+sort.js
+package.json
 
 
 ##Sublime Text stuff

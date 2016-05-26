@@ -34,7 +34,7 @@
 		"Domain Type": "City",
 		"Agency": "Non-Federal Agency",
 		"City": "Aberdeen",
-		"State": "Maryland"
+		"State": "MD"
 	},
 	{
 		"Domain Name": "aberdeenwa.gov",
@@ -478,7 +478,7 @@
 	},
 	{
 		"Domain Name": "alpharetta-ga.gov",
-		"Domain Type": "State/Local Govt",
+		"Domain Type": "City",
 		"City": "Alpharetta",
 		"State": "GA"
 	},
@@ -562,7 +562,7 @@
 	},
 	{
 		"Domain Name": "amesburyma.gov",
-		"Domain Type": "State/Local Govt",
+		"Domain Type": "City",
 		"City": "Amesbury",
 		"State": "MA"
 	},
@@ -652,13 +652,13 @@
 	},
 	{
 		"Domain Name": "annapolis.gov",
-		"Domain Type": "State/Local Govt",
+		"Domain Type": "City",
 		"City": "Annapolis",
 		"State": "MD"
 	},
 	{
 		"Domain Name": "annapolismd.gov",
-		"Domain Type": "State/Local Govt",
+		"Domain Type": "City",
 		"City": "Annapolis",
 		"State": "MD"
 	},
@@ -2231,7 +2231,7 @@
 	},
 	{
 		"Domain Name": "baycounty-mi.gov",
-		"Domain Type": "City",
+		"Domain Type": "County",
 		"City": "Bay City",
 		"State": "MI"
 	},
@@ -2948,7 +2948,7 @@
 	},
 	{
 		"Domain Name": "bouldercounty-co.gov",
-		"Domain Type": "State/Local Govt",
+		"Domain Type": "County",
 		"City": "Boulder",
 		"State": "CO"
 	},
@@ -3184,7 +3184,7 @@
 	},
 	{
 		"Domain Name": "brewermaine.gov",
-		"Domain Type": "State/Local Govt",
+		"Domain Type": "City",
 		"City": "Brewer",
 		"State": "ME"
 	},
@@ -3263,7 +3263,7 @@
 	},
 	{
 		"Domain Name": "brockton-ma.gov",
-		"Domain Type": "State/Local Govt",
+		"Domain Type": "City",
 		"City": "Brockton",
 		"State": "MA"
 	},
@@ -3371,7 +3371,7 @@
 	},
 	{
 		"Domain Name": "brunswickmd.gov",
-		"Domain Type": "State/Local Govt",
+		"Domain Type": "City",
 		"City": "Brunswick",
 		"State": "MD"
 	},
@@ -3473,7 +3473,7 @@
 	},
 	{
 		"Domain Name": "burkecounty-ga.gov",
-		"Domain Type": "State/Local Govt",
+		"Domain Type": "County",
 		"City": "Waynesboro",
 		"State": "GA"
 	},
@@ -3707,13 +3707,13 @@
 	},
 	{
 		"Domain Name": "cambridgeretirementma.gov",
-		"Domain Type": "State/Local Govt",
+		"Domain Type": "City",
 		"City": "Cambridge",
 		"State": "MA"
 	},
 	{
 		"Domain Name": "camdencountyga.gov",
-		"Domain Type": "State/Local Govt",
+		"Domain Type": "County",
 		"City": "Woodbine",
 		"State": "GA"
 	},
@@ -4538,7 +4538,7 @@
 	},
 	{
 		"Domain Name": "chowancounty-nc.gov",
-		"Domain Type": "City",
+		"Domain Type": "County",
 		"City": "Edenton",
 		"State": "NC"
 	},
@@ -4676,7 +4676,7 @@
 	},
 	{
 		"Domain Name": "cityofboston.gov",
-		"Domain Type": "State/Local Govt",
+		"Domain Type": "City",
 		"City": "Boston",
 		"State": "MA"
 	},
@@ -5513,7 +5513,7 @@
 	},
 	{
 		"Domain Name": "claycountyin.gov",
-		"Domain Type": "State/Local Govt",
+		"Domain Type": "County",
 		"City": "Brazil",
 		"State": "IN"
 	},
@@ -5561,7 +5561,7 @@
 	},
 	{
 		"Domain Name": "clearspringmd.gov",
-		"Domain Type": "State/Local Govt",
+		"Domain Type": "City",
 		"Agency": "Non-Federal Agency",
 		"City": "Clear Spring",
 		"State": "Maryland"
@@ -5696,7 +5696,7 @@
 	},
 	{
 		"Domain Name": "cobbcountyga.gov",
-		"Domain Type": "State/Local Govt",
+		"Domain Type": "County",
 		"City": "Marietta",
 		"State": "GA"
 	},
@@ -5786,7 +5786,7 @@
 	},
 	{
 		"Domain Name": "colliercountyfl.gov",
-		"Domain Type": "State/Local Govt",
+		"Domain Type": "County",
 		"City": "Naples",
 		"State": "FL"
 	},
@@ -5798,13 +5798,13 @@
 	},
 	{
 		"Domain Name": "collincountytexas.gov",
-		"Domain Type": "City",
+		"Domain Type": "County",
 		"City": "Mckinney",
 		"State": "TX"
 	},
 	{
 		"Domain Name": "collincountytx.gov",
-		"Domain Type": "City",
+		"Domain Type": "County",
 		"City": "McKinney",
 		"State": "TX"
 	},
@@ -6056,7 +6056,7 @@
 	},
 	{
 		"Domain Name": "conshohockenpa.gov",
-		"Domain Type": "State/Local Govt",
+		"Domain Type": "City",
 		"Agency": "Non-Federal Agency",
 		"City": "Conshohocken",
 		"State": "Pennsylvania"
@@ -6243,7 +6243,7 @@
 	},
 	{
 		"Domain Name": "councilbluffs-ia.gov",
-		"Domain Type": "State/Local Govt",
+		"Domain Type": "City",
 		"City": "Council Bluffs",
 		"State": "IA"
 	},
@@ -7143,7 +7143,7 @@
 	},
 	{
 		"Domain Name": "dracutma.gov",
-		"Domain Type": "State/Local Govt",
+		"Domain Type": "City",
 		"City": "Dracut",
 		"State": "MA"
 	},
@@ -7191,7 +7191,7 @@
 	},
 	{
 		"Domain Name": "dudleyma.gov",
-		"Domain Type": "State/Local Govt",
+		"Domain Type": "City",
 		"City": "Dudley",
 		"State": "MA"
 	},
@@ -7353,7 +7353,7 @@
 	},
 	{
 		"Domain Name": "eastham-ma.gov",
-		"Domain Type": "State/Local Govt",
+		"Domain Type": "City",
 		"City": "Eastham",
 		"State": "MA"
 	},
@@ -7510,7 +7510,7 @@
 	},
 	{
 		"Domain Name": "edgarcounty-il.gov",
-		"Domain Type": "City",
+		"Domain Type": "County",
 		"City": "Paris",
 		"State": "IL"
 	},
@@ -7630,7 +7630,7 @@
 	},
 	{
 		"Domain Name": "elizabethtownky.gov",
-		"Domain Type": "State/Local Govt",
+		"Domain Type": "City",
 		"City": "Elizabethtown",
 		"State": "KY"
 	},
@@ -7720,7 +7720,7 @@
 	},
 	{
 		"Domain Name": "emanuelco-ga.gov",
-		"Domain Type": "State/Local Govt",
+		"Domain Type": "County",
 		"City": "Swainsboro",
 		"State": "GA"
 	},
@@ -7961,7 +7961,7 @@
 	},
 	{
 		"Domain Name": "fairhaven-ma.gov",
-		"Domain Type": "State/Local Govt",
+		"Domain Type": "City",
 		"City": "Fairhaven",
 		"State": "MA"
 	},
@@ -8082,7 +8082,7 @@
 	},
 	{
 		"Domain Name": "fayettecountyga.gov",
-		"Domain Type": "State/Local Govt",
+		"Domain Type": "County",
 		"City": "Fayetteville",
 		"State": "GA"
 	},
@@ -8094,7 +8094,7 @@
 	},
 	{
 		"Domain Name": "fayetteville-ga.gov",
-		"Domain Type": "State/Local Govt",
+		"Domain Type": "City",
 		"City": "Fayetteville",
 		"State": "GA"
 	},
@@ -8629,7 +8629,7 @@
 	},
 	{
 		"Domain Name": "fortlauderdale.gov",
-		"Domain Type": "State/Local Govt",
+		"Domain Type": "City",
 		"City": "Fort Lauderdale",
 		"State": "FL"
 	},
@@ -8857,7 +8857,7 @@
 	},
 	{
 		"Domain Name": "freeportflorida.gov",
-		"Domain Type": "State/Local Govt",
+		"Domain Type": "City",
 		"City": "Freeport",
 		"State": "FL"
 	},
@@ -9025,7 +9025,7 @@
 	},
 	{
 		"Domain Name": "gaithersburgmd.gov",
-		"Domain Type": "State/Local Govt",
+		"Domain Type": "City",
 		"City": "Gaithersburg",
 		"State": "MD"
 	},
@@ -9106,7 +9106,7 @@
 	},
 	{
 		"Domain Name": "gardner-ma.gov",
-		"Domain Type": "State/Local Govt",
+		"Domain Type": "City",
 		"City": "GARDNER",
 		"State": "MA"
 	},
@@ -9274,7 +9274,7 @@
 	},
 	{
 		"Domain Name": "gettysburgpa.gov",
-		"Domain Type": "State/Local Govt",
+		"Domain Type": "City",
 		"Agency": "Non-Federal Agency",
 		"City": "Gettysburg",
 		"State": "Pennsylvania"
@@ -9425,7 +9425,7 @@
 	},
 	{
 		"Domain Name": "glynncounty-ga.gov",
-		"Domain Type": "State/Local Govt",
+		"Domain Type": "County",
 		"City": "Brunswick",
 		"State": "GA"
 	},
@@ -9479,7 +9479,7 @@
 	},
 	{
 		"Domain Name": "golfmanoroh.gov",
-		"Domain Type": "State/Local Govt",
+		"Domain Type": "City",
 		"Agency": "Non-Federal Agency",
 		"City": "Golf Manor",
 		"State": "Ohio"
@@ -9847,7 +9847,7 @@
 	},
 	{
 		"Domain Name": "grinnelliowa.gov",
-		"Domain Type": "State/Local Govt",
+		"Domain Type": "City",
 		"City": "Grinnell",
 		"State": "IA"
 	},
@@ -10040,7 +10040,7 @@
 	},
 	{
 		"Domain Name": "hamiltonma.gov",
-		"Domain Type": "State/Local Govt",
+		"Domain Type": "City",
 		"City": "So. Hamilton",
 		"State": "MA"
 	},
@@ -10184,7 +10184,7 @@
 	},
 	{
 		"Domain Name": "harfordcountymd.gov",
-		"Domain Type": "State/Local Govt",
+		"Domain Type": "County",
 		"City": "Bel Air",
 		"State": "MD"
 	},
@@ -10202,7 +10202,7 @@
 	},
 	{
 		"Domain Name": "harpercountyks.gov",
-		"Domain Type": "City",
+		"Domain Type": "County",
 		"City": "Anthony",
 		"State": "KS"
 	},
@@ -12418,7 +12418,7 @@
 	},
 	{
 		"Domain Name": "lakecountyfl.gov",
-		"Domain Type": "State/Local Govt",
+		"Domain Type": "County",
 		"City": "Tavares",
 		"State": "FL"
 	},
@@ -13384,7 +13384,7 @@
 	},
 	{
 		"Domain Name": "lowellma.gov",
-		"Domain Type": "State/Local Govt",
+		"Domain Type": "City",
 		"City": "Lowell",
 		"State": "MA"
 	},
@@ -13408,7 +13408,7 @@
 	},
 	{
 		"Domain Name": "loxahatcheegrovesfl.gov",
-		"Domain Type": "State/Local Govt",
+		"Domain Type": "City",
 		"City": "Loxahatchee Groves",
 		"State": "FL"
 	},
@@ -13906,13 +13906,13 @@
 	},
 	{
 		"Domain Name": "mariettaga.gov",
-		"Domain Type": "State/Local Govt",
+		"Domain Type": "City",
 		"City": "Marietta",
 		"State": "GA"
 	},
 	{
 		"Domain Name": "mariettageorgia.gov",
-		"Domain Type": "State/Local Govt",
+		"Domain Type": "City",
 		"City": "Marietta",
 		"State": "GA"
 	},
@@ -13991,7 +13991,7 @@
 	},
 	{
 		"Domain Name": "marshfield-ma.gov",
-		"Domain Type": "State/Local Govt",
+		"Domain Type": "City",
 		"City": "Marshfield",
 		"State": "MA"
 	},
@@ -14709,7 +14709,7 @@
 	},
 	{
 		"Domain Name": "millersburgky.gov",
-		"Domain Type": "State/Local Govt",
+		"Domain Type": "City",
 		"City": "Millersburg",
 		"State": "KY"
 	},
@@ -14751,7 +14751,7 @@
 	},
 	{
 		"Domain Name": "milton-freewater-or.gov",
-		"Domain Type": "State/Local Govt",
+		"Domain Type": "City",
 		"City": "Milton-Freewater",
 		"State": "OR"
 	},
@@ -15015,7 +15015,7 @@
 	},
 	{
 		"Domain Name": "monson-ma.gov",
-		"Domain Type": "State/Local Govt",
+		"Domain Type": "City",
 		"City": "Monson",
 		"State": "MA"
 	},
@@ -15403,7 +15403,7 @@
 	},
 	{
 		"Domain Name": "murraycountyga.gov",
-		"Domain Type": "State/Local Govt",
+		"Domain Type": "County",
 		"City": "Chatsworth",
 		"State": "GA"
 	},
@@ -15620,7 +15620,7 @@
 	},
 	{
 		"Domain Name": "natickma.gov",
-		"Domain Type": "State/Local Govt",
+		"Domain Type": "City",
 		"City": "Natick",
 		"State": "MA"
 	},
@@ -16372,7 +16372,7 @@
 	},
 	{
 		"Domain Name": "newtonma.gov",
-		"Domain Type": "State/Local Govt",
+		"Domain Type": "City",
 		"City": "Newton",
 		"State": "MA"
 	},
@@ -16955,7 +16955,7 @@
 	},
 	{
 		"Domain Name": "northmiamifl.gov",
-		"Domain Type": "State/Local Govt",
+		"Domain Type": "City",
 		"City": "North Miami",
 		"State": "FL"
 	},
@@ -17761,7 +17761,7 @@
 	},
 	{
 		"Domain Name": "olatheks.gov",
-		"Domain Type": "State/Local Govt",
+		"Domain Type": "City",
 		"City": "Olathe",
 		"State": "KS"
 	},
@@ -17827,7 +17827,7 @@
 	},
 	{
 		"Domain Name": "onslowcountync.gov",
-		"Domain Type": "State/Local Govt",
+		"Domain Type": "County",
 		"City": "Jacksonville",
 		"State": "NC"
 	},
@@ -18237,7 +18237,7 @@
 	},
 	{
 		"Domain Name": "palmbeachcountytaxcollector-fl.gov",
-		"Domain Type": "State/Local Govt",
+		"Domain Type": "County",
 		"City": "West Palm Beach",
 		"State": "FL"
 	},
@@ -18465,7 +18465,7 @@
 	},
 	{
 		"Domain Name": "peachtreecornersga.gov",
-		"Domain Type": "State/Local Govt",
+		"Domain Type": "City",
 		"City": "Peachtree Corners",
 		"State": "GA"
 	},
@@ -18556,7 +18556,7 @@
 	},
 	{
 		"Domain Name": "perry-ga.gov",
-		"Domain Type": "State/Local Govt",
+		"Domain Type": "City",
 		"City": "Perry",
 		"State": "GA"
 	},
@@ -18730,7 +18730,7 @@
 	},
 	{
 		"Domain Name": "pinecrest-fl.gov",
-		"Domain Type": "State/Local Govt",
+		"Domain Type": "City",
 		"City": "Pinecrest",
 		"State": "FL"
 	},
@@ -18749,13 +18749,13 @@
 	},
 	{
 		"Domain Name": "pinellascounty-fl.gov",
-		"Domain Type": "State/Local Govt",
+		"Domain Type": "County",
 		"City": "Clearwater",
 		"State": "FL"
 	},
 	{
 		"Domain Name": "pinellascountyfl.gov",
-		"Domain Type": "State/Local Govt",
+		"Domain Type": "County",
 		"City": "Clearwater",
 		"State": "FL"
 	},
@@ -18833,7 +18833,7 @@
 	},
 	{
 		"Domain Name": "plainville-ct.gov",
-		"Domain Type": "State/Local Govt",
+		"Domain Type": "City",
 		"City": "Plainville",
 		"State": "CT"
 	},
@@ -19255,7 +19255,7 @@
 	},
 	{
 		"Domain Name": "provincetown-ma.gov",
-		"Domain Type": "State/Local Govt",
+		"Domain Type": "City",
 		"City": "Provincetown",
 		"State": "MA"
 	},
@@ -19652,7 +19652,7 @@
 	},
 	{
 		"Domain Name": "rheacountytn.gov",
-		"Domain Type": "City",
+		"Domain Type": "County",
 		"City": "Dayton",
 		"State": "TN"
 	},
@@ -19964,7 +19964,7 @@
 	},
 	{
 		"Domain Name": "rockislandtownshipil.gov",
-		"Domain Type": "State/Local Govt",
+		"Domain Type": "City",
 		"City": "Rock Island",
 		"State": "IL"
 	},
@@ -20140,7 +20140,7 @@
 	},
 	{
 		"Domain Name": "rowancountync.gov",
-		"Domain Type": "State/Local Govt",
+		"Domain Type": "County",
 		"City": "Salisbury",
 		"State": "NC"
 	},
@@ -20260,7 +20260,7 @@
 	},
 	{
 		"Domain Name": "sacomaine.gov",
-		"Domain Type": "State/Local Govt",
+		"Domain Type": "City",
 		"City": "Saco",
 		"State": "ME"
 	},
@@ -20416,7 +20416,7 @@
 	},
 	{
 		"Domain Name": "sandpointidaho.gov",
-		"Domain Type": "State/Local Govt",
+		"Domain Type": "City",
 		"City": "Sandpoint",
 		"State": "ID"
 	},
@@ -20776,7 +20776,7 @@
 	},
 	{
 		"Domain Name": "scottcountyiowa.gov",
-		"Domain Type": "State/Local Govt",
+		"Domain Type": "County",
 		"City": "Davenport",
 		"State": "IA"
 	},
@@ -20921,7 +20921,7 @@
 	},
 	{
 		"Domain Name": "sedgwick.gov",
-		"Domain Type": "State/Local Govt",
+		"Domain Type": "County",
 		"City": "Wichita",
 		"State": "KS"
 	},
@@ -20939,7 +20939,7 @@
 	},
 	{
 		"Domain Name": "seelyville-in.gov",
-		"Domain Type": "State/Local Govt",
+		"Domain Type": "City",
 		"City": "Seelyville",
 		"State": "IN"
 	},
@@ -20969,7 +20969,7 @@
 	},
 	{
 		"Domain Name": "seminolecountyfl.gov",
-		"Domain Type": "State/Local Govt",
+		"Domain Type": "County",
 		"City": "Sanford",
 		"State": "FL"
 	},
@@ -21017,7 +21017,7 @@
 	},
 	{
 		"Domain Name": "serveindiana.gov",
-		"Domain Type": "State/Local Govt",
+		"Domain Type": "Federal Agency",
 		"City": "Indianapolis",
 		"State": "IN"
 	},
@@ -21167,7 +21167,7 @@
 	},
 	{
 		"Domain Name": "shrewsbury-ma.gov",
-		"Domain Type": "State/Local Govt",
+		"Domain Type": "City",
 		"City": "Shrewsbury",
 		"State": "MA"
 	},
@@ -21458,7 +21458,7 @@
 	},
 	{
 		"Domain Name": "southernshores-nc.gov",
-		"Domain Type": "State/Local Govt",
+		"Domain Type": "City",
 		"City": "Southern Shores",
 		"State": "NC"
 	},
@@ -21812,7 +21812,7 @@
 	},
 	{
 		"Domain Name": "stillwatercountymt.gov",
-		"Domain Type": "State/Local Govt",
+		"Domain Type": "County",
 		"Agency": "Non-Federal Agency",
 		"City": "Columbus",
 		"State": "Montana"
@@ -21924,13 +21924,13 @@
 	},
 	{
 		"Domain Name": "stoughton-ma.gov",
-		"Domain Type": "State/Local Govt",
+		"Domain Type": "City",
 		"City": "Stoughton",
 		"State": "MA"
 	},
 	{
 		"Domain Name": "stow-ma.gov",
-		"Domain Type": "State/Local Govt",
+		"Domain Type": "City",
 		"City": "Stow",
 		"State": "MA"
 	},
@@ -21942,7 +21942,7 @@
 	},
 	{
 		"Domain Name": "stpaulsnc.gov",
-		"Domain Type": "State/Local Govt",
+		"Domain Type": "City",
 		"City": "St. Pauls",
 		"State": "NC"
 	},
@@ -22122,13 +22122,13 @@
 	},
 	{
 		"Domain Name": "sunrisefl.gov",
-		"Domain Type": "State/Local Govt",
+		"Domain Type": "City",
 		"City": "Sunrise",
 		"State": "FL"
 	},
 	{
 		"Domain Name": "sunriseflorida.gov",
-		"Domain Type": "State/Local Govt",
+		"Domain Type": "City",
 		"City": "Sunrise",
 		"State": "FL"
 	},
@@ -22158,7 +22158,7 @@
 	},
 	{
 		"Domain Name": "surfcitync.gov",
-		"Domain Type": "State/Local Govt",
+		"Domain Type": "City",
 		"Agency": "Non-Federal Agency",
 		"City": "Surf City",
 		"State": "North Carolina"
@@ -22273,7 +22273,7 @@
 	},
 	{
 		"Domain Name": "takomaparkmd.gov",
-		"Domain Type": "State/Local Govt",
+		"Domain Type": "City",
 		"City": "Takoma Park",
 		"State": "MD"
 	},
@@ -22477,7 +22477,7 @@
 	},
 	{
 		"Domain Name": "tewksbury-ma.gov",
-		"Domain Type": "State/Local Govt",
+		"Domain Type": "City",
 		"City": "Tewksbury",
 		"State": "MA"
 	},
@@ -22963,7 +22963,7 @@
 	},
 	{
 		"Domain Name": "townofgoldenmeadow-la.gov",
-		"Domain Type": "State/Local Govt",
+		"Domain Type": "City",
 		"City": "Golden Meadow",
 		"State": "LA"
 	},
@@ -23186,7 +23186,7 @@
 	},
 	{
 		"Domain Name": "townofwingatenc.gov",
-		"Domain Type": "State/Local Govt",
+		"Domain Type": "City",
 		"City": "Wingate",
 		"State": "NC"
 	},
@@ -23240,7 +23240,7 @@
 	},
 	{
 		"Domain Name": "tricountyconservancy-in.gov",
-		"Domain Type": "City",
+		"Domain Type": "County",
 		"City": "Plainfield",
 		"State": "IN"
 	},
@@ -24011,7 +24011,7 @@
 	},
 	{
 		"Domain Name": "villageofpeninsula-oh.gov",
-		"Domain Type": "State/Local Govt",
+		"Domain Type": "City",
 		"City": "Peninsula",
 		"State": "OH"
 	},
@@ -24212,7 +24212,7 @@
 	},
 	{
 		"Domain Name": "wakecountync.gov",
-		"Domain Type": "State/Local Govt",
+		"Domain Type": "County",
 		"City": "Raleigh",
 		"State": "NC"
 	},
@@ -24230,7 +24230,7 @@
 	},
 	{
 		"Domain Name": "waldocountyme.gov",
-		"Domain Type": "State/Local Govt",
+		"Domain Type": "County",
 		"City": "Belfast",
 		"State": "ME"
 	},
@@ -24260,13 +24260,13 @@
 	},
 	{
 		"Domain Name": "walpole-ma.gov",
-		"Domain Type": "State/Local Govt",
+		"Domain Type": "City",
 		"City": "Walpole",
 		"State": "MA"
 	},
 	{
 		"Domain Name": "waltoncountyga.gov",
-		"Domain Type": "State/Local Govt",
+		"Domain Type": "County",
 		"City": "Monroe",
 		"State": "GA"
 	},
@@ -24369,7 +24369,7 @@
 	},
 	{
 		"Domain Name": "washington-nc.gov",
-		"Domain Type": "State/Local Govt",
+		"Domain Type": "City",
 		"City": "Washington",
 		"State": "NC"
 	},
@@ -24423,7 +24423,7 @@
 	},
 	{
 		"Domain Name": "washingtonnc.gov",
-		"Domain Type": "State/Local Govt",
+		"Domain Type": "City",
 		"City": "Washington",
 		"State": "NC"
 	},
@@ -24465,7 +24465,7 @@
 	},
 	{
 		"Domain Name": "wataugacountync.gov",
-		"Domain Type": "State/Local Govt",
+		"Domain Type": "County",
 		"City": "Boone",
 		"State": "NC"
 	},
@@ -24935,7 +24935,7 @@
 	},
 	{
 		"Domain Name": "whitecounty-il.gov",
-		"Domain Type": "City",
+		"Domain Type": "County",
 		"City": "Carmi",
 		"State": "IL"
 	},
@@ -24989,7 +24989,7 @@
 	},
 	{
 		"Domain Name": "whitman-ma.gov",
-		"Domain Type": "State/Local Govt",
+		"Domain Type": "City",
 		"City": "Whitman",
 		"State": "MA"
 	},
@@ -25320,19 +25320,19 @@
 	},
 	{
 		"Domain Name": "wintergarden-fl.gov",
-		"Domain Type": "State/Local Govt",
+		"Domain Type": "City",
 		"City": "Winter Garden",
 		"State": "FL"
 	},
 	{
 		"Domain Name": "winterportmaine.gov",
-		"Domain Type": "State/Local Govt",
+		"Domain Type": "City",
 		"City": "Winterport",
 		"State": "ME"
 	},
 	{
 		"Domain Name": "winterspringsfl.gov",
-		"Domain Type": "State/Local Govt",
+		"Domain Type": "City",
 		"City": "Winter Springs",
 		"State": "FL"
 	},
@@ -25765,13 +25765,13 @@
 	},
 	{
 		"Domain Name": "yadkincounty.gov",
-		"Domain Type": "State/Local Govt",
+		"Domain Type": "County",
 		"City": "Yadkinville",
 		"State": "NC"
 	},
 	{
 		"Domain Name": "yadkincountync.gov",
-		"Domain Type": "State/Local Govt",
+		"Domain Type": "County",
 		"City": "Yadkinville",
 		"State": "NC"
 	},
@@ -25795,7 +25795,7 @@
 	},
 	{
 		"Domain Name": "yamhillcounty-or.gov",
-		"Domain Type": "City",
+		"Domain Type": "County",
 		"City": "McMinnville",
 		"State": "OR"
 	},
@@ -25807,7 +25807,7 @@
 	},
 	{
 		"Domain Name": "yanceyvillenc.gov",
-		"Domain Type": "State/Local Govt",
+		"Domain Type": "City",
 		"City": "Roxboro",
 		"State": "NC"
 	},
@@ -25933,7 +25933,7 @@
 	},
 	{
 		"Domain Name": "zionsville-in.gov",
-		"Domain Type": "State/Local Govt",
+		"Domain Type": "City",
 		"City": "Zionsville",
 		"State": "IN"
 	}
