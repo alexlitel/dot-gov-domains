@@ -2563,7 +2563,7 @@
 	},
 	{
 		"Domain Name": "coronadoca.gov",
-		"Domain Type": "County",
+		"Domain Type": "City",
 		"City": "Coronado",
 		"State": "California"
 	},
@@ -3481,7 +3481,7 @@
 	},
 	{
 		"Domain Name": "loganco.gov",
-		"Domain Type": "City",
+		"Domain Type": "County",
 		"City": "Sterling",
 		"State": "Colorado"
 	},
@@ -4843,7 +4843,7 @@
 	},
 	{
 		"Domain Name": "miami-fl.gov",
-		"Domain Type": "State/Local Govt",
+		"Domain Type": "City",
 		"City": "Miami",
 		"State": "Florida"
 	},
@@ -13191,7 +13191,7 @@
 	{
 		"Domain Name": "clintonnj.gov",
 		"Domain Type": "City",
-		"City": "New Jersey",
+		"City": "Clinton",
 		"State": "New Jersey"
 	},
 	{
@@ -13868,7 +13868,7 @@
 	},
 	{
 		"Domain Name": "bernco.gov",
-		"Domain Type": "City",
+		"Domain Type": "County",
 		"City": "Albuquerque",
 		"State": "New Mexico"
 	},
@@ -14396,7 +14396,7 @@
 	},
 	{
 		"Domain Name": "kingsburyny.gov",
-		"Domain Type": "County",
+		"Domain Type": "City",
 		"City": "Hudson Falls",
 		"State": "New York"
 	},
@@ -24152,7 +24152,7 @@
 	},
 	{
 		"Domain Name": "pleasantprairie-wi.gov",
-		"Domain Type": "County",
+		"Domain Type": "City",
 		"City": "Pleasant Prairie",
 		"State": "Wisconsin"
 	},

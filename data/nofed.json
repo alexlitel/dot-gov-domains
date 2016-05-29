@@ -32,7 +32,6 @@
 	{
 		"Domain Name": "aberdeenmd.gov",
 		"Domain Type": "City",
-		"Agency": "Non-Federal Agency",
 		"City": "Aberdeen",
 		"State": "MD"
 	},
@@ -400,7 +399,6 @@
 	{
 		"Domain Name": "alfredme.gov",
 		"Domain Type": "City",
-		"Agency": "Non-Federal Agency",
 		"City": "Alfred",
 		"State": "Maine"
 	},
@@ -953,7 +951,6 @@
 	{
 		"Domain Name": "athenstx.gov",
 		"Domain Type": "City",
-		"Agency": "Non-Federal Agency",
 		"City": "Athens",
 		"State": "Texas"
 	},
@@ -2424,7 +2421,6 @@
 	{
 		"Domain Name": "bellefontepa.gov",
 		"Domain Type": "City",
-		"Agency": "Non-Federal Agency",
 		"City": "Bellefonte",
 		"State": "Pennsylvania"
 	},
@@ -2533,7 +2529,6 @@
 	{
 		"Domain Name": "bentonil.gov",
 		"Domain Type": "City",
-		"Agency": "Non-Federal Agency",
 		"City": "Benton",
 		"State": "Illinois"
 	},
@@ -2575,7 +2570,7 @@
 	},
 	{
 		"Domain Name": "bernco.gov",
-		"Domain Type": "City",
+		"Domain Type": "County",
 		"City": "Albuquerque",
 		"State": "NM"
 	},
@@ -2594,7 +2589,6 @@
 	{
 		"Domain Name": "berthold-nd.gov",
 		"Domain Type": "City",
-		"Agency": "Non-Federal Agency",
 		"City": "Berthold",
 		"State": "North Dakota"
 	},
@@ -3105,7 +3099,6 @@
 	{
 		"Domain Name": "brazoriacounty.gov",
 		"Domain Type": "County",
-		"Agency": "Non-Federal Agency",
 		"City": "Angleton",
 		"State": "Texas"
 	},
@@ -3178,7 +3171,6 @@
 	{
 		"Domain Name": "brevardfl.gov",
 		"Domain Type": "County",
-		"Agency": "Non-Federal Agency",
 		"City": "Viera",
 		"State": "Florida"
 	},
@@ -3215,7 +3207,6 @@
 	{
 		"Domain Name": "bridgeportwv.gov",
 		"Domain Type": "City",
-		"Agency": "Non-Federal Agency",
 		"City": "Bridgeport",
 		"State": "West Virginia"
 	},
@@ -3900,7 +3891,6 @@
 	{
 		"Domain Name": "carolinecountyva.gov",
 		"Domain Type": "County",
-		"Agency": "Non-Federal Agency",
 		"City": "Bowling Green",
 		"State": "Virginia"
 	},
@@ -4195,7 +4185,6 @@
 	{
 		"Domain Name": "champaignil.gov",
 		"Domain Type": "City",
-		"Agency": "Non-Federal Agency",
 		"City": "Champaign",
 		"State": "Illinois"
 	},
@@ -4262,7 +4251,6 @@
 	{
 		"Domain Name": "chathamcountyga.gov",
 		"Domain Type": "County",
-		"Agency": "Non-Federal Agency",
 		"City": "Savannah",
 		"State": "Georgia"
 	},
@@ -4719,7 +4707,6 @@
 	{
 		"Domain Name": "cityofchampaignil.gov",
 		"Domain Type": "City",
-		"Agency": "Non-Federal Agency",
 		"City": "Champaign",
 		"State": "Illinois"
 	},
@@ -4918,7 +4905,6 @@
 	{
 		"Domain Name": "cityofholyoke-co.gov",
 		"Domain Type": "City",
-		"Agency": "Non-Federal Agency",
 		"City": "Holyoke",
 		"State": "Colorado"
 	},
@@ -5183,7 +5169,6 @@
 	{
 		"Domain Name": "cityofpataskalaohio.gov",
 		"Domain Type": "City",
-		"Agency": "Non-Federal Agency",
 		"City": "Pataskala",
 		"State": "Ohio"
 	},
@@ -5562,7 +5547,6 @@
 	{
 		"Domain Name": "clearspringmd.gov",
 		"Domain Type": "City",
-		"Agency": "Non-Federal Agency",
 		"City": "Clear Spring",
 		"State": "Maryland"
 	},
@@ -5641,7 +5625,7 @@
 	{
 		"Domain Name": "clintonnj.gov",
 		"Domain Type": "City",
-		"City": "New Jersey",
+		"City": "Clinton",
 		"State": "NJ"
 	},
 	{
@@ -5665,9 +5649,8 @@
 	{
 		"Domain Name": "cmsplanflorida.gov",
 		"Domain Type": "State/Local Govt",
-		"Agency": "Non-Federal Agency",
-		"City": "TALLAHASSEE",
-		"State": "Florida"
+		"City": "Tallahassee",
+		"State": "FL"
 	},
 	{
 		"Domain Name": "co.gov",
@@ -5684,7 +5667,6 @@
 	{
 		"Domain Name": "coalcity-il.gov",
 		"Domain Type": "City",
-		"Agency": "Non-Federal Agency",
 		"City": "Coal City",
 		"State": "Illinois"
 	},
@@ -6057,7 +6039,6 @@
 	{
 		"Domain Name": "conshohockenpa.gov",
 		"Domain Type": "City",
-		"Agency": "Non-Federal Agency",
 		"City": "Conshohocken",
 		"State": "Pennsylvania"
 	},
@@ -6153,7 +6134,7 @@
 	},
 	{
 		"Domain Name": "coronadoca.gov",
-		"Domain Type": "County",
+		"Domain Type": "City",
 		"City": "Coronado",
 		"State": "CA"
 	},
@@ -7474,7 +7455,6 @@
 	{
 		"Domain Name": "eauclairevillage-mi.gov",
 		"Domain Type": "City",
-		"Agency": "Non-Federal Agency",
 		"City": "Eau Claire",
 		"State": "Michigan"
 	},
@@ -7847,7 +7827,6 @@
 	{
 		"Domain Name": "eurekacountynv.gov",
 		"Domain Type": "County",
-		"Agency": "Non-Federal Agency",
 		"City": "Eureka",
 		"State": "Nevada"
 	},
@@ -7980,7 +7959,6 @@
 	{
 		"Domain Name": "fairmountheightsmd.gov",
 		"Domain Type": "City",
-		"Agency": "Non-Federal Agency",
 		"City": "Fairmount Heights",
 		"State": "Maryland"
 	},
@@ -8323,7 +8301,6 @@
 	{
 		"Domain Name": "floresvilletx.gov",
 		"Domain Type": "City",
-		"Agency": "Non-Federal Agency",
 		"City": "Floresville",
 		"State": "Texas"
 	},
@@ -9032,7 +9009,6 @@
 	{
 		"Domain Name": "galenaks.gov",
 		"Domain Type": "City",
-		"Agency": "Non-Federal Agency",
 		"City": "GALENA",
 		"State": "Kansas"
 	},
@@ -9087,14 +9063,12 @@
 	{
 		"Domain Name": "galvestontx.gov",
 		"Domain Type": "City",
-		"Agency": "Non-Federal Agency",
 		"City": "Galveston",
 		"State": "Texas"
 	},
 	{
 		"Domain Name": "gaprobate.gov",
 		"Domain Type": "State/Local Govt",
-		"Agency": "Non-Federal Agency",
 		"City": "Atlanta",
 		"State": "Georgia"
 	},
@@ -9275,7 +9249,6 @@
 	{
 		"Domain Name": "gettysburgpa.gov",
 		"Domain Type": "City",
-		"Agency": "Non-Federal Agency",
 		"City": "Gettysburg",
 		"State": "Pennsylvania"
 	},
@@ -9480,7 +9453,6 @@
 	{
 		"Domain Name": "golfmanoroh.gov",
 		"Domain Type": "City",
-		"Agency": "Non-Federal Agency",
 		"City": "Golf Manor",
 		"State": "Ohio"
 	},
@@ -9709,7 +9681,6 @@
 	{
 		"Domain Name": "greenecountyva.gov",
 		"Domain Type": "County",
-		"Agency": "Non-Federal Agency",
 		"City": "Stanardsville",
 		"State": "Virginia"
 	},
@@ -9926,7 +9897,6 @@
 	{
 		"Domain Name": "guntertx.gov",
 		"Domain Type": "City",
-		"Agency": "Non-Federal Agency",
 		"City": "Gunter",
 		"State": "Texas"
 	},
@@ -10263,7 +10233,6 @@
 	{
 		"Domain Name": "harrisoncountywv.gov",
 		"Domain Type": "County",
-		"Agency": "Non-Federal Agency",
 		"City": "Clarksburg",
 		"State": "West Virginia"
 	},
@@ -10666,7 +10635,6 @@
 	{
 		"Domain Name": "hinsdalema.gov",
 		"Domain Type": "State/Local Govt",
-		"Agency": "Non-Federal Agency",
 		"City": "Hinsdale",
 		"State": "Massachusetts"
 	},
@@ -10811,7 +10779,6 @@
 	{
 		"Domain Name": "hopkinspark-il.gov",
 		"Domain Type": "City",
-		"Agency": "Non-Federal Agency",
 		"City": "Hopkins Park",
 		"State": "Illinois"
 	},
@@ -11184,7 +11151,6 @@
 	{
 		"Domain Name": "illinoisretirement.gov",
 		"Domain Type": "State/Local Govt",
-		"Agency": "Non-Federal Agency",
 		"City": "Springfield",
 		"State": "Illinois"
 	},
@@ -11617,7 +11583,6 @@
 	{
 		"Domain Name": "irwindaleca.gov",
 		"Domain Type": "City",
-		"Agency": "Non-Federal Agency",
 		"City": "Irwindale",
 		"State": "California"
 	},
@@ -11757,7 +11722,6 @@
 	{
 		"Domain Name": "janesvillemn.gov",
 		"Domain Type": "City",
-		"Agency": "Non-Federal Agency",
 		"City": "Janesville",
 		"State": "Minnesota"
 	},
@@ -12159,7 +12123,7 @@
 	},
 	{
 		"Domain Name": "kingsburyny.gov",
-		"Domain Type": "County",
+		"Domain Type": "City",
 		"City": "Hudson Falls",
 		"State": "NY"
 	},
@@ -12280,7 +12244,6 @@
 	{
 		"Domain Name": "kscareernav.gov",
 		"Domain Type": "State/Local Govt",
-		"Agency": "Non-Federal Agency",
 		"City": "Topeka",
 		"State": "Kansas"
 	},
@@ -12743,7 +12706,6 @@
 	{
 		"Domain Name": "lebanonnh.gov",
 		"Domain Type": "City",
-		"Agency": "Non-Federal Agency",
 		"City": "Lebanon",
 		"State": "New Hampshire"
 	},
@@ -12948,7 +12910,6 @@
 	{
 		"Domain Name": "libertyin.gov",
 		"Domain Type": "City",
-		"Agency": "Non-Federal Agency",
 		"City": "Liberty",
 		"State": "Indiana"
 	},
@@ -13069,7 +13030,6 @@
 	{
 		"Domain Name": "littlerockar.gov",
 		"Domain Type": "City",
-		"Agency": "Non-Federal Agency",
 		"City": "Little Rock",
 		"State": "Arkansas"
 	},
@@ -13123,7 +13083,7 @@
 	},
 	{
 		"Domain Name": "loganco.gov",
-		"Domain Type": "City",
+		"Domain Type": "County",
 		"City": "Sterling",
 		"State": "CO"
 	},
@@ -13136,7 +13096,6 @@
 	{
 		"Domain Name": "logancountyil.gov",
 		"Domain Type": "County",
-		"Agency": "Non-Federal Agency",
 		"City": "Lincoln",
 		"State": "Illinois"
 	},
@@ -13275,7 +13234,6 @@
 	{
 		"Domain Name": "lott-tx.gov",
 		"Domain Type": "City",
-		"Agency": "Non-Federal Agency",
 		"City": "Lott",
 		"State": "Texas"
 	},
@@ -13348,7 +13306,6 @@
 	{
 		"Domain Name": "louisvilletn.gov",
 		"Domain Type": "City",
-		"Agency": "Non-Federal Agency",
 		"City": "Louisville",
 		"State": "Tennessee"
 	},
@@ -13973,7 +13930,6 @@
 	{
 		"Domain Name": "marshall-il.gov",
 		"Domain Type": "City",
-		"Agency": "Non-Federal Agency",
 		"City": "Marshall",
 		"State": "Illinois"
 	},
@@ -14214,7 +14170,6 @@
 	{
 		"Domain Name": "mcminnvilleoregon.gov",
 		"Domain Type": "City",
-		"Agency": "Non-Federal Agency",
 		"City": "McMinnville",
 		"State": "Oregon"
 	},
@@ -14305,7 +14260,6 @@
 	{
 		"Domain Name": "medford-ma.gov",
 		"Domain Type": "City",
-		"Agency": "Non-Federal Agency",
 		"City": "Medford",
 		"State": "Massachusetts"
 	},
@@ -14318,7 +14272,6 @@
 	{
 		"Domain Name": "medinamn.gov",
 		"Domain Type": "City",
-		"Agency": "Non-Federal Agency",
 		"City": "Medina",
 		"State": "Minnesota"
 	},
@@ -14331,7 +14284,6 @@
 	{
 		"Domain Name": "melvillela.gov",
 		"Domain Type": "City",
-		"Agency": "Non-Federal Agency",
 		"City": "Melville",
 		"State": "Louisiana"
 	},
@@ -14475,7 +14427,7 @@
 	},
 	{
 		"Domain Name": "miami-fl.gov",
-		"Domain Type": "State/Local Govt",
+		"Domain Type": "City",
 		"City": "Miami",
 		"State": "FL"
 	},
@@ -15070,7 +15022,6 @@
 	{
 		"Domain Name": "montgomeryma.gov",
 		"Domain Type": "City",
-		"Agency": "Non-Federal Agency",
 		"City": "Montgomery",
 		"State": "Massachusetts"
 	},
@@ -15173,7 +15124,6 @@
 	{
 		"Domain Name": "morrillcountyne.gov",
 		"Domain Type": "County",
-		"Agency": "Non-Federal Agency",
 		"City": "Bridgeport",
 		"State": "Nebraska"
 	},
@@ -15342,7 +15292,6 @@
 	{
 		"Domain Name": "mtjuliet-tn.gov",
 		"Domain Type": "City",
-		"Agency": "Non-Federal Agency",
 		"City": "Mt Juliet",
 		"State": "Tennessee"
 	},
@@ -15361,7 +15310,6 @@
 	{
 		"Domain Name": "mtsosfilings.gov",
 		"Domain Type": "State/Local Govt",
-		"Agency": "Non-Federal Agency",
 		"City": "Helena",
 		"State": "Montana"
 	},
@@ -15416,7 +15364,6 @@
 	{
 		"Domain Name": "murrietaca.gov",
 		"Domain Type": "City",
-		"Agency": "Non-Federal Agency",
 		"City": "Murrieta",
 		"State": "California"
 	},
@@ -15723,7 +15670,6 @@
 	{
 		"Domain Name": "nccourts.gov",
 		"Domain Type": "State/Local Govt",
-		"Agency": "Non-Federal Agency",
 		"City": "Raleigh",
 		"State": "North Carolina"
 	},
@@ -15802,7 +15748,6 @@
 	{
 		"Domain Name": "ncfast.gov",
 		"Domain Type": "State/Local Govt",
-		"Agency": "Non-Federal Agency",
 		"City": "RTP",
 		"State": "North Carolina"
 	},
@@ -16913,7 +16858,6 @@
 	{
 		"Domain Name": "northfieldmi.gov",
 		"Domain Type": "City",
-		"Agency": "Non-Federal Agency",
 		"City": "Whitmore Lake",
 		"State": "Michigan"
 	},
@@ -17076,7 +17020,6 @@
 	{
 		"Domain Name": "nvdow.gov",
 		"Domain Type": "State/Local Govt",
-		"Agency": "Non-Federal Agency",
 		"City": "Reno",
 		"State": "Nevada"
 	},
@@ -17317,7 +17260,6 @@
 	{
 		"Domain Name": "oakparkmi.gov",
 		"Domain Type": "City",
-		"Agency": "Non-Federal Agency",
 		"City": "Oak Park",
 		"State": "Michigan"
 	},
@@ -17864,9 +17806,8 @@
 	{
 		"Domain Name": "openmyfloridabusiness.gov",
 		"Domain Type": "State/Local Govt",
-		"Agency": "Non-Federal Agency",
 		"City": "Tallahassee",
-		"State": "Florida"
+		"State": "FL"
 	},
 	{
 		"Domain Name": "openohio.gov",
@@ -18039,7 +17980,6 @@
 	{
 		"Domain Name": "orlandofl.gov",
 		"Domain Type": "City",
-		"Agency": "Non-Federal Agency",
 		"City": "Orlando",
 		"State": "Florida"
 	},
@@ -18544,7 +18484,6 @@
 	{
 		"Domain Name": "permittingrogersar.gov",
 		"Domain Type": "City",
-		"Agency": "Non-Federal Agency",
 		"City": "Rogers",
 		"State": "Arkansas"
 	},
@@ -18737,7 +18676,6 @@
 	{
 		"Domain Name": "pinehurstnc.gov",
 		"Domain Type": "City",
-		"Agency": "Non-Federal Agency",
 		"City": "Pinehurst",
 		"State": "North Carolina"
 	},
@@ -18869,8 +18807,7 @@
 	},
 	{
 		"Domain Name": "pleasantprairie-wi.gov",
-		"Domain Type": "County",
-		"Agency": "Non-Federal Agency",
+		"Domain Type": "City",
 		"City": "Pleasant Prairie",
 		"State": "Wisconsin"
 	},
@@ -18925,7 +18862,6 @@
 	{
 		"Domain Name": "pocomokemd.gov",
 		"Domain Type": "City",
-		"Agency": "Non-Federal Agency",
 		"City": "Pocomoke City",
 		"State": "Maryland"
 	},
@@ -19598,7 +19534,6 @@
 	{
 		"Domain Name": "reidsvillenc.gov",
 		"Domain Type": "City",
-		"Agency": "Non-Federal Agency",
 		"City": "Reidsville",
 		"State": "North Carolina"
 	},
@@ -19977,7 +19912,6 @@
 	{
 		"Domain Name": "rocklandmaine.gov",
 		"Domain Type": "City",
-		"Agency": "Non-Federal Agency",
 		"City": "Rockland",
 		"State": "Maine"
 	},
@@ -20104,7 +20038,6 @@
 	{
 		"Domain Name": "rosenbergtx.gov",
 		"Domain Type": "City",
-		"Agency": "Non-Federal Agency",
 		"City": "Rosenberg",
 		"State": "Texas"
 	},
@@ -20849,7 +20782,6 @@
 	{
 		"Domain Name": "sdlegislature.gov",
 		"Domain Type": "State/Local Govt",
-		"Agency": "Non-Federal Agency",
 		"City": "pierre",
 		"State": "South Dakota"
 	},
@@ -21390,7 +21322,6 @@
 	{
 		"Domain Name": "sosnc.gov",
 		"Domain Type": "State/Local Govt",
-		"Agency": "Non-Federal Agency",
 		"City": "Raleigh",
 		"State": "North Carolina"
 	},
@@ -21427,16 +21358,14 @@
 	{
 		"Domain Name": "southbrunswicknj.gov",
 		"Domain Type": "City",
-		"Agency": "Non-Federal Agency",
 		"City": "South Brunswick",
-		"State": "New Jersey"
+		"State": "NJ"
 	},
 	{
 		"Domain Name": "southburlingtonvt.gov",
 		"Domain Type": "City",
-		"Agency": "Non-Federal Agency",
 		"City": "South Burlington",
-		"State": "Vermont"
+		"State": "VT"
 	},
 	{
 		"Domain Name": "southbury-ct.gov",
@@ -21453,7 +21382,7 @@
 	{
 		"Domain Name": "southeast-ny.gov",
 		"Domain Type": "City",
-		"City": "BREWSTER",
+		"City": "Brewster",
 		"State": "NY"
 	},
 	{
@@ -21813,23 +21742,20 @@
 	{
 		"Domain Name": "stillwatercountymt.gov",
 		"Domain Type": "County",
-		"Agency": "Non-Federal Agency",
 		"City": "Columbus",
-		"State": "Montana"
+		"State": "MT"
 	},
 	{
 		"Domain Name": "stjohn-la.gov",
 		"Domain Type": "County",
-		"Agency": "Non-Federal Agency",
 		"City": "LaPlace",
-		"State": "Louisiana"
+		"State": "LA"
 	},
 	{
 		"Domain Name": "stjohnbaptistparishla.gov",
 		"Domain Type": "County",
-		"Agency": "Non-Federal Agency",
 		"City": "LaPlace",
-		"State": "Louisiana"
+		"State": "LA"
 	},
 	{
 		"Domain Name": "stjohnsaz.gov",
@@ -21870,7 +21796,6 @@
 	{
 		"Domain Name": "stmaryspa.gov",
 		"Domain Type": "City",
-		"Agency": "Non-Federal Agency",
 		"City": "St. Marys",
 		"State": "Pennsylvania"
 	},
@@ -22159,7 +22084,6 @@
 	{
 		"Domain Name": "surfcitync.gov",
 		"Domain Type": "City",
-		"Agency": "Non-Federal Agency",
 		"City": "Surf City",
 		"State": "North Carolina"
 	},
@@ -23072,7 +22996,6 @@
 	{
 		"Domain Name": "townofpalermony.gov",
 		"Domain Type": "City",
-		"Agency": "Non-Federal Agency",
 		"City": "FULTON",
 		"State": "New York"
 	},
@@ -23565,9 +23488,8 @@
 	{
 		"Domain Name": "unionbeachnj.gov",
 		"Domain Type": "City",
-		"Agency": "Non-Federal Agency",
 		"City": "Union Beach",
-		"State": "New Jersey"
+		"State": "NJ"
 	},
 	{
 		"Domain Name": "unioncity-in.gov",
@@ -23950,7 +23872,6 @@
 	{
 		"Domain Name": "villageofgouverneurny.gov",
 		"Domain Type": "City",
-		"Agency": "Non-Federal Agency",
 		"City": "Gouverneur",
 		"State": "New York"
 	},
@@ -23975,7 +23896,6 @@
 	{
 		"Domain Name": "villageofmazomaniewi.gov",
 		"Domain Type": "City",
-		"Agency": "Non-Federal Agency",
 		"City": "Mazomanie",
 		"State": "Wisconsin"
 	},
@@ -24054,7 +23974,6 @@
 	{
 		"Domain Name": "vintoncountyohio.gov",
 		"Domain Type": "County",
-		"Agency": "Non-Federal Agency",
 		"City": "McArthur",
 		"State": "Ohio"
 	},
@@ -24097,7 +24016,6 @@
 	{
 		"Domain Name": "virginiaresources.gov",
 		"Domain Type": "State/Local Govt",
-		"Agency": "Non-Federal Agency",
 		"City": "Richmond",
 		"State": "Virginia"
 	},
@@ -24170,7 +24088,6 @@
 	{
 		"Domain Name": "vonormytx.gov",
 		"Domain Type": "City",
-		"Agency": "Non-Federal Agency",
 		"City": "Von Ormy",
 		"State": "Texas"
 	},
@@ -24544,7 +24461,6 @@
 	{
 		"Domain Name": "waynecounty-ga.gov",
 		"Domain Type": "County",
-		"Agency": "Non-Federal Agency",
 		"City": "JESUP",
 		"State": "Georgia"
 	},
@@ -24893,7 +24809,6 @@
 	{
 		"Domain Name": "westvirginia.gov",
 		"Domain Type": "State/Local Govt",
-		"Agency": "Non-Federal Agency",
 		"City": "Charleston",
 		"State": "West Virginia"
 	},
@@ -25158,7 +25073,6 @@
 	{
 		"Domain Name": "willingtonct.gov",
 		"Domain Type": "City",
-		"Agency": "Non-Federal Agency",
 		"City": "Willington",
 		"State": "Connecticut"
 	},
@@ -25465,7 +25379,6 @@
 	{
 		"Domain Name": "workforceonetouchtn.gov",
 		"Domain Type": "State/Local Govt",
-		"Agency": "Non-Federal Agency",
 		"City": "Nashville",
 		"State": "Tennessee"
 	},
