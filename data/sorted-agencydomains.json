@@ -714,10 +714,9 @@
 			"userra.gov",
 			"usmarshals.gov",
 			"vcf.gov",
-			"vehiclehistory.gov",
-			"vote.gov"
+			"vehiclehistory.gov"
 		],
-		"Domain Count": 69
+		"Domain Count": 68
 	},
 	{
 		"Agency": "Department of Labor",
@@ -764,6 +763,7 @@
 			"osac.gov",
 			"pepfar.gov",
 			"state.gov",
+			"stateoig.gov",
 			"usconsulate.gov",
 			"usembassy-mexico.gov",
 			"usembassy.gov",
@@ -771,14 +771,7 @@
 			"usmission.gov",
 			"usvpp.gov"
 		],
-		"Domain Count": 22
-	},
-	{
-		"Agency": "Department of State OIG",
-		"Domains": [
-			"stateoig.gov"
-		],
-		"Domain Count": 1
+		"Domain Count": 23
 	},
 	{
 		"Agency": "Department of Transportation",
@@ -1385,9 +1378,10 @@
 			"ussm.gov",
 			"vef.gov",
 			"vitm.gov",
+			"vote.gov",
 			"votebymail.gov"
 		],
-		"Domain Count": 107
+		"Domain Count": 108
 	},
 	{
 		"Agency": "Government Printing Office",
@@ -1720,11 +1714,10 @@
 			"jusfc.gov",
 			"nwtrb.gov",
 			"pppl.gov",
-			"serveindiana.gov",
 			"sji.gov",
 			"wmatc.gov"
 		],
-		"Domain Count": 8
+		"Domain Count": 7
 	},
 	{
 		"Agency": "Nuclear Regulatory Commission",
@@ -1898,39 +1891,6 @@
 		"Domain Count": 1
 	},
 	{
-		"Agency": "The Judicial Branch (Courts)",
-		"Domains": [
-			"bankruptcy.gov",
-			"cavc.gov",
-			"dcsc.gov",
-			"fedcir.gov",
-			"federalcourts.gov",
-			"federalprobation.gov",
-			"federalrules.gov",
-			"fjc.gov",
-			"judicialconference.gov",
-			"nmcourt.fed.us",
-			"pacer.gov",
-			"sc-us.gov",
-			"scinet-test.gov",
-			"scinet.gov",
-			"scus.gov",
-			"supreme-court.gov",
-			"supremecourt.gov",
-			"supremecourtus.gov",
-			"usbankruptcy.gov",
-			"usc.gov",
-			"uscavc.gov",
-			"uscourts.gov",
-			"uscva.gov",
-			"usprobation.gov",
-			"ussc.gov",
-			"ustaxcourt.gov",
-			"vetapp.gov"
-		],
-		"Domain Count": 27
-	},
-	{
 		"Agency": "The Legislative Branch (Congress)",
 		"Domains": [
 			"aoc.gov",
@@ -1986,6 +1946,19 @@
 		"Domain Count": 49
 	},
 	{
+		"Agency": "The Supreme Court",
+		"Domains": [
+			"sc-us.gov",
+			"scinet-test.gov",
+			"scinet.gov",
+			"scus.gov",
+			"supreme-court.gov",
+			"supremecourt.gov",
+			"supremecourtus.gov"
+		],
+		"Domain Count": 7
+	},
+	{
 		"Agency": "The United States World War One Centennial Commission",
 		"Domains": [
 			"worldwar1centennial.gov"
@@ -2039,6 +2012,32 @@
 		"Domain Count": 1
 	},
 	{
+		"Agency": "U.S. Courts",
+		"Domains": [
+			"bankruptcy.gov",
+			"cavc.gov",
+			"dcsc.gov",
+			"fedcir.gov",
+			"federalcourts.gov",
+			"federalprobation.gov",
+			"federalrules.gov",
+			"fjc.gov",
+			"judicialconference.gov",
+			"nmcourt.fed.us",
+			"pacer.gov",
+			"usbankruptcy.gov",
+			"usc.gov",
+			"uscavc.gov",
+			"uscourts.gov",
+			"uscva.gov",
+			"usprobation.gov",
+			"ussc.gov",
+			"ustaxcourt.gov",
+			"vetapp.gov"
+		],
+		"Domain Count": 20
+	},
+	{
 		"Agency": "U.S. Holocaust Memorial Museum",
 		"Domains": [
 			"ushmm.gov"
@@ -2073,9 +2072,10 @@
 		"Domains": [
 			"peacecore.gov",
 			"peacecorp.gov",
-			"peacecorps.gov"
+			"peacecorps.gov",
+			"peacecorpsoig.gov"
 		],
-		"Domain Count": 3
+		"Domain Count": 4
 	},
 	{
 		"Agency": "U.S. Postal Service",
@@ -2092,10 +2092,9 @@
 	{
 		"Agency": "U.S. Postal Service, Office of Inspector General",
 		"Domains": [
-			"peacecorpsoig.gov",
 			"uspsoig.gov"
 		],
-		"Domain Count": 2
+		"Domain Count": 1
 	},
 	{
 		"Agency": "U.S. Trade and Development Agency",
