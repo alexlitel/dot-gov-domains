@@ -6163,7 +6163,7 @@
 		"Domain Name": "galenaks.gov",
 		"Domain Type": "City",
 		"Agency": "Non-Federal Agency",
-		"City": "GALENA",
+		"City": "Galena",
 		"State": "KS"
 	},
 	{
@@ -15158,7 +15158,7 @@
 		"Domain Name": "townofpalermony.gov",
 		"Domain Type": "City",
 		"Agency": "Non-Federal Agency",
-		"City": "FULTON",
+		"City": "Fulton",
 		"State": "NY"
 	},
 	{
@@ -20996,7 +20996,7 @@
 		"Domain Name": "waynecounty-ga.gov",
 		"Domain Type": "County",
 		"Agency": "Non-Federal Agency",
-		"City": "JESUP",
+		"City": "Jesup",
 		"State": "GA"
 	},
 	{
@@ -21514,7 +21514,7 @@
 		"Domain Name": "altusandc.gov",
 		"Domain Type": "Federal Agency",
 		"Agency": "Department of Defense",
-		"City": "Patrick, Afb",
+		"City": "Patrick AFB",
 		"State": "FL"
 	},
 	{
@@ -21891,7 +21891,7 @@
 	{
 		"Domain Name": "bankruptcy.gov",
 		"Domain Type": "Federal Agency",
-		"Agency": "The Judicial Branch (Courts)",
+		"Agency": "U.S. Courts",
 		"City": "Washington",
 		"State": "DC"
 	},
@@ -22277,7 +22277,7 @@
 		"Domain Name": "capnhq.gov",
 		"Domain Type": "Federal Agency",
 		"Agency": "Civil Air Patrol",
-		"City": "Maxwell Afb",
+		"City": "Maxwell AFB",
 		"State": "AL"
 	},
 	{
@@ -22297,7 +22297,7 @@
 	{
 		"Domain Name": "cavc.gov",
 		"Domain Type": "Federal Agency",
-		"Agency": "The Judicial Branch (Courts)",
+		"Agency": "U.S. Courts",
 		"City": "Washington",
 		"State": "DC"
 	},
@@ -22592,7 +22592,7 @@
 		"Domain Name": "citizenscience.gov",
 		"Domain Type": "Federal Agency",
 		"Agency": "General Services Administration",
-		"City": "NW",
+		"City": "Washington",
 		"State": "DC"
 	},
 	{
@@ -22963,7 +22963,7 @@
 		"Domain Name": "crimesolutions.gov",
 		"Domain Type": "Federal Agency",
 		"Agency": "Department of Justice",
-		"City": "Washinton",
+		"City": "Washington",
 		"State": "DC"
 	},
 	{
@@ -23067,7 +23067,7 @@
 	{
 		"Domain Name": "dcsc.gov",
 		"Domain Type": "Federal Agency",
-		"Agency": "The Judicial Branch (Courts)",
+		"Agency": "U.S. Courts",
 		"City": "Washington",
 		"State": "DC"
 	},
@@ -23789,14 +23789,14 @@
 		"Domain Name": "everykid.gov",
 		"Domain Type": "Federal Agency",
 		"Agency": "Department of the Interior",
-		"City": "Washington DC",
+		"City": "Washington",
 		"State": "DC"
 	},
 	{
 		"Domain Name": "everykidinapark.gov",
 		"Domain Type": "Federal Agency",
 		"Agency": "General Services Administration",
-		"City": "Washington DC",
+		"City": "Washington",
 		"State": "DC"
 	},
 	{
@@ -24145,7 +24145,7 @@
 	{
 		"Domain Name": "fedcir.gov",
 		"Domain Type": "Federal Agency",
-		"Agency": "The Judicial Branch (Courts)",
+		"Agency": "U.S. Courts",
 		"City": "Washington",
 		"State": "DC"
 	},
@@ -24159,7 +24159,7 @@
 	{
 		"Domain Name": "federalcourts.gov",
 		"Domain Type": "Federal Agency",
-		"Agency": "The Judicial Branch (Courts)",
+		"Agency": "U.S. Courts",
 		"City": "Washington",
 		"State": "DC"
 	},
@@ -24187,7 +24187,7 @@
 	{
 		"Domain Name": "federalprobation.gov",
 		"Domain Type": "Federal Agency",
-		"Agency": "The Judicial Branch (Courts)",
+		"Agency": "U.S. Courts",
 		"City": "Washington",
 		"State": "DC"
 	},
@@ -24250,7 +24250,7 @@
 	{
 		"Domain Name": "federalrules.gov",
 		"Domain Type": "Federal Agency",
-		"Agency": "The Judicial Branch (Courts)",
+		"Agency": "U.S. Courts",
 		"City": "Washington",
 		"State": "DC"
 	},
@@ -24565,7 +24565,7 @@
 	{
 		"Domain Name": "fjc.gov",
 		"Domain Type": "Federal Agency",
-		"Agency": "The Judicial Branch (Courts)",
+		"Agency": "U.S. Courts",
 		"City": "Washington",
 		"State": "DC"
 	},
@@ -26154,7 +26154,7 @@
 	{
 		"Domain Name": "judicialconference.gov",
 		"Domain Type": "Federal Agency",
-		"Agency": "The Judicial Branch (Courts)",
+		"Agency": "U.S. Courts",
 		"City": "Washington",
 		"State": "DC"
 	},
@@ -26176,8 +26176,8 @@
 		"Domain Name": "justice.gov",
 		"Domain Type": "Federal Agency",
 		"Agency": "Department of Justice",
-		"City": "Rockville",
-		"State": "MD"
+		"City": "Washington",
+		"State": "DC"
 	},
 	{
 		"Domain Name": "justthinktwice.gov",
@@ -26596,8 +26596,8 @@
 		"Domain Name": "max.gov",
 		"Domain Type": "Federal Agency",
 		"Agency": "Executive Office of the President",
-		"City": "Nw",
-		"State": "WA"
+		"City": "Washington",
+		"State": "DC"
 	},
 	{
 		"Domain Name": "mbda.gov",
@@ -26946,7 +26946,7 @@
 		"Domain Name": "nasa.gov",
 		"Domain Type": "Federal Agency",
 		"Agency": "National Aeronautics and Space Administration",
-		"City": "Msfc",
+		"City": "MSFC",
 		"State": "AL"
 	},
 	{
@@ -27442,7 +27442,7 @@
 	{
 		"Domain Name": "nmcourt.fed.us",
 		"Domain Type": "Federal Agency",
-		"Agency": "The Judicial Branch (Courts)",
+		"Agency": "U.S. Courts",
 		"City": "Albuquerque",
 		"State": "NM"
 	},
@@ -27499,7 +27499,7 @@
 		"Domain Name": "nps.gov",
 		"Domain Type": "Federal Agency",
 		"Agency": "Department of the Interior",
-		"City": "Washington Dc",
+		"City": "Washington",
 		"State": "DC"
 	},
 	{
@@ -27597,7 +27597,7 @@
 		"Domain Name": "nswp.gov",
 		"Domain Type": "Federal Agency",
 		"Agency": "National Aeronautics and Space Administration",
-		"City": "Msfc",
+		"City": "MSFC",
 		"State": "AL"
 	},
 	{
@@ -28030,7 +28030,7 @@
 	{
 		"Domain Name": "pacer.gov",
 		"Domain Type": "Federal Agency",
-		"Agency": "The Judicial Branch (Courts)",
+		"Agency": "U.S. Courts",
 		"City": "Washington",
 		"State": "DC"
 	},
@@ -28142,7 +28142,7 @@
 	{
 		"Domain Name": "peacecorpsoig.gov",
 		"Domain Type": "Federal Agency",
-		"Agency": "U.S. Postal Service, Office of Inspector General",
+		"Agency": "U.S. Peace Corps",
 		"City": "Washington",
 		"State": "DC"
 	},
@@ -28787,7 +28787,7 @@
 		"Domain Name": "sandbox.gov",
 		"Domain Type": "Federal Agency",
 		"Agency": "General Services Administration",
-		"City": "Washinton",
+		"City": "Washington",
 		"State": "DC"
 	},
 	{
@@ -28856,7 +28856,7 @@
 	{
 		"Domain Name": "sc-us.gov",
 		"Domain Type": "Federal Agency",
-		"Agency": "The Judicial Branch (Courts)",
+		"Agency": "The Supreme Court",
 		"City": "Washington",
 		"State": "DC"
 	},
@@ -28906,20 +28906,20 @@
 		"Domain Name": "scijinks.gov",
 		"Domain Type": "Federal Agency",
 		"Agency": "National Aeronautics and Space Administration",
-		"City": "Msfc",
+		"City": "MSFC",
 		"State": "AL"
 	},
 	{
 		"Domain Name": "scinet-test.gov",
 		"Domain Type": "Federal Agency",
-		"Agency": "The Judicial Branch (Courts)",
+		"Agency": "The Supreme Court",
 		"City": "Washington",
 		"State": "DC"
 	},
 	{
 		"Domain Name": "scinet.gov",
 		"Domain Type": "Federal Agency",
-		"Agency": "The Judicial Branch (Courts)",
+		"Agency": "The Supreme Court",
 		"City": "Washington",
 		"State": "DC"
 	},
@@ -28933,7 +28933,7 @@
 	{
 		"Domain Name": "scus.gov",
 		"Domain Type": "Federal Agency",
-		"Agency": "The Judicial Branch (Courts)",
+		"Agency": "The Supreme Court",
 		"City": "Washington",
 		"State": "DC"
 	},
@@ -29269,7 +29269,7 @@
 	{
 		"Domain Name": "stateoig.gov",
 		"Domain Type": "Federal Agency",
-		"Agency": "Department of State OIG",
+		"Agency": "Department of State",
 		"City": "Arlington",
 		"State": "VA"
 	},
@@ -29367,21 +29367,21 @@
 	{
 		"Domain Name": "supreme-court.gov",
 		"Domain Type": "Federal Agency",
-		"Agency": "The Judicial Branch (Courts)",
+		"Agency": "The Supreme Court",
 		"City": "Washington",
 		"State": "DC"
 	},
 	{
 		"Domain Name": "supremecourt.gov",
 		"Domain Type": "Federal Agency",
-		"Agency": "The Judicial Branch (Courts)",
+		"Agency": "The Supreme Court",
 		"City": "Washington",
 		"State": "DC"
 	},
 	{
 		"Domain Name": "supremecourtus.gov",
 		"Domain Type": "Federal Agency",
-		"Agency": "The Judicial Branch (Courts)",
+		"Agency": "The Supreme Court",
 		"City": "Washington",
 		"State": "DC"
 	},
@@ -29969,7 +29969,7 @@
 	{
 		"Domain Name": "usbankruptcy.gov",
 		"Domain Type": "Federal Agency",
-		"Agency": "The Judicial Branch (Courts)",
+		"Agency": "U.S. Courts",
 		"City": "Washington",
 		"State": "DC"
 	},
@@ -29997,7 +29997,7 @@
 	{
 		"Domain Name": "usc.gov",
 		"Domain Type": "Federal Agency",
-		"Agency": "The Judicial Branch (Courts)",
+		"Agency": "U.S. Courts",
 		"City": "Washington",
 		"State": "DC"
 	},
@@ -30032,7 +30032,7 @@
 	{
 		"Domain Name": "uscavc.gov",
 		"Domain Type": "Federal Agency",
-		"Agency": "The Judicial Branch (Courts)",
+		"Agency": "U.S. Courts",
 		"City": "Washington",
 		"State": "DC"
 	},
@@ -30095,7 +30095,7 @@
 	{
 		"Domain Name": "uscourts.gov",
 		"Domain Type": "Federal Agency",
-		"Agency": "The Judicial Branch (Courts)",
+		"Agency": "U.S. Courts",
 		"City": "Washington",
 		"State": "DC"
 	},
@@ -30116,7 +30116,7 @@
 	{
 		"Domain Name": "uscva.gov",
 		"Domain Type": "Federal Agency",
-		"Agency": "The Judicial Branch (Courts)",
+		"Agency": "U.S. Courts",
 		"City": "Washington",
 		"State": "DC"
 	},
@@ -30201,7 +30201,7 @@
 		"Domain Name": "usgeo.gov",
 		"Domain Type": "Federal Agency",
 		"Agency": "National Aeronautics and Space Administration",
-		"City": "Msfc",
+		"City": "MSFC",
 		"State": "AL"
 	},
 	{
@@ -30312,7 +30312,7 @@
 	{
 		"Domain Name": "usprobation.gov",
 		"Domain Type": "Federal Agency",
-		"Agency": "The Judicial Branch (Courts)",
+		"Agency": "U.S. Courts",
 		"City": "Washington",
 		"State": "DC"
 	},
@@ -30340,7 +30340,7 @@
 	{
 		"Domain Name": "ussc.gov",
 		"Domain Type": "Federal Agency",
-		"Agency": "The Judicial Branch (Courts)",
+		"Agency": "U.S. Courts",
 		"City": "Washington",
 		"State": "DC"
 	},
@@ -30361,7 +30361,7 @@
 	{
 		"Domain Name": "ustaxcourt.gov",
 		"Domain Type": "Federal Agency",
-		"Agency": "The Judicial Branch (Courts)",
+		"Agency": "U.S. Courts",
 		"City": "Washington",
 		"State": "DC"
 	},
@@ -30452,7 +30452,7 @@
 	{
 		"Domain Name": "vetapp.gov",
 		"Domain Type": "Federal Agency",
-		"Agency": "The Judicial Branch (Courts)",
+		"Agency": "U.S. Courts",
 		"City": "Washington",
 		"State": "DC"
 	},
@@ -30543,7 +30543,7 @@
 	{
 		"Domain Name": "vote.gov",
 		"Domain Type": "Federal Agency",
-		"Agency": "Department of Justice",
+		"Agency": "General Services Administration",
 		"City": "Washington",
 		"State": "DC"
 	},
@@ -30551,7 +30551,7 @@
 		"Domain Name": "votebymail.gov",
 		"Domain Type": "Federal Agency",
 		"Agency": "General Services Administration",
-		"City": "SILVER SPRING",
+		"City": "Silver Spring",
 		"State": "MD"
 	},
 	{
@@ -35409,7 +35409,7 @@
 		"Domain Name": "jobsfortn.gov",
 		"Domain Type": "State/Local Govt",
 		"Agency": "Non-Federal Agency",
-		"City": "38401",
+		"City": "Nashville",
 		"State": "TN"
 	},
 	{
