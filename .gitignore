@@ -15,11 +15,13 @@ node_modules
 .gulp
 data2/
 data/temp/
+foo.js
 gulpfile.js
 helpers/
 data/18f.json
 data/18f-old.json
 data/18f*.json
+data/dom*.json
 package.json
 
 
