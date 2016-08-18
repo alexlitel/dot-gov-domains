@@ -156,6 +156,13 @@
 		"State": "CA"
 	},
 	{
+		"Domain Name": "agutah.gov",
+		"Domain Type": "State/Local Govt",
+		"Agency": "Non-Federal Agency",
+		"City": "Salt Lake City",
+		"State": "UT"
+	},
+	{
 		"Domain Name": "aha-nsn.gov",
 		"Domain Type": "Native Sovereign Nation",
 		"City": "Hogansburg",
@@ -685,12 +692,6 @@
 		"State": "MN"
 	},
 	{
-		"Domain Name": "antiochtownship-il.gov",
-		"Domain Type": "City",
-		"City": "Lake Villa",
-		"State": "IL"
-	},
-	{
 		"Domain Name": "antiochtownshipil.gov",
 		"Domain Type": "City",
 		"City": "Lake Villa",
@@ -794,12 +795,6 @@
 	},
 	{
 		"Domain Name": "arizonaserves.gov",
-		"Domain Type": "State/Local Govt",
-		"City": "Phoenix",
-		"State": "AZ"
-	},
-	{
-		"Domain Name": "arizonaturbocourt.gov",
 		"Domain Type": "State/Local Govt",
 		"City": "Phoenix",
 		"State": "AZ"
@@ -1489,12 +1484,6 @@
 		"State": "AZ"
 	},
 	{
-		"Domain Name": "azed.gov",
-		"Domain Type": "State/Local Govt",
-		"City": "Phoenix",
-		"State": "AZ"
-	},
-	{
 		"Domain Name": "azein.gov",
 		"Domain Type": "State/Local Govt",
 		"City": "Phoenix",
@@ -1514,12 +1503,6 @@
 	},
 	{
 		"Domain Name": "azepip.gov",
-		"Domain Type": "State/Local Govt",
-		"City": "Phoenix",
-		"State": "AZ"
-	},
-	{
-		"Domain Name": "azfirstthingsfirst.gov",
 		"Domain Type": "State/Local Govt",
 		"City": "Phoenix",
 		"State": "AZ"
@@ -1741,12 +1724,6 @@
 		"State": "AZ"
 	},
 	{
-		"Domain Name": "aznd.gov",
-		"Domain Type": "State/Local Govt",
-		"City": "Phoenix",
-		"State": "AZ"
-	},
-	{
 		"Domain Name": "aznet.gov",
 		"Domain Type": "State/Local Govt",
 		"City": "Phoenix",
@@ -1862,12 +1839,6 @@
 	},
 	{
 		"Domain Name": "azrra.gov",
-		"Domain Type": "State/Local Govt",
-		"City": "Phoenix",
-		"State": "AZ"
-	},
-	{
-		"Domain Name": "azruco.gov",
 		"Domain Type": "State/Local Govt",
 		"City": "Phoenix",
 		"State": "AZ"
@@ -2006,12 +1977,6 @@
 	},
 	{
 		"Domain Name": "azvoices.gov",
-		"Domain Type": "State/Local Govt",
-		"City": "Phoenix",
-		"State": "AZ"
-	},
-	{
-		"Domain Name": "azwater.gov",
 		"Domain Type": "State/Local Govt",
 		"City": "Phoenix",
 		"State": "AZ"
@@ -2599,6 +2564,13 @@
 		"State": "IL"
 	},
 	{
+		"Domain Name": "berwynheightsmd.gov",
+		"Domain Type": "City",
+		"Agency": "Non-Federal Agency",
+		"City": "Berwyn Heights",
+		"State": "MD"
+	},
+	{
 		"Domain Name": "bethanybeach-de.gov",
 		"Domain Type": "City",
 		"City": "Bethany Beach",
@@ -2621,6 +2593,13 @@
 		"Domain Type": "City",
 		"City": "Bethlehem",
 		"State": "PA"
+	},
+	{
+		"Domain Name": "betsylehmancenterma.gov",
+		"Domain Type": "State/Local Govt",
+		"Agency": "Non-Federal Agency",
+		"City": "Boston",
+		"State": "MA"
 	},
 	{
 		"Domain Name": "beverlyhills-ca.gov",
@@ -3127,6 +3106,13 @@
 		"State": "TX"
 	},
 	{
+		"Domain Name": "breckinridgecountyky.gov",
+		"Domain Type": "County",
+		"Agency": "Non-Federal Agency",
+		"City": "Hardinsburg",
+		"State": "KY"
+	},
+	{
 		"Domain Name": "bremenga.gov",
 		"Domain Type": "City",
 		"City": "Bremen",
@@ -3607,6 +3593,13 @@
 		"State": "OK"
 	},
 	{
+		"Domain Name": "cahtotribe-nsn.gov",
+		"Domain Type": "Native Sovereign Nation",
+		"Agency": "Indian Affairs",
+		"City": "Laytonville",
+		"State": "CA"
+	},
+	{
 		"Domain Name": "cahwnet.gov",
 		"Domain Type": "State/Local Govt",
 		"City": "Sacramento",
@@ -3703,12 +3696,6 @@
 		"State": "MA"
 	},
 	{
-		"Domain Name": "camdencountyga.gov",
-		"Domain Type": "County",
-		"City": "Woodbine",
-		"State": "GA"
-	},
-	{
 		"Domain Name": "camdencountync.gov",
 		"Domain Type": "County",
 		"City": "Camden",
@@ -3773,6 +3760,13 @@
 		"Domain Type": "City",
 		"City": "Canandaigua",
 		"State": "NY"
+	},
+	{
+		"Domain Name": "canbyoregon.gov",
+		"Domain Type": "State/Local Govt",
+		"Agency": "Non-Federal Agency",
+		"City": "Canby",
+		"State": "OR"
 	},
 	{
 		"Domain Name": "candlerco-ga.gov",
@@ -4027,6 +4021,13 @@
 		"State": "NY"
 	},
 	{
+		"Domain Name": "ccthita-nsn.gov",
+		"Domain Type": "Native Sovereign Nation",
+		"Agency": "Indian Affairs",
+		"City": "Juneau",
+		"State": "AK"
+	},
+	{
 		"Domain Name": "cdatribe-nsn.gov",
 		"Domain Type": "Native Sovereign Nation",
 		"City": "Plummer",
@@ -4235,6 +4236,13 @@
 		"Domain Type": "City",
 		"City": "Charlottesville",
 		"State": "VA"
+	},
+	{
+		"Domain Name": "charltoncountyga.gov",
+		"Domain Type": "County",
+		"Agency": "Non-Federal Agency",
+		"City": "Folkston",
+		"State": "GA"
 	},
 	{
 		"Domain Name": "chatham-ma.gov",
@@ -4687,6 +4695,13 @@
 		"State": "GA"
 	},
 	{
+		"Domain Name": "cityofburton-tx.gov",
+		"Domain Type": "City",
+		"Agency": "Non-Federal Agency",
+		"City": "Burton",
+		"State": "TX"
+	},
+	{
 		"Domain Name": "cityofcanalfulton-oh.gov",
 		"Domain Type": "City",
 		"City": "Canal Fulton",
@@ -4811,12 +4826,6 @@
 		"Domain Type": "City",
 		"City": "Farmersville",
 		"State": "CA"
-	},
-	{
-		"Domain Name": "cityoffarmington-ar.gov",
-		"Domain Type": "City",
-		"City": "Farmington",
-		"State": "AR"
 	},
 	{
 		"Domain Name": "cityoffolkston-ga.gov",
@@ -6061,12 +6070,6 @@
 		"State": "IL"
 	},
 	{
-		"Domain Name": "cookeville-tn.gov",
-		"Domain Type": "City",
-		"City": "Cookeville",
-		"State": "TN"
-	},
-	{
 		"Domain Name": "coonrapidsmn.gov",
 		"Domain Type": "City",
 		"City": "Coon Rapids",
@@ -6293,12 +6296,6 @@
 		"Domain Type": "City",
 		"City": "Covington",
 		"State": "KY"
-	},
-	{
-		"Domain Name": "covingtonwa.gov",
-		"Domain Type": "City",
-		"City": "Covington",
-		"State": "WA"
 	},
 	{
 		"Domain Name": "coworkforce.gov",
@@ -7555,12 +7552,6 @@
 		"State": "IA"
 	},
 	{
-		"Domain Name": "efiletexas.gov",
-		"Domain Type": "State/Local Govt",
-		"City": "Austin",
-		"State": "TX"
-	},
-	{
 		"Domain Name": "egremont-ma.gov",
 		"Domain Type": "State/Local Govt",
 		"City": "Egremont",
@@ -7933,6 +7924,13 @@
 		"State": "VA"
 	},
 	{
+		"Domain Name": "fairfieldcountyohio.gov",
+		"Domain Type": "County",
+		"Agency": "Non-Federal Agency",
+		"City": "Lancaster",
+		"State": "OH"
+	},
+	{
 		"Domain Name": "fairfieldoh.gov",
 		"Domain Type": "City",
 		"City": "Fairfield",
@@ -8107,12 +8105,6 @@
 		"State": "WI"
 	},
 	{
-		"Domain Name": "federalwaywa.gov",
-		"Domain Type": "City",
-		"City": "Federal Way",
-		"State": "WA"
-	},
-	{
 		"Domain Name": "fentresscountytn.gov",
 		"Domain Type": "County",
 		"City": "Jamestown",
@@ -8215,8 +8207,22 @@
 		"State": "FL"
 	},
 	{
+		"Domain Name": "flcrc.gov",
+		"Domain Type": "State/Local Govt",
+		"Agency": "Non-Federal Agency",
+		"City": "Tallahassee",
+		"State": "FL"
+	},
+	{
 		"Domain Name": "fldoi.gov",
 		"Domain Type": "State/Local Govt",
+		"City": "Tallahassee",
+		"State": "FL"
+	},
+	{
+		"Domain Name": "fldot.gov",
+		"Domain Type": "State/Local Govt",
+		"Agency": "Non-Federal Agency",
 		"City": "Tallahassee",
 		"State": "FL"
 	},
@@ -8305,12 +8311,6 @@
 		"State": "Texas"
 	},
 	{
-		"Domain Name": "florida.gov",
-		"Domain Type": "State/Local Govt",
-		"City": "Tallahassee",
-		"State": "FL"
-	},
-	{
 		"Domain Name": "floridaabusehotline.gov",
 		"Domain Type": "State/Local Govt",
 		"City": "Tallahassee",
@@ -8330,12 +8330,6 @@
 	},
 	{
 		"Domain Name": "floridahealthfinder.gov",
-		"Domain Type": "State/Local Govt",
-		"City": "Tallahassee",
-		"State": "FL"
-	},
-	{
-		"Domain Name": "floridalobbyist.gov",
 		"Domain Type": "State/Local Govt",
 		"City": "Tallahassee",
 		"State": "FL"
@@ -8659,22 +8653,10 @@
 		"State": "TX"
 	},
 	{
-		"Domain Name": "fortworth-tx.gov",
-		"Domain Type": "City",
-		"City": "Fort Worth",
-		"State": "TX"
-	},
-	{
 		"Domain Name": "fortworthtexas.gov",
 		"Domain Type": "City",
 		"City": "Fort Worth",
 		"State": "TX"
-	},
-	{
-		"Domain Name": "fostoriaohio.gov",
-		"Domain Type": "City",
-		"City": "Fostoria",
-		"State": "OH"
 	},
 	{
 		"Domain Name": "foxboroughma.gov",
@@ -8983,12 +8965,6 @@
 		"State": "GA"
 	},
 	{
-		"Domain Name": "gadol.gov",
-		"Domain Type": "State/Local Govt",
-		"City": "Atlanta",
-		"State": "GA"
-	},
-	{
 		"Domain Name": "gadsdencountyfl.gov",
 		"Domain Type": "County",
 		"City": "Quincy",
@@ -9163,6 +9139,13 @@
 		"State": "TN"
 	},
 	{
+		"Domain Name": "genevaohio.gov",
+		"Domain Type": "City",
+		"Agency": "Non-Federal Agency",
+		"City": "Geneva",
+		"State": "OH"
+	},
+	{
 		"Domain Name": "georgecountyms.gov",
 		"Domain Type": "County",
 		"City": "Lucedale",
@@ -9274,12 +9257,6 @@
 		"Domain Name": "gilariver-nsn.gov",
 		"Domain Type": "Native Sovereign Nation",
 		"City": "Sacaton",
-		"State": "AZ"
-	},
-	{
-		"Domain Name": "gilbertaz.gov",
-		"Domain Type": "City",
-		"City": "Gilbert",
 		"State": "AZ"
 	},
 	{
@@ -9517,16 +9494,17 @@
 		"State": "MI"
 	},
 	{
-		"Domain Name": "gradycountyga.gov",
-		"Domain Type": "County",
-		"City": "Cairo",
-		"State": "GA"
-	},
-	{
 		"Domain Name": "grafton-ma.gov",
 		"Domain Type": "City",
 		"City": "Grafton",
 		"State": "MA"
+	},
+	{
+		"Domain Name": "graftontwp-oh.gov",
+		"Domain Type": "State/Local Govt",
+		"Agency": "Non-Federal Agency",
+		"City": "Grafton Township",
+		"State": "OH"
 	},
 	{
 		"Domain Name": "graingercountytn.gov",
@@ -9887,6 +9865,13 @@
 		"Domain Type": "Native Sovereign Nation",
 		"City": "Dorr",
 		"State": "MI"
+	},
+	{
+		"Domain Name": "gunnisonco.gov",
+		"Domain Type": "City",
+		"Agency": "Non-Federal Agency",
+		"City": "Gunnison",
+		"State": "CO"
 	},
 	{
 		"Domain Name": "guntersvilleal.gov",
@@ -10441,6 +10426,13 @@
 		"State": "OH"
 	},
 	{
+		"Domain Name": "hedwigtx.gov",
+		"Domain Type": "City",
+		"Agency": "Non-Federal Agency",
+		"City": "Houston",
+		"State": "TX"
+	},
+	{
 		"Domain Name": "helenamt.gov",
 		"Domain Type": "City",
 		"City": "Helena",
@@ -10711,12 +10703,6 @@
 		"State": "NV"
 	},
 	{
-		"Domain Name": "homerglenil.gov",
-		"Domain Type": "City",
-		"City": "Homer Glen",
-		"State": "IL"
-	},
-	{
 		"Domain Name": "homewoodil.gov",
 		"Domain Type": "City",
 		"City": "Homewood",
@@ -10727,12 +10713,6 @@
 		"Domain Type": "City",
 		"City": "Hondo",
 		"State": "TX"
-	},
-	{
-		"Domain Name": "honolulu.gov",
-		"Domain Type": "State/Local Govt",
-		"City": "Honolulu",
-		"State": "HI"
 	},
 	{
 		"Domain Name": "hoopa-nsn.gov",
@@ -12512,6 +12492,13 @@
 		"State": "NJ"
 	},
 	{
+		"Domain Name": "lamarcountyms.gov",
+		"Domain Type": "County",
+		"Agency": "Non-Federal Agency",
+		"City": "Purvis",
+		"State": "MS"
+	},
+	{
 		"Domain Name": "lamoine-me.gov",
 		"Domain Type": "State/Local Govt",
 		"City": "Lamoine",
@@ -12648,6 +12635,13 @@
 		"Domain Type": "City",
 		"City": "Lawton",
 		"State": "MI"
+	},
+	{
+		"Domain Name": "lawtonok.gov",
+		"Domain Type": "City",
+		"Agency": "Non-Federal Agency",
+		"City": "Lawton",
+		"State": "OK"
 	},
 	{
 		"Domain Name": "lbts-fl.gov",
@@ -13122,6 +13116,13 @@
 		"Domain Type": "City",
 		"City": "Landenberg",
 		"State": "PA"
+	},
+	{
+		"Domain Name": "londonky.gov",
+		"Domain Type": "City",
+		"Agency": "Non-Federal Agency",
+		"City": "London",
+		"State": "KY"
 	},
 	{
 		"Domain Name": "loneoaktx.gov",
@@ -13692,6 +13693,20 @@
 		"Domain Type": "City",
 		"City": "Malvern",
 		"State": "AR"
+	},
+	{
+		"Domain Name": "mamaroneck-ny.gov",
+		"Domain Type": "City",
+		"Agency": "Non-Federal Agency",
+		"City": "Mamaroneck",
+		"State": "NY"
+	},
+	{
+		"Domain Name": "mamaroneckvillageny.gov",
+		"Domain Type": "City",
+		"Agency": "Non-Federal Agency",
+		"City": "Mamaroneck",
+		"State": "NY"
 	},
 	{
 		"Domain Name": "manasquan-nj.gov",
@@ -14426,12 +14441,6 @@
 		"State": "FL"
 	},
 	{
-		"Domain Name": "miami-fl.gov",
-		"Domain Type": "City",
-		"City": "Miami",
-		"State": "FL"
-	},
-	{
 		"Domain Name": "miamiaz.gov",
 		"Domain Type": "City",
 		"City": "Miami",
@@ -14556,6 +14565,20 @@
 		"Domain Type": "City",
 		"City": "Middlesex",
 		"State": "NJ"
+	},
+	{
+		"Domain Name": "middlesexcountynj.gov",
+		"Domain Type": "County",
+		"Agency": "Non-Federal Agency",
+		"City": "New Brunswick",
+		"State": "NJ"
+	},
+	{
+		"Domain Name": "middletonma.gov",
+		"Domain Type": "City",
+		"Agency": "Non-Federal Agency",
+		"City": "Middleton",
+		"State": "MA"
 	},
 	{
 		"Domain Name": "middletonnh.gov",
@@ -14853,12 +14876,6 @@
 	},
 	{
 		"Domain Name": "mndnr.gov",
-		"Domain Type": "State/Local Govt",
-		"City": "St. Paul",
-		"State": "MN"
-	},
-	{
-		"Domain Name": "mndot.gov",
 		"Domain Type": "State/Local Govt",
 		"City": "St. Paul",
 		"State": "MN"
@@ -15272,6 +15289,13 @@
 		"State": "MI"
 	},
 	{
+		"Domain Name": "msvfl.gov",
+		"Domain Type": "City",
+		"Agency": "Non-Federal Agency",
+		"City": "Miami Shores",
+		"State": "FL"
+	},
+	{
 		"Domain Name": "mt.gov",
 		"Domain Type": "State/Local Govt",
 		"City": "Helena",
@@ -15284,10 +15308,24 @@
 		"State": "DC"
 	},
 	{
+		"Domain Name": "mtcountyresults.gov",
+		"Domain Type": "State/Local Govt",
+		"Agency": "Non-Federal Agency",
+		"City": "Helena",
+		"State": "MT"
+	},
+	{
 		"Domain Name": "mtcrestedbutte-co.gov",
 		"Domain Type": "City",
 		"City": "Mt. Crested Butte",
 		"State": "CO"
+	},
+	{
+		"Domain Name": "mtelectionresults.gov",
+		"Domain Type": "State/Local Govt",
+		"Agency": "Non-Federal Agency",
+		"City": "Helena",
+		"State": "MT"
 	},
 	{
 		"Domain Name": "mtjuliet-tn.gov",
@@ -15396,12 +15434,6 @@
 		"Domain Type": "State/Local Govt",
 		"City": "Montgomery",
 		"State": "AL"
-	},
-	{
-		"Domain Name": "myalaska.gov",
-		"Domain Type": "State/Local Govt",
-		"City": "Juneau",
-		"State": "AK"
 	},
 	{
 		"Domain Name": "myarlingtontx.gov",
@@ -16022,12 +16054,6 @@
 		"State": "MA"
 	},
 	{
-		"Domain Name": "nehealthinsuranceinfo.gov",
-		"Domain Type": "State/Local Govt",
-		"City": "Lincoln",
-		"State": "NE"
-	},
-	{
 		"Domain Name": "nelsoncounty-va.gov",
 		"Domain Type": "County",
 		"City": "Lovingston",
@@ -16112,12 +16138,6 @@
 		"State": "MA"
 	},
 	{
-		"Domain Name": "newbergoregon.gov",
-		"Domain Type": "City",
-		"City": "Newberg",
-		"State": "OR"
-	},
-	{
 		"Domain Name": "newbostonnh.gov",
 		"Domain Type": "City",
 		"City": "New Boston",
@@ -16200,6 +16220,13 @@
 		"Domain Type": "City",
 		"City": "New Haven",
 		"State": "CT"
+	},
+	{
+		"Domain Name": "newhopemn.gov",
+		"Domain Type": "City",
+		"Agency": "Non-Federal Agency",
+		"City": "New Hope",
+		"State": "MN"
 	},
 	{
 		"Domain Name": "newingtonct.gov",
@@ -16350,6 +16377,13 @@
 		"Domain Type": "City",
 		"City": "New Windsor",
 		"State": "NY"
+	},
+	{
+		"Domain Name": "newwindsormd.gov",
+		"Domain Type": "City",
+		"Agency": "Non-Federal Agency",
+		"City": "New Windsor",
+		"State": "MD"
 	},
 	{
 		"Domain Name": "newyorkhealth.gov",
@@ -16613,12 +16647,6 @@
 		"Domain Name": "njsecurities.gov",
 		"Domain Type": "State/Local Govt",
 		"City": "Trenton",
-		"State": "NJ"
-	},
-	{
-		"Domain Name": "njseniorgold.gov",
-		"Domain Type": "State/Local Govt",
-		"City": "Mercerville",
 		"State": "NJ"
 	},
 	{
@@ -16944,6 +16972,13 @@
 		"Domain Type": "City",
 		"City": "North Vernon",
 		"State": "IN"
+	},
+	{
+		"Domain Name": "nortoncountyks.gov",
+		"Domain Type": "County",
+		"Agency": "Non-Federal Agency",
+		"City": "Norton",
+		"State": "KS"
 	},
 	{
 		"Domain Name": "nortonva.gov",
@@ -17358,12 +17393,6 @@
 		"Domain Type": "County",
 		"City": "Lexington",
 		"State": "GA"
-	},
-	{
-		"Domain Name": "oh.gov",
-		"Domain Type": "State/Local Govt",
-		"City": "Columbus",
-		"State": "OH"
 	},
 	{
 		"Domain Name": "ohio.gov",
@@ -17858,12 +17887,6 @@
 		"State": "VT"
 	},
 	{
-		"Domain Name": "orclimatechange.gov",
-		"Domain Type": "State/Local Govt",
-		"City": "Salem",
-		"State": "OR"
-	},
-	{
 		"Domain Name": "oregon.gov",
 		"Domain Type": "State/Local Govt",
 		"City": "Salem",
@@ -17884,6 +17907,13 @@
 	{
 		"Domain Name": "oregonbudget.gov",
 		"Domain Type": "State/Local Govt",
+		"City": "Salem",
+		"State": "OR"
+	},
+	{
+		"Domain Name": "oregonbuys.gov",
+		"Domain Type": "State/Local Govt",
+		"Agency": "Non-Federal Agency",
 		"City": "Salem",
 		"State": "OR"
 	},
@@ -17994,6 +18024,13 @@
 		"Domain Type": "City",
 		"City": "Ormond Beach",
 		"State": "FL"
+	},
+	{
+		"Domain Name": "oronocotownship-mn.gov",
+		"Domain Type": "City",
+		"Agency": "Non-Federal Agency",
+		"City": "Oronoco",
+		"State": "MN"
 	},
 	{
 		"Domain Name": "orovalleyaz.gov",
@@ -18156,6 +18193,13 @@
 		"Domain Type": "City",
 		"City": "Paducah",
 		"State": "KY"
+	},
+	{
+		"Domain Name": "pageaz.gov",
+		"Domain Type": "City",
+		"Agency": "Non-Federal Agency",
+		"City": "Page",
+		"State": "AZ"
 	},
 	{
 		"Domain Name": "pahouse.gov",
@@ -18380,6 +18424,20 @@
 		"State": "IA"
 	},
 	{
+		"Domain Name": "paymaine.gov",
+		"Domain Type": "State/Local Govt",
+		"Agency": "Non-Federal Agency",
+		"City": "Augusta",
+		"State": "ME"
+	},
+	{
+		"Domain Name": "paynecountyok.gov",
+		"Domain Type": "County",
+		"Agency": "Non-Federal Agency",
+		"City": "Stillwater",
+		"State": "OK"
+	},
+	{
 		"Domain Name": "paysonaz.gov",
 		"Domain Type": "City",
 		"City": "Payson",
@@ -18548,12 +18606,6 @@
 		"State": "TX"
 	},
 	{
-		"Domain Name": "phc-nsn.gov",
-		"Domain Type": "Native Sovereign Nation",
-		"City": "Princeton",
-		"State": "ME"
-	},
-	{
 		"Domain Name": "phila.gov",
 		"Domain Type": "City",
 		"City": "Philadelphia",
@@ -18698,12 +18750,6 @@
 		"State": "FL"
 	},
 	{
-		"Domain Name": "pineplains-ny.gov",
-		"Domain Type": "City",
-		"City": "Pine Plains",
-		"State": "NY"
-	},
-	{
 		"Domain Name": "pinetoplakesideaz.gov",
 		"Domain Type": "City",
 		"City": "Lakeside",
@@ -18776,12 +18822,6 @@
 		"State": "CT"
 	},
 	{
-		"Domain Name": "plandomeheights-ny.gov",
-		"Domain Type": "City",
-		"City": "Manhasset",
-		"State": "NY"
-	},
-	{
 		"Domain Name": "plano.gov",
 		"Domain Type": "City",
 		"City": "Plano",
@@ -18810,6 +18850,13 @@
 		"Domain Type": "City",
 		"City": "Pleasant Prairie",
 		"State": "Wisconsin"
+	},
+	{
+		"Domain Name": "pleasantprairiewi.gov",
+		"Domain Type": "City",
+		"Agency": "Non-Federal Agency",
+		"City": "Pleasant Prairie",
+		"State": "WI"
 	},
 	{
 		"Domain Name": "pleasantvalley-ny.gov",
@@ -18890,6 +18937,13 @@
 		"State": "IA"
 	},
 	{
+		"Domain Name": "polkcountyga.gov",
+		"Domain Type": "County",
+		"Agency": "Non-Federal Agency",
+		"City": "Cedartown",
+		"State": "GA"
+	},
+	{
 		"Domain Name": "polkcountyiowa.gov",
 		"Domain Type": "County",
 		"City": "Des Moines",
@@ -18914,12 +18968,6 @@
 		"State": "NY"
 	},
 	{
-		"Domain Name": "poncacityok.gov",
-		"Domain Type": "City",
-		"City": "Ponca City",
-		"State": "OK"
-	},
-	{
 		"Domain Name": "pooler-ga.gov",
 		"Domain Type": "City",
 		"City": "Pooler",
@@ -18936,6 +18984,13 @@
 		"Domain Type": "City",
 		"City": "Poplar Bluff",
 		"State": "MO"
+	},
+	{
+		"Domain Name": "poplarvillems.gov",
+		"Domain Type": "City",
+		"Agency": "Non-Federal Agency",
+		"City": "Poplarvile",
+		"State": "MS"
 	},
 	{
 		"Domain Name": "poquoson-va.gov",
@@ -19556,6 +19611,13 @@
 		"State": "NV"
 	},
 	{
+		"Domain Name": "renonv.gov",
+		"Domain Type": "City",
+		"Agency": "Non-Federal Agency",
+		"City": "Reno",
+		"State": "NV"
+	},
+	{
 		"Domain Name": "rensselaerny.gov",
 		"Domain Type": "City",
 		"City": "Rensselaer",
@@ -19656,12 +19718,6 @@
 		"Domain Type": "City",
 		"City": "Richmond",
 		"State": "VA"
-	},
-	{
-		"Domain Name": "richmondhill-ga.gov",
-		"Domain Type": "City",
-		"City": "Richmond Hill",
-		"State": "GA"
 	},
 	{
 		"Domain Name": "richmondindiana.gov",
@@ -19994,12 +20050,6 @@
 		"State": "NC"
 	},
 	{
-		"Domain Name": "rollinghillsestates-ca.gov",
-		"Domain Type": "City",
-		"City": "Rolling Hills Estates",
-		"State": "CA"
-	},
-	{
 		"Domain Name": "rollinghillsestatesca.gov",
 		"Domain Type": "City",
 		"City": "Rolling Hills Estates",
@@ -20186,12 +20236,6 @@
 		"State": "OK"
 	},
 	{
-		"Domain Name": "sacketsharbor-ny.gov",
-		"Domain Type": "City",
-		"City": "Sackets Harbor",
-		"State": "NY"
-	},
-	{
 		"Domain Name": "sacomaine.gov",
 		"Domain Type": "City",
 		"City": "Saco",
@@ -20374,6 +20418,13 @@
 	{
 		"Domain Name": "sanfrancisco-ca.gov",
 		"Domain Type": "City",
+		"City": "San Francisco",
+		"State": "CA"
+	},
+	{
+		"Domain Name": "sanfrancisco.gov",
+		"Domain Type": "City",
+		"Agency": "Non-Federal Agency",
 		"City": "San Francisco",
 		"State": "CA"
 	},
@@ -20574,12 +20625,6 @@
 		"Domain Type": "City",
 		"City": "Santa Barbara",
 		"State": "CA"
-	},
-	{
-		"Domain Name": "sc.gov",
-		"Domain Type": "State/Local Govt",
-		"City": "Columbia",
-		"State": "SC"
 	},
 	{
 		"Domain Name": "scag.gov",
@@ -20949,7 +20994,7 @@
 	},
 	{
 		"Domain Name": "serveindiana.gov",
-		"Domain Type": "Federal Agency",
+		"Domain Type": "State/Local Govt",
 		"City": "Indianapolis",
 		"State": "IN"
 	},
@@ -20960,16 +21005,17 @@
 		"State": "OH"
 	},
 	{
-		"Domain Name": "servga.gov",
-		"Domain Type": "State/Local Govt",
-		"City": "Atlanta",
-		"State": "GA"
-	},
-	{
 		"Domain Name": "seviercountytn.gov",
 		"Domain Type": "County",
 		"City": "Sevierville",
 		"State": "TN"
+	},
+	{
+		"Domain Name": "sf.gov",
+		"Domain Type": "City",
+		"Agency": "Non-Federal Agency",
+		"City": "San Francisco",
+		"State": "CA"
 	},
 	{
 		"Domain Name": "sfwmd.gov",
@@ -21890,12 +21936,6 @@
 		"State": "SD"
 	},
 	{
-		"Domain Name": "sturgismi.gov",
-		"Domain Type": "City",
-		"City": "Sturgis",
-		"State": "MI"
-	},
-	{
 		"Domain Name": "sturtevant-wi.gov",
 		"Domain Type": "City",
 		"City": "Sturtevant",
@@ -22226,6 +22266,13 @@
 		"State": "LA"
 	},
 	{
+		"Domain Name": "tallulahfallsga.gov",
+		"Domain Type": "City",
+		"Agency": "Non-Federal Agency",
+		"City": "Tallulah Falls",
+		"State": "GA"
+	},
+	{
 		"Domain Name": "tamacountyiowa.gov",
 		"Domain Type": "County",
 		"City": "Toledo",
@@ -22320,6 +22367,13 @@
 		"Domain Type": "City",
 		"City": "Tega Cay",
 		"State": "SC"
+	},
+	{
+		"Domain Name": "tejonindiantribe-nsn.gov",
+		"Domain Type": "Native Sovereign Nation",
+		"Agency": "Indian Affairs",
+		"City": "Bakersfield",
+		"State": "CA"
 	},
 	{
 		"Domain Name": "telluride-co.gov",
@@ -22520,10 +22574,11 @@
 		"State": "TX"
 	},
 	{
-		"Domain Name": "thomascountyga.gov",
+		"Domain Name": "thomascountyks.gov",
 		"Domain Type": "County",
-		"City": "Thomasville",
-		"State": "GA"
+		"Agency": "Non-Federal Agency",
+		"City": "Colby",
+		"State": "KS"
 	},
 	{
 		"Domain Name": "thomasville-nc.gov",
@@ -22542,6 +22597,13 @@
 		"Domain Type": "City",
 		"City": "Thorne Bay",
 		"State": "AK"
+	},
+	{
+		"Domain Name": "thurstoncountywa.gov",
+		"Domain Type": "County",
+		"Agency": "Non-Federal Agency",
+		"City": "Olympia",
+		"State": "WA"
 	},
 	{
 		"Domain Name": "tiffinohio.gov",
@@ -22652,6 +22714,13 @@
 		"State": "TN"
 	},
 	{
+		"Domain Name": "tnfafsafrenzy.gov",
+		"Domain Type": "State/Local Govt",
+		"Agency": "Non-Federal Agency",
+		"City": "Nashville",
+		"State": "TN"
+	},
+	{
 		"Domain Name": "tniis.gov",
 		"Domain Type": "State/Local Govt",
 		"City": "Smyrna",
@@ -22691,12 +22760,6 @@
 		"Domain Name": "tntoolkit.gov",
 		"Domain Type": "State/Local Govt",
 		"City": "Smyrna",
-		"State": "TN"
-	},
-	{
-		"Domain Name": "tntreasury.gov",
-		"Domain Type": "State/Local Govt",
-		"City": "Nashville",
 		"State": "TN"
 	},
 	{
@@ -22784,9 +22847,10 @@
 		"State": "MA"
 	},
 	{
-		"Domain Name": "torranceca.gov",
-		"Domain Type": "City",
-		"City": "Torrance",
+		"Domain Name": "torresmartinez-nsn.gov",
+		"Domain Type": "Native Sovereign Nation",
+		"Agency": "Indian Affairs",
+		"City": "Thermal",
 		"State": "CA"
 	},
 	{
@@ -23138,6 +23202,13 @@
 		"State": "WV"
 	},
 	{
+		"Domain Name": "travelwyoming.gov",
+		"Domain Type": "State/Local Govt",
+		"Agency": "Non-Federal Agency",
+		"City": "Cheyenne",
+		"State": "WY"
+	},
+	{
 		"Domain Name": "traversecitymi.gov",
 		"Domain Type": "City",
 		"City": "Traverse City",
@@ -23268,6 +23339,13 @@
 		"Domain Type": "City",
 		"City": "Tualatin",
 		"State": "OR"
+	},
+	{
+		"Domain Name": "tuckerga.gov",
+		"Domain Type": "City",
+		"Agency": "Non-Federal Agency",
+		"City": "Tucker",
+		"State": "GA"
 	},
 	{
 		"Domain Name": "tucsonaz.gov",
@@ -23403,12 +23481,6 @@
 	},
 	{
 		"Domain Name": "txcourts.gov",
-		"Domain Type": "State/Local Govt",
-		"City": "Austin",
-		"State": "TX"
-	},
-	{
-		"Domain Name": "txdmv.gov",
 		"Domain Type": "State/Local Govt",
 		"City": "Austin",
 		"State": "TX"
@@ -23690,12 +23762,6 @@
 		"State": "IA"
 	},
 	{
-		"Domain Name": "vanmeteria.gov",
-		"Domain Type": "City",
-		"City": "Van Meter",
-		"State": "IA"
-	},
-	{
 		"Domain Name": "vbhil.gov",
 		"Domain Type": "City",
 		"City": "Barrington Hills",
@@ -23840,6 +23906,13 @@
 		"State": "VI"
 	},
 	{
+		"Domain Name": "vilascountywi.gov",
+		"Domain Type": "County",
+		"Agency": "Non-Federal Agency",
+		"City": "Eagle River",
+		"State": "WI"
+	},
+	{
 		"Domain Name": "villageofbabylonny.gov",
 		"Domain Type": "City",
 		"City": "Babylon",
@@ -23870,12 +23943,6 @@
 		"State": "NY"
 	},
 	{
-		"Domain Name": "villageofgouverneurny.gov",
-		"Domain Type": "City",
-		"City": "Gouverneur",
-		"State": "New York"
-	},
-	{
 		"Domain Name": "villageofhempsteadny.gov",
 		"Domain Type": "City",
 		"City": "Hemsptead",
@@ -23891,6 +23958,13 @@
 		"Domain Name": "villageoflindenhurstny.gov",
 		"Domain Type": "City",
 		"City": "Lindenhurst",
+		"State": "NY"
+	},
+	{
+		"Domain Name": "villageofmamaroneckny.gov",
+		"Domain Type": "City",
+		"Agency": "Non-Federal Agency",
+		"City": "Mamaroneck",
 		"State": "NY"
 	},
 	{
@@ -23951,6 +24025,13 @@
 		"Domain Name": "villageofquogueny.gov",
 		"Domain Type": "City",
 		"City": "Quogue",
+		"State": "NY"
+	},
+	{
+		"Domain Name": "villageofrhinebeckny.gov",
+		"Domain Type": "City",
+		"Agency": "Non-Federal Agency",
+		"City": "Rhinebeck",
 		"State": "NY"
 	},
 	{
@@ -24174,6 +24255,13 @@
 		"Domain Type": "City",
 		"City": "Wallingford",
 		"State": "CT"
+	},
+	{
+		"Domain Name": "walnutgrovems.gov",
+		"Domain Type": "City",
+		"Agency": "Non-Federal Agency",
+		"City": "Walnut Grove",
+		"State": "MS"
 	},
 	{
 		"Domain Name": "walpole-ma.gov",
@@ -24549,6 +24637,13 @@
 		"State": "FL"
 	},
 	{
+		"Domain Name": "weehawkennj.gov",
+		"Domain Type": "City",
+		"Agency": "Non-Federal Agency",
+		"City": "Weehawken",
+		"State": "NJ"
+	},
+	{
 		"Domain Name": "welaka-fl.gov",
 		"Domain Type": "City",
 		"City": "Welaka",
@@ -24717,6 +24812,13 @@
 		"State": "CT"
 	},
 	{
+		"Domain Name": "westjeffersonohio.gov",
+		"Domain Type": "City",
+		"Agency": "Non-Federal Agency",
+		"City": "West Jefferson",
+		"State": "OH"
+	},
+	{
 		"Domain Name": "westlinnoregon.gov",
 		"Domain Type": "City",
 		"City": "West Linn",
@@ -24757,6 +24859,13 @@
 		"Domain Type": "City",
 		"City": "Weston",
 		"State": "CT"
+	},
+	{
+		"Domain Name": "westonfl.gov",
+		"Domain Type": "City",
+		"Agency": "Non-Federal Agency",
+		"City": "Weston",
+		"State": "FL"
 	},
 	{
 		"Domain Name": "westonwi.gov",
@@ -24829,12 +24938,6 @@
 		"Domain Type": "City",
 		"City": "Westwood",
 		"State": "NJ"
-	},
-	{
-		"Domain Name": "wethersfieldct.gov",
-		"Domain Type": "City",
-		"City": "Wethersfield",
-		"State": "CT"
 	},
 	{
 		"Domain Name": "wheelingil.gov",
@@ -25735,12 +25838,6 @@
 		"Domain Type": "County",
 		"City": "Prescott",
 		"State": "AZ"
-	},
-	{
-		"Domain Name": "ydsp-nsn.gov",
-		"Domain Type": "Native Sovereign Nation",
-		"City": "El Pas",
-		"State": "TX"
 	},
 	{
 		"Domain Name": "yochadehe-nsn.gov",

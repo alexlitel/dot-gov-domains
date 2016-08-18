@@ -1819,21 +1819,6 @@
 		"Broken Www": false
 	},
 	{
-		"Domain Name": "nstl.gov",
-		"Canonical Url": "http://nstl.gov",
-		"Redirect": false,
-		"Live": false,
-		"Agency": "Department of Agriculture",
-		"City": "Ames",
-		"State": "IA",
-		"Valid Https": false,
-		"Defaults To Https": false,
-		"Downgrades Https": false,
-		"Strictly Forces Https": false,
-		"Broken Root": true,
-		"Broken Www": true
-	},
-	{
 		"Domain Name": "nutrition.gov",
 		"Canonical Url": "http://www.nutrition.gov",
 		"Redirect": false,
@@ -2030,21 +2015,6 @@
 		"Strictly Forces Https": false,
 		"Broken Root": true,
 		"Broken Www": true
-	},
-	{
-		"Domain Name": "wildfire.gov",
-		"Canonical Url": "http://www.wildfire.gov",
-		"Redirect": false,
-		"Live": true,
-		"Agency": "Department of Agriculture",
-		"City": "Boise",
-		"State": "ID",
-		"Valid Https": false,
-		"Defaults To Https": false,
-		"Downgrades Https": false,
-		"Strictly Forces Https": false,
-		"Broken Root": true,
-		"Broken Www": false
 	},
 	{
 		"Domain Name": "womenfarmerclaims.gov",
@@ -2425,21 +2395,6 @@
 		"Broken Www": false
 	},
 	{
-		"Domain Name": "fishwatch.gov",
-		"Canonical Url": "http://www.fishwatch.gov",
-		"Redirect": false,
-		"Live": true,
-		"Agency": "Department of Commerce",
-		"City": "Silver Spring",
-		"State": "MD",
-		"Valid Https": false,
-		"Defaults To Https": false,
-		"Downgrades Https": false,
-		"Strictly Forces Https": false,
-		"Broken Root": true,
-		"Broken Www": false
-	},
-	{
 		"Domain Name": "getyouhome.gov",
 		"Canonical Url": "http://www.getyouhome.gov",
 		"Redirect": true,
@@ -2696,6 +2651,21 @@
 		"Strictly Forces Https": false,
 		"Broken Root": false,
 		"Broken Www": false
+	},
+	{
+		"Domain Name": "privacyshield.gov",
+		"Canonical Url": "http://privacyshield.gov",
+		"Redirect": false,
+		"Live": false,
+		"Agency": "Department of Commerce",
+		"City": "Washington",
+		"State": "DC",
+		"Valid Https": false,
+		"Defaults To Https": false,
+		"Downgrades Https": false,
+		"Strictly Forces Https": false,
+		"Broken Root": true,
+		"Broken Www": true
 	},
 	{
 		"Domain Name": "pscr.gov",
@@ -3000,6 +2970,21 @@
 		"Strictly Forces Https": false,
 		"Broken Root": false,
 		"Broken Www": false
+	},
+	{
+		"Domain Name": "dc3on.gov",
+		"Canonical Url": "http://dc3on.gov",
+		"Redirect": false,
+		"Live": false,
+		"Agency": "Department of Defense",
+		"City": "Linthicum",
+		"State": "MD",
+		"Valid Https": false,
+		"Defaults To Https": false,
+		"Downgrades Https": false,
+		"Strictly Forces Https": false,
+		"Broken Root": true,
+		"Broken Www": true
 	},
 	{
 		"Domain Name": "defense.gov",
@@ -3363,21 +3348,6 @@
 		"Broken Www": false
 	},
 	{
-		"Domain Name": "usandc.gov",
-		"Canonical Url": "http://www.usandc.gov",
-		"Redirect": false,
-		"Live": true,
-		"Agency": "Department of Defense",
-		"City": "Patrick AFB",
-		"State": "FL",
-		"Valid Https": false,
-		"Defaults To Https": false,
-		"Downgrades Https": false,
-		"Strictly Forces Https": false,
-		"Broken Root": true,
-		"Broken Www": false
-	},
-	{
 		"Domain Name": "aapi.gov",
 		"Canonical Url": "http://www.aapi.gov",
 		"Redirect": true,
@@ -3480,21 +3450,6 @@
 		"State": "DC",
 		"Valid Https": true,
 		"Defaults To Https": true,
-		"Downgrades Https": false,
-		"Strictly Forces Https": false,
-		"Broken Root": false,
-		"Broken Www": false
-	},
-	{
-		"Domain Name": "education.gov",
-		"Canonical Url": "http://www.education.gov",
-		"Redirect": false,
-		"Live": true,
-		"Agency": "Department of Education",
-		"City": "Washington",
-		"State": "DC",
-		"Valid Https": false,
-		"Defaults To Https": false,
 		"Downgrades Https": false,
 		"Strictly Forces Https": false,
 		"Broken Root": false,
@@ -3651,21 +3606,6 @@
 		"Strictly Forces Https": false,
 		"Broken Root": true,
 		"Broken Www": false
-	},
-	{
-		"Domain Name": "arm.gov",
-		"Canonical Url": "http://arm.gov",
-		"Redirect": false,
-		"Live": false,
-		"Agency": "Department of Energy",
-		"City": "Richland",
-		"State": "WA",
-		"Valid Https": false,
-		"Defaults To Https": false,
-		"Downgrades Https": false,
-		"Strictly Forces Https": false,
-		"Broken Root": true,
-		"Broken Www": true
 	},
 	{
 		"Domain Name": "biomassboard.gov",
@@ -4533,21 +4473,6 @@
 		"Strictly Forces Https": false,
 		"Broken Root": false,
 		"Broken Www": false
-	},
-	{
-		"Domain Name": "unnpp.gov",
-		"Canonical Url": "http://unnpp.gov",
-		"Redirect": false,
-		"Live": false,
-		"Agency": "Department of Energy",
-		"City": "West Mifflin",
-		"State": "PA",
-		"Valid Https": false,
-		"Defaults To Https": false,
-		"Downgrades Https": false,
-		"Strictly Forces Https": false,
-		"Broken Root": true,
-		"Broken Www": true
 	},
 	{
 		"Domain Name": "unrpnet.gov",
@@ -6164,21 +6089,6 @@
 		"Broken Www": false
 	},
 	{
-		"Domain Name": "recoverymonth.gov",
-		"Canonical Url": "http://recoverymonth.gov",
-		"Redirect": false,
-		"Live": true,
-		"Agency": "Department of Health And Human Services",
-		"City": "Rockville",
-		"State": "MD",
-		"Valid Https": false,
-		"Defaults To Https": false,
-		"Downgrades Https": false,
-		"Strictly Forces Https": false,
-		"Broken Root": false,
-		"Broken Www": false
-	},
-	{
 		"Domain Name": "safeyouth.gov",
 		"Canonical Url": "http://www.safeyouth.gov",
 		"Redirect": true,
@@ -7149,6 +7059,36 @@
 		"Broken Www": false
 	},
 	{
+		"Domain Name": "atfonline.gov",
+		"Canonical Url": "http://atfonline.gov",
+		"Redirect": false,
+		"Live": false,
+		"Agency": "Department of Justice",
+		"City": "Washington",
+		"State": "DC",
+		"Valid Https": false,
+		"Defaults To Https": false,
+		"Downgrades Https": false,
+		"Strictly Forces Https": false,
+		"Broken Root": true,
+		"Broken Www": true
+	},
+	{
+		"Domain Name": "bats.gov",
+		"Canonical Url": "http://bats.gov",
+		"Redirect": false,
+		"Live": false,
+		"Agency": "Department of Justice",
+		"City": "Potomac",
+		"State": "MD",
+		"Valid Https": false,
+		"Defaults To Https": false,
+		"Downgrades Https": false,
+		"Strictly Forces Https": false,
+		"Broken Root": true,
+		"Broken Www": true
+	},
+	{
 		"Domain Name": "biometriccoe.gov",
 		"Canonical Url": "http://www.biometriccoe.gov",
 		"Redirect": true,
@@ -7208,6 +7148,21 @@
 		"Strictly Forces Https": false,
 		"Broken Root": true,
 		"Broken Www": false
+	},
+	{
+		"Domain Name": "cjis.gov",
+		"Canonical Url": "http://cjis.gov",
+		"Redirect": false,
+		"Live": false,
+		"Agency": "Department of Justice",
+		"City": "Washington",
+		"State": "DC",
+		"Valid Https": false,
+		"Defaults To Https": false,
+		"Downgrades Https": false,
+		"Strictly Forces Https": false,
+		"Broken Root": true,
+		"Broken Www": true
 	},
 	{
 		"Domain Name": "crimesolutions.gov",
@@ -7286,6 +7241,21 @@
 		"Broken Www": false
 	},
 	{
+		"Domain Name": "deaecom.gov",
+		"Canonical Url": "http://deaecom.gov",
+		"Redirect": false,
+		"Live": false,
+		"Agency": "Department of Justice",
+		"City": "Potomac",
+		"State": "MD",
+		"Valid Https": false,
+		"Defaults To Https": false,
+		"Downgrades Https": false,
+		"Strictly Forces Https": false,
+		"Broken Root": true,
+		"Broken Www": true
+	},
+	{
 		"Domain Name": "deals.gov",
 		"Canonical Url": "http://deals.gov",
 		"Redirect": false,
@@ -7317,6 +7287,21 @@
 		"Broken Www": false
 	},
 	{
+		"Domain Name": "doj.gov",
+		"Canonical Url": "http://doj.gov",
+		"Redirect": false,
+		"Live": false,
+		"Agency": "Department of Justice",
+		"City": "Potomac",
+		"State": "MD",
+		"Valid Https": false,
+		"Defaults To Https": false,
+		"Downgrades Https": false,
+		"Strictly Forces Https": false,
+		"Broken Root": true,
+		"Broken Www": true
+	},
+	{
 		"Domain Name": "dsac.gov",
 		"Canonical Url": "https://www.dsac.gov",
 		"Redirect": false,
@@ -7330,6 +7315,66 @@
 		"Strictly Forces Https": true,
 		"Broken Root": false,
 		"Broken Www": false
+	},
+	{
+		"Domain Name": "eguardian.gov",
+		"Canonical Url": "http://eguardian.gov",
+		"Redirect": false,
+		"Live": false,
+		"Agency": "Department of Justice",
+		"City": "Washington",
+		"State": "DC",
+		"Valid Https": false,
+		"Defaults To Https": false,
+		"Downgrades Https": false,
+		"Strictly Forces Https": false,
+		"Broken Root": true,
+		"Broken Www": true
+	},
+	{
+		"Domain Name": "epic.gov",
+		"Canonical Url": "http://epic.gov",
+		"Redirect": false,
+		"Live": false,
+		"Agency": "Department of Justice",
+		"City": "Rockville",
+		"State": "MD",
+		"Valid Https": false,
+		"Defaults To Https": false,
+		"Downgrades Https": false,
+		"Strictly Forces Https": false,
+		"Broken Root": true,
+		"Broken Www": true
+	},
+	{
+		"Domain Name": "epic2.gov",
+		"Canonical Url": "http://epic2.gov",
+		"Redirect": false,
+		"Live": false,
+		"Agency": "Department of Justice",
+		"City": "Arlington ",
+		"State": "VA",
+		"Valid Https": false,
+		"Defaults To Https": false,
+		"Downgrades Https": false,
+		"Strictly Forces Https": false,
+		"Broken Root": true,
+		"Broken Www": true
+	},
+	{
+		"Domain Name": "esp.gov",
+		"Canonical Url": "http://esp.gov",
+		"Redirect": false,
+		"Live": false,
+		"Agency": "Department of Justice",
+		"City": "Falls Church",
+		"State": "VA",
+		"Valid Https": false,
+		"Defaults To Https": false,
+		"Downgrades Https": false,
+		"Strictly Forces Https": false,
+		"Broken Root": true,
+		"Broken Www": true
 	},
 	{
 		"Domain Name": "espanolforlawenforcement.gov",
@@ -7422,6 +7467,21 @@
 		"Strictly Forces Https": false,
 		"Broken Root": false,
 		"Broken Www": false
+	},
+	{
+		"Domain Name": "forensicscience.gov",
+		"Canonical Url": "http://forensicscience.gov",
+		"Redirect": false,
+		"Live": false,
+		"Agency": "Department of Justice",
+		"City": "Washington",
+		"State": "DC",
+		"Valid Https": false,
+		"Defaults To Https": false,
+		"Downgrades Https": false,
+		"Strictly Forces Https": false,
+		"Broken Root": true,
+		"Broken Www": true
 	},
 	{
 		"Domain Name": "forfeiture.gov",
@@ -7578,6 +7638,51 @@
 		"Broken Www": false
 	},
 	{
+		"Domain Name": "learnatf.gov",
+		"Canonical Url": "http://learnatf.gov",
+		"Redirect": false,
+		"Live": false,
+		"Agency": "Department of Justice",
+		"City": "Washington",
+		"State": "DC",
+		"Valid Https": false,
+		"Defaults To Https": false,
+		"Downgrades Https": false,
+		"Strictly Forces Https": false,
+		"Broken Root": true,
+		"Broken Www": true
+	},
+	{
+		"Domain Name": "learndoj.gov",
+		"Canonical Url": "http://learndoj.gov",
+		"Redirect": false,
+		"Live": false,
+		"Agency": "Department of Justice",
+		"City": "Washington",
+		"State": "DC",
+		"Valid Https": false,
+		"Defaults To Https": false,
+		"Downgrades Https": false,
+		"Strictly Forces Https": false,
+		"Broken Root": true,
+		"Broken Www": true
+	},
+	{
+		"Domain Name": "leo.gov",
+		"Canonical Url": "http://leo.gov",
+		"Redirect": false,
+		"Live": false,
+		"Agency": "Department of Justice",
+		"City": "Potomac",
+		"State": "MD",
+		"Valid Https": false,
+		"Defaults To Https": false,
+		"Downgrades Https": false,
+		"Strictly Forces Https": false,
+		"Broken Root": true,
+		"Broken Www": true
+	},
+	{
 		"Domain Name": "lep.gov",
 		"Canonical Url": "http://www.lep.gov",
 		"Redirect": false,
@@ -7591,6 +7696,21 @@
 		"Strictly Forces Https": false,
 		"Broken Root": false,
 		"Broken Www": false
+	},
+	{
+		"Domain Name": "lookstoogood.gov",
+		"Canonical Url": "http://lookstoogood.gov",
+		"Redirect": false,
+		"Live": false,
+		"Agency": "Department of Justice",
+		"City": "Fairmont",
+		"State": "WV",
+		"Valid Https": false,
+		"Defaults To Https": false,
+		"Downgrades Https": false,
+		"Strictly Forces Https": false,
+		"Broken Root": true,
+		"Broken Www": true
 	},
 	{
 		"Domain Name": "lookstoogoodtobetrue.gov",
@@ -7637,6 +7757,21 @@
 		"Strictly Forces Https": true,
 		"Broken Root": false,
 		"Broken Www": false
+	},
+	{
+		"Domain Name": "methresources.gov",
+		"Canonical Url": "http://methresources.gov",
+		"Redirect": false,
+		"Live": false,
+		"Agency": "Department of Justice",
+		"City": "Potomac",
+		"State": "MD",
+		"Valid Https": false,
+		"Defaults To Https": false,
+		"Downgrades Https": false,
+		"Strictly Forces Https": false,
+		"Broken Root": true,
+		"Broken Www": true
 	},
 	{
 		"Domain Name": "namus.gov",
@@ -7729,6 +7864,21 @@
 		"Broken Www": false
 	},
 	{
+		"Domain Name": "nicsezcheckfbi.gov",
+		"Canonical Url": "http://nicsezcheckfbi.gov",
+		"Redirect": false,
+		"Live": false,
+		"Agency": "Department of Justice",
+		"City": "Washington",
+		"State": "DC",
+		"Valid Https": false,
+		"Defaults To Https": false,
+		"Downgrades Https": false,
+		"Strictly Forces Https": false,
+		"Broken Root": true,
+		"Broken Www": true
+	},
+	{
 		"Domain Name": "niem.gov",
 		"Canonical Url": "https://www.niem.gov",
 		"Redirect": false,
@@ -7773,6 +7923,21 @@
 		"Strictly Forces Https": false,
 		"Broken Root": false,
 		"Broken Www": false
+	},
+	{
+		"Domain Name": "nsopr.gov",
+		"Canonical Url": "http://nsopr.gov",
+		"Redirect": false,
+		"Live": false,
+		"Agency": "Department of Justice",
+		"City": "Tallahassee",
+		"State": "FL",
+		"Valid Https": false,
+		"Defaults To Https": false,
+		"Downgrades Https": false,
+		"Strictly Forces Https": false,
+		"Broken Root": true,
+		"Broken Www": true
 	},
 	{
 		"Domain Name": "nsopw.gov",
@@ -7898,6 +8063,21 @@
 		"Broken Www": false
 	},
 	{
+		"Domain Name": "psn.gov",
+		"Canonical Url": "http://psn.gov",
+		"Redirect": false,
+		"Live": false,
+		"Agency": "Department of Justice",
+		"City": "Rocckville",
+		"State": "MD",
+		"Valid Https": false,
+		"Defaults To Https": false,
+		"Downgrades Https": false,
+		"Strictly Forces Https": false,
+		"Broken Root": true,
+		"Broken Www": true
+	},
+	{
 		"Domain Name": "psob.gov",
 		"Canonical Url": "https://www.psob.gov",
 		"Redirect": false,
@@ -8004,6 +8184,21 @@
 		"Strictly Forces Https": false,
 		"Broken Root": false,
 		"Broken Www": false
+	},
+	{
+		"Domain Name": "techtrack.gov",
+		"Canonical Url": "http://techtrack.gov",
+		"Redirect": false,
+		"Live": false,
+		"Agency": "Department of Justice",
+		"City": "Arlington",
+		"State": "VA",
+		"Valid Https": false,
+		"Defaults To Https": false,
+		"Downgrades Https": false,
+		"Strictly Forces Https": false,
+		"Broken Root": true,
+		"Broken Www": true
 	},
 	{
 		"Domain Name": "tribaljusticeandsafety.gov",
@@ -8254,21 +8449,6 @@
 		"Canonical Url": "http://www.govbenefits.gov",
 		"Redirect": true,
 		"Redirect To": "http://www.benefits.gov/",
-		"Live": true,
-		"Agency": "Department of Labor",
-		"City": "Washington",
-		"State": "DC",
-		"Valid Https": false,
-		"Defaults To Https": false,
-		"Downgrades Https": false,
-		"Strictly Forces Https": false,
-		"Broken Root": false,
-		"Broken Www": false
-	},
-	{
-		"Domain Name": "govloans.gov",
-		"Canonical Url": "http://www.govloans.gov",
-		"Redirect": false,
 		"Live": true,
 		"Agency": "Department of Labor",
 		"City": "Washington",
@@ -8578,21 +8758,6 @@
 		"City": "Washington",
 		"State": "DC",
 		"Valid Https": false,
-		"Defaults To Https": false,
-		"Downgrades Https": false,
-		"Strictly Forces Https": false,
-		"Broken Root": false,
-		"Broken Www": false
-	},
-	{
-		"Domain Name": "iawg.gov",
-		"Canonical Url": "http://iawg.gov",
-		"Redirect": false,
-		"Live": true,
-		"Agency": "Department of State",
-		"City": "Washington",
-		"State": "DC",
-		"Valid Https": true,
 		"Defaults To Https": false,
 		"Downgrades Https": false,
 		"Strictly Forces Https": false,
@@ -9118,21 +9283,6 @@
 		"Broken Www": false
 	},
 	{
-		"Domain Name": "safertruck.gov",
-		"Canonical Url": "http://safertruck.gov",
-		"Redirect": false,
-		"Live": true,
-		"Agency": "Department of Transportation",
-		"City": "Washington",
-		"State": "DC",
-		"Valid Https": false,
-		"Defaults To Https": false,
-		"Downgrades Https": false,
-		"Strictly Forces Https": false,
-		"Broken Root": false,
-		"Broken Www": false
-	},
-	{
 		"Domain Name": "sharetheroadsafely.gov",
 		"Canonical Url": "http://www.sharetheroadsafely.gov",
 		"Redirect": false,
@@ -9161,21 +9311,6 @@
 		"Downgrades Https": false,
 		"Strictly Forces Https": false,
 		"Broken Root": false,
-		"Broken Www": false
-	},
-	{
-		"Domain Name": "sustainablecommunities.gov",
-		"Canonical Url": "https://www.sustainablecommunities.gov",
-		"Redirect": false,
-		"Live": true,
-		"Agency": "Department of Transportation",
-		"City": "Washington",
-		"State": "DC",
-		"Valid Https": true,
-		"Defaults To Https": true,
-		"Downgrades Https": false,
-		"Strictly Forces Https": true,
-		"Broken Root": true,
 		"Broken Www": false
 	},
 	{
@@ -9407,21 +9542,6 @@
 		"Strictly Forces Https": false,
 		"Broken Root": true,
 		"Broken Www": true
-	},
-	{
-		"Domain Name": "anstaskforce.gov",
-		"Canonical Url": "http://www.anstaskforce.gov",
-		"Redirect": false,
-		"Live": true,
-		"Agency": "Department of the Interior",
-		"City": "Arlington",
-		"State": "VA",
-		"Valid Https": false,
-		"Defaults To Https": false,
-		"Downgrades Https": false,
-		"Strictly Forces Https": false,
-		"Broken Root": false,
-		"Broken Www": false
 	},
 	{
 		"Domain Name": "bia.gov",
@@ -9739,21 +9859,6 @@
 		"Downgrades Https": false,
 		"Strictly Forces Https": false,
 		"Broken Root": true,
-		"Broken Www": false
-	},
-	{
-		"Domain Name": "firescience.gov",
-		"Canonical Url": "http://www.firescience.gov",
-		"Redirect": false,
-		"Live": true,
-		"Agency": "Department of the Interior",
-		"City": "Boise",
-		"State": "ID",
-		"Valid Https": true,
-		"Defaults To Https": false,
-		"Downgrades Https": false,
-		"Strictly Forces Https": false,
-		"Broken Root": false,
 		"Broken Www": false
 	},
 	{
@@ -10255,21 +10360,6 @@
 		"Broken Www": false
 	},
 	{
-		"Domain Name": "nifc.gov",
-		"Canonical Url": "http://www.nifc.gov",
-		"Redirect": false,
-		"Live": true,
-		"Agency": "Department of the Interior",
-		"City": "Boise",
-		"State": "ID",
-		"Valid Https": false,
-		"Defaults To Https": false,
-		"Downgrades Https": false,
-		"Strictly Forces Https": false,
-		"Broken Root": false,
-		"Broken Www": false
-	},
-	{
 		"Domain Name": "nolaenvironmental.gov",
 		"Canonical Url": "http://www.nolaenvironmental.gov",
 		"Redirect": false,
@@ -10327,22 +10417,6 @@
 		"Downgrades Https": false,
 		"Strictly Forces Https": false,
 		"Broken Root": false,
-		"Broken Www": false
-	},
-	{
-		"Domain Name": "osm.gov",
-		"Canonical Url": "http://www.osm.gov",
-		"Redirect": true,
-		"Redirect To": "http://www.osmre.gov/",
-		"Live": true,
-		"Agency": "Department of the Interior",
-		"City": "Washington",
-		"State": "DC",
-		"Valid Https": false,
-		"Defaults To Https": false,
-		"Downgrades Https": false,
-		"Strictly Forces Https": false,
-		"Broken Root": true,
 		"Broken Www": false
 	},
 	{
@@ -12728,22 +12802,6 @@
 		"Broken Www": false
 	},
 	{
-		"Domain Name": "hc.gov",
-		"Canonical Url": "http://hc.gov",
-		"Redirect": true,
-		"Redirect To": "https://www.healthcare.gov/",
-		"Live": true,
-		"Agency": "Executive Office of the President",
-		"City": "Washington",
-		"State": "DC",
-		"Valid Https": false,
-		"Defaults To Https": false,
-		"Downgrades Https": false,
-		"Strictly Forces Https": false,
-		"Broken Root": false,
-		"Broken Www": true
-	},
-	{
 		"Domain Name": "itdashboard.gov",
 		"Canonical Url": "https://itdashboard.gov",
 		"Redirect": false,
@@ -13604,21 +13662,6 @@
 		"Broken Www": false
 	},
 	{
-		"Domain Name": "fmc.gov",
-		"Canonical Url": "http://www.fmc.gov",
-		"Redirect": false,
-		"Live": true,
-		"Agency": "Federal Maritime Commission",
-		"City": "Washington",
-		"State": "DC",
-		"Valid Https": false,
-		"Defaults To Https": false,
-		"Downgrades Https": false,
-		"Strictly Forces Https": false,
-		"Broken Root": false,
-		"Broken Www": false
-	},
-	{
 		"Domain Name": "fmcs.gov",
 		"Canonical Url": "https://fmcs.gov",
 		"Redirect": false,
@@ -14393,6 +14436,21 @@
 		"Broken Www": false
 	},
 	{
+		"Domain Name": "app.gov",
+		"Canonical Url": "http://app.gov",
+		"Redirect": false,
+		"Live": false,
+		"Agency": "General Services Administration",
+		"City": "Washington",
+		"State": "DC",
+		"Valid Https": false,
+		"Defaults To Https": false,
+		"Downgrades Https": false,
+		"Strictly Forces Https": false,
+		"Broken Root": true,
+		"Broken Www": true
+	},
+	{
 		"Domain Name": "apps.gov",
 		"Canonical Url": "http://apps.gov",
 		"Redirect": false,
@@ -14622,21 +14680,6 @@
 		"Broken Www": false
 	},
 	{
-		"Domain Name": "computersforlearning.gov",
-		"Canonical Url": "http://computersforlearning.gov",
-		"Redirect": false,
-		"Live": true,
-		"Agency": "General Services Administration",
-		"City": "Arlington",
-		"State": "VA",
-		"Valid Https": true,
-		"Defaults To Https": false,
-		"Downgrades Https": false,
-		"Strictly Forces Https": false,
-		"Broken Root": false,
-		"Broken Www": false
-	},
-	{
 		"Domain Name": "connect.gov",
 		"Canonical Url": "http://www.connect.gov",
 		"Redirect": false,
@@ -14662,21 +14705,6 @@
 		"State": "DC",
 		"Valid Https": false,
 		"Defaults To Https": false,
-		"Downgrades Https": false,
-		"Strictly Forces Https": true,
-		"Broken Root": false,
-		"Broken Www": false
-	},
-	{
-		"Domain Name": "contractdirectory.gov",
-		"Canonical Url": "https://www.contractdirectory.gov",
-		"Redirect": false,
-		"Live": true,
-		"Agency": "General Services Administration",
-		"City": "Arlington",
-		"State": "VA",
-		"Valid Https": true,
-		"Defaults To Https": true,
 		"Downgrades Https": false,
 		"Strictly Forces Https": true,
 		"Broken Root": false,
@@ -14767,21 +14795,6 @@
 		"State": "DC",
 		"Valid Https": true,
 		"Defaults To Https": true,
-		"Downgrades Https": false,
-		"Strictly Forces Https": false,
-		"Broken Root": false,
-		"Broken Www": false
-	},
-	{
-		"Domain Name": "eisenhowermemorial.gov",
-		"Canonical Url": "http://eisenhowermemorial.gov",
-		"Redirect": false,
-		"Live": true,
-		"Agency": "General Services Administration",
-		"City": "Washington",
-		"State": "DC",
-		"Valid Https": false,
-		"Defaults To Https": false,
 		"Downgrades Https": false,
 		"Strictly Forces Https": false,
 		"Broken Root": false,
@@ -15414,6 +15427,21 @@
 		"Broken Www": false
 	},
 	{
+		"Domain Name": "login.gov",
+		"Canonical Url": "http://login.gov",
+		"Redirect": false,
+		"Live": false,
+		"Agency": "General Services Administration",
+		"City": "Washington",
+		"State": "DC",
+		"Valid Https": false,
+		"Defaults To Https": false,
+		"Downgrades Https": false,
+		"Strictly Forces Https": false,
+		"Broken Root": true,
+		"Broken Www": true
+	},
+	{
 		"Domain Name": "myusa.gov",
 		"Canonical Url": "http://myusa.gov",
 		"Redirect": false,
@@ -15596,21 +15624,6 @@
 		"Broken Www": true
 	},
 	{
-		"Domain Name": "realestatesales.gov",
-		"Canonical Url": "http://realestatesales.gov",
-		"Redirect": false,
-		"Live": true,
-		"Agency": "General Services Administration",
-		"City": "Washington",
-		"State": "DC",
-		"Valid Https": true,
-		"Defaults To Https": false,
-		"Downgrades Https": false,
-		"Strictly Forces Https": false,
-		"Broken Root": false,
-		"Broken Www": false
-	},
-	{
 		"Domain Name": "realpropertyprofile.gov",
 		"Canonical Url": "https://www.realpropertyprofile.gov",
 		"Redirect": false,
@@ -15697,21 +15710,6 @@
 		"Defaults To Https": true,
 		"Downgrades Https": false,
 		"Strictly Forces Https": true,
-		"Broken Root": false,
-		"Broken Www": false
-	},
-	{
-		"Domain Name": "section508.gov",
-		"Canonical Url": "http://section508.gov",
-		"Redirect": false,
-		"Live": true,
-		"Agency": "General Services Administration",
-		"City": "Washington",
-		"State": "DC",
-		"Valid Https": false,
-		"Defaults To Https": false,
-		"Downgrades Https": false,
-		"Strictly Forces Https": false,
 		"Broken Root": false,
 		"Broken Www": false
 	},
@@ -16270,21 +16268,6 @@
 		"Broken Www": false
 	},
 	{
-		"Domain Name": "usccr.gov",
-		"Canonical Url": "http://www.usccr.gov",
-		"Redirect": false,
-		"Live": true,
-		"Agency": "Government Printing Office",
-		"City": "Washington",
-		"State": "DC",
-		"Valid Https": false,
-		"Defaults To Https": false,
-		"Downgrades Https": false,
-		"Strictly Forces Https": false,
-		"Broken Root": true,
-		"Broken Www": false
-	},
-	{
 		"Domain Name": "uscode.gov",
 		"Canonical Url": "http://www.uscode.gov",
 		"Redirect": true,
@@ -16313,21 +16296,6 @@
 		"Downgrades Https": false,
 		"Strictly Forces Https": false,
 		"Broken Root": false,
-		"Broken Www": false
-	},
-	{
-		"Domain Name": "welcometousa.gov",
-		"Canonical Url": "http://www.welcometousa.gov",
-		"Redirect": false,
-		"Live": true,
-		"Agency": "Government Printing Office",
-		"City": "Washington",
-		"State": "DC",
-		"Valid Https": false,
-		"Defaults To Https": false,
-		"Downgrades Https": false,
-		"Strictly Forces Https": false,
-		"Broken Root": true,
 		"Broken Www": false
 	},
 	{
@@ -16487,21 +16455,6 @@
 		"Canonical Url": "http://www.americanmemory.gov",
 		"Redirect": true,
 		"Redirect To": "http://www.loc.gov/",
-		"Live": true,
-		"Agency": "Library of Congress",
-		"City": "Washington",
-		"State": "DC",
-		"Valid Https": false,
-		"Defaults To Https": false,
-		"Downgrades Https": false,
-		"Strictly Forces Https": false,
-		"Broken Root": false,
-		"Broken Www": false
-	},
-	{
-		"Domain Name": "americaslibrary.gov",
-		"Canonical Url": "http://www.americaslibrary.gov",
-		"Redirect": false,
 		"Live": true,
 		"Agency": "Library of Congress",
 		"City": "Washington",
@@ -16949,21 +16902,6 @@
 		"Broken Www": false
 	},
 	{
-		"Domain Name": "nativeamericanheritagemonth.gov",
-		"Canonical Url": "http://nativeamericanheritagemonth.gov",
-		"Redirect": false,
-		"Live": true,
-		"Agency": "Library of Congress",
-		"City": "Washington",
-		"State": "DC",
-		"Valid Https": false,
-		"Defaults To Https": false,
-		"Downgrades Https": false,
-		"Strictly Forces Https": false,
-		"Broken Root": false,
-		"Broken Www": false
-	},
-	{
 		"Domain Name": "ndsa.gov",
 		"Canonical Url": "http://ndsa.gov",
 		"Redirect": false,
@@ -17057,22 +16995,6 @@
 		"Broken Www": false
 	},
 	{
-		"Domain Name": "thomas.gov",
-		"Canonical Url": "http://www.thomas.gov",
-		"Redirect": true,
-		"Redirect To": "https://www.congress.gov/",
-		"Live": true,
-		"Agency": "Library of Congress",
-		"City": "Washington",
-		"State": "DC",
-		"Valid Https": false,
-		"Defaults To Https": false,
-		"Downgrades Https": false,
-		"Strictly Forces Https": false,
-		"Broken Root": false,
-		"Broken Www": false
-	},
-	{
 		"Domain Name": "tps.gov",
 		"Canonical Url": "http://www.tps.gov",
 		"Redirect": true,
@@ -17091,22 +17013,6 @@
 	{
 		"Domain Name": "unitedstatescongress.gov",
 		"Canonical Url": "http://www.unitedstatescongress.gov",
-		"Redirect": true,
-		"Redirect To": "https://www.congress.gov/",
-		"Live": true,
-		"Agency": "Library of Congress",
-		"City": "Washington",
-		"State": "DC",
-		"Valid Https": false,
-		"Defaults To Https": false,
-		"Downgrades Https": false,
-		"Strictly Forces Https": false,
-		"Broken Root": false,
-		"Broken Www": false
-	},
-	{
-		"Domain Name": "uscongress.gov",
-		"Canonical Url": "http://www.uscongress.gov",
 		"Redirect": true,
 		"Redirect To": "https://www.congress.gov/",
 		"Live": true,
@@ -17212,21 +17118,6 @@
 		"Broken Www": false
 	},
 	{
-		"Domain Name": "mspb.gov",
-		"Canonical Url": "http://www.mspb.gov",
-		"Redirect": false,
-		"Live": true,
-		"Agency": "Merit Systems Protection Board",
-		"City": "Washington",
-		"State": "DC",
-		"Valid Https": false,
-		"Defaults To Https": false,
-		"Downgrades Https": false,
-		"Strictly Forces Https": false,
-		"Broken Root": false,
-		"Broken Www": false
-	},
-	{
 		"Domain Name": "mcc.gov",
 		"Canonical Url": "https://mcc.gov",
 		"Redirect": false,
@@ -17242,22 +17133,6 @@
 		"Broken Www": false
 	},
 	{
-		"Domain Name": "ecr.gov",
-		"Canonical Url": "http://www.ecr.gov",
-		"Redirect": true,
-		"Redirect To": "http://www.udall.gov/ourprograms/institute/institute.aspx",
-		"Live": true,
-		"Agency": "Morris K. Udall Foundation",
-		"City": "Tucson",
-		"State": "AZ",
-		"Valid Https": true,
-		"Defaults To Https": false,
-		"Downgrades Https": false,
-		"Strictly Forces Https": false,
-		"Broken Root": false,
-		"Broken Www": false
-	},
-	{
 		"Domain Name": "udall.gov",
 		"Canonical Url": "http://udall.gov",
 		"Redirect": false,
@@ -17265,21 +17140,6 @@
 		"Agency": "Morris K. Udall Foundation",
 		"City": "Tucson",
 		"State": "AZ",
-		"Valid Https": true,
-		"Defaults To Https": false,
-		"Downgrades Https": false,
-		"Strictly Forces Https": false,
-		"Broken Root": false,
-		"Broken Www": false
-	},
-	{
-		"Domain Name": "globe.gov",
-		"Canonical Url": "http://www.globe.gov",
-		"Redirect": false,
-		"Live": true,
-		"Agency": "National Aeronautics and Space Administration",
-		"City": "Greenbelt",
-		"State": "MD",
 		"Valid Https": true,
 		"Defaults To Https": false,
 		"Downgrades Https": false,
@@ -17365,21 +17225,6 @@
 		"Broken Www": false
 	},
 	{
-		"Domain Name": "911commission.gov",
-		"Canonical Url": "http://911commission.gov",
-		"Redirect": false,
-		"Live": true,
-		"Agency": "National Archives and Records Administration",
-		"City": "College Park",
-		"State": "MD",
-		"Valid Https": false,
-		"Defaults To Https": false,
-		"Downgrades Https": false,
-		"Strictly Forces Https": false,
-		"Broken Root": false,
-		"Broken Www": false
-	},
-	{
 		"Domain Name": "archives.gov",
 		"Canonical Url": "http://archives.gov",
 		"Redirect": false,
@@ -17387,21 +17232,6 @@
 		"Agency": "National Archives and Records Administration",
 		"City": "College Park",
 		"State": "MD",
-		"Valid Https": false,
-		"Defaults To Https": false,
-		"Downgrades Https": false,
-		"Strictly Forces Https": false,
-		"Broken Root": false,
-		"Broken Www": false
-	},
-	{
-		"Domain Name": "clintonlibrary.gov",
-		"Canonical Url": "http://clintonlibrary.gov",
-		"Redirect": false,
-		"Live": true,
-		"Agency": "National Archives and Records Administration",
-		"City": "Little Rock",
-		"State": "AR",
 		"Valid Https": false,
 		"Defaults To Https": false,
 		"Downgrades Https": false,
@@ -17430,21 +17260,6 @@
 		"Canonical Url": "http://www.fcic.gov",
 		"Redirect": true,
 		"Redirect To": "http://cybercemetery.unt.edu/archive/fcic/20110310172443/http://fcic.gov/",
-		"Live": true,
-		"Agency": "National Archives and Records Administration",
-		"City": "College Park",
-		"State": "MD",
-		"Valid Https": false,
-		"Defaults To Https": false,
-		"Downgrades Https": false,
-		"Strictly Forces Https": false,
-		"Broken Root": false,
-		"Broken Www": false
-	},
-	{
-		"Domain Name": "fordlibrarymuseum.gov",
-		"Canonical Url": "http://fordlibrarymuseum.gov",
-		"Redirect": false,
 		"Live": true,
 		"Agency": "National Archives and Records Administration",
 		"City": "College Park",
@@ -17486,21 +17301,6 @@
 		"Strictly Forces Https": false,
 		"Broken Root": false,
 		"Broken Www": false
-	},
-	{
-		"Domain Name": "history.gov",
-		"Canonical Url": "http://history.gov",
-		"Redirect": false,
-		"Live": false,
-		"Agency": "National Archives and Records Administration",
-		"City": "College Park",
-		"State": "MD",
-		"Valid Https": false,
-		"Defaults To Https": false,
-		"Downgrades Https": false,
-		"Strictly Forces Https": false,
-		"Broken Root": true,
-		"Broken Www": true
 	},
 	{
 		"Domain Name": "jimmycarterlibrary.gov",
@@ -17677,21 +17477,6 @@
 		"Agency": "National Council on Disability",
 		"City": "Washington",
 		"State": "DC",
-		"Valid Https": false,
-		"Defaults To Https": false,
-		"Downgrades Https": false,
-		"Strictly Forces Https": false,
-		"Broken Root": false,
-		"Broken Www": false
-	},
-	{
-		"Domain Name": "mycreditunion.gov",
-		"Canonical Url": "http://www.mycreditunion.gov",
-		"Redirect": false,
-		"Live": true,
-		"Agency": "National Credit Union Administration",
-		"City": "Alexandria",
-		"State": "VA",
 		"Valid Https": false,
 		"Defaults To Https": false,
 		"Downgrades Https": false,
@@ -18443,21 +18228,6 @@
 		"Broken Www": false
 	},
 	{
-		"Domain Name": "opm.gov",
-		"Canonical Url": "https://www.opm.gov",
-		"Redirect": false,
-		"Live": true,
-		"Agency": "Office of Personnel Management",
-		"City": "Macon",
-		"State": "GA",
-		"Valid Https": true,
-		"Defaults To Https": true,
-		"Downgrades Https": false,
-		"Strictly Forces Https": true,
-		"Broken Root": false,
-		"Broken Www": false
-	},
-	{
 		"Domain Name": "pac.gov",
 		"Canonical Url": "http://pac.gov",
 		"Redirect": false,
@@ -18971,6 +18741,21 @@
 		"Broken Www": false
 	},
 	{
+		"Domain Name": "stb.gov",
+		"Canonical Url": "http://stb.gov",
+		"Redirect": false,
+		"Live": false,
+		"Agency": "Surface Transportation Board (STB)",
+		"City": "Washington",
+		"State": "DC",
+		"Valid Https": false,
+		"Defaults To Https": false,
+		"Downgrades Https": false,
+		"Strictly Forces Https": false,
+		"Broken Root": true,
+		"Broken Www": true
+	},
+	{
 		"Domain Name": "tva.gov",
 		"Canonical Url": "https://tva.gov",
 		"Redirect": false,
@@ -19183,21 +18968,6 @@
 		"Broken Www": true
 	},
 	{
-		"Domain Name": "citizens.gov",
-		"Canonical Url": "http://citizens.gov",
-		"Redirect": false,
-		"Live": false,
-		"Agency": "The Legislative Branch (Congress)",
-		"City": "Washington",
-		"State": "DC",
-		"Valid Https": false,
-		"Defaults To Https": false,
-		"Downgrades Https": false,
-		"Strictly Forces Https": false,
-		"Broken Root": true,
-		"Broken Www": true
-	},
-	{
 		"Domain Name": "cosponsor.gov",
 		"Canonical Url": "http://cosponsor.gov",
 		"Redirect": false,
@@ -19213,38 +18983,8 @@
 		"Broken Www": true
 	},
 	{
-		"Domain Name": "csce.gov",
-		"Canonical Url": "http://csce.gov",
-		"Redirect": false,
-		"Live": true,
-		"Agency": "The Legislative Branch (Congress)",
-		"City": "Washington",
-		"State": "DC",
-		"Valid Https": false,
-		"Defaults To Https": false,
-		"Downgrades Https": false,
-		"Strictly Forces Https": false,
-		"Broken Root": false,
-		"Broken Www": false
-	},
-	{
 		"Domain Name": "democraticleader.gov",
 		"Canonical Url": "http://www.democraticleader.gov",
-		"Redirect": false,
-		"Live": true,
-		"Agency": "The Legislative Branch (Congress)",
-		"City": "Washington",
-		"State": "DC",
-		"Valid Https": false,
-		"Defaults To Https": false,
-		"Downgrades Https": false,
-		"Strictly Forces Https": false,
-		"Broken Root": false,
-		"Broken Www": false
-	},
-	{
-		"Domain Name": "democraticwhip.gov",
-		"Canonical Url": "http://www.democraticwhip.gov",
 		"Redirect": false,
 		"Live": true,
 		"Agency": "The Legislative Branch (Congress)",
@@ -19273,21 +19013,6 @@
 		"Broken Www": true
 	},
 	{
-		"Domain Name": "dems.gov",
-		"Canonical Url": "http://www.dems.gov",
-		"Redirect": false,
-		"Live": true,
-		"Agency": "The Legislative Branch (Congress)",
-		"City": "Washington DC",
-		"State": "DC",
-		"Valid Https": false,
-		"Defaults To Https": false,
-		"Downgrades Https": false,
-		"Strictly Forces Https": false,
-		"Broken Root": false,
-		"Broken Www": false
-	},
-	{
 		"Domain Name": "eseclab.gov",
 		"Canonical Url": "http://eseclab.gov",
 		"Redirect": true,
@@ -19304,38 +19029,8 @@
 		"Broken Www": true
 	},
 	{
-		"Domain Name": "fasab.gov",
-		"Canonical Url": "http://fasab.gov",
-		"Redirect": false,
-		"Live": true,
-		"Agency": "The Legislative Branch (Congress)",
-		"City": "Washington",
-		"State": "DC",
-		"Valid Https": false,
-		"Defaults To Https": false,
-		"Downgrades Https": false,
-		"Strictly Forces Https": false,
-		"Broken Root": false,
-		"Broken Www": false
-	},
-	{
 		"Domain Name": "gao.gov",
 		"Canonical Url": "http://gao.gov",
-		"Redirect": false,
-		"Live": true,
-		"Agency": "The Legislative Branch (Congress)",
-		"City": "Washington",
-		"State": "DC",
-		"Valid Https": false,
-		"Defaults To Https": false,
-		"Downgrades Https": false,
-		"Strictly Forces Https": false,
-		"Broken Root": false,
-		"Broken Www": false
-	},
-	{
-		"Domain Name": "gaonet.gov",
-		"Canonical Url": "http://gaonet.gov",
 		"Redirect": false,
 		"Live": true,
 		"Agency": "The Legislative Branch (Congress)",
@@ -19362,21 +19057,6 @@
 		"Strictly Forces Https": false,
 		"Broken Root": false,
 		"Broken Www": false
-	},
-	{
-		"Domain Name": "gopconference.gov",
-		"Canonical Url": "http://gopconference.gov",
-		"Redirect": false,
-		"Live": false,
-		"Agency": "The Legislative Branch (Congress)",
-		"City": "Washington",
-		"State": "DC",
-		"Valid Https": false,
-		"Defaults To Https": false,
-		"Downgrades Https": false,
-		"Strictly Forces Https": false,
-		"Broken Root": true,
-		"Broken Www": true
 	},
 	{
 		"Domain Name": "gopleader.gov",
@@ -19731,6 +19411,36 @@
 	{
 		"Domain Name": "uscvc.gov",
 		"Canonical Url": "http://uscvc.gov",
+		"Redirect": false,
+		"Live": false,
+		"Agency": "The Legislative Branch (Congress)",
+		"City": "Washington",
+		"State": "DC",
+		"Valid Https": false,
+		"Defaults To Https": false,
+		"Downgrades Https": false,
+		"Strictly Forces Https": false,
+		"Broken Root": true,
+		"Broken Www": true
+	},
+	{
+		"Domain Name": "ushouse.gov",
+		"Canonical Url": "http://ushouse.gov",
+		"Redirect": false,
+		"Live": false,
+		"Agency": "The Legislative Branch (Congress)",
+		"City": "Washington",
+		"State": "DC",
+		"Valid Https": false,
+		"Defaults To Https": false,
+		"Downgrades Https": false,
+		"Strictly Forces Https": false,
+		"Broken Root": true,
+		"Broken Www": true
+	},
+	{
+		"Domain Name": "ushr.gov",
+		"Canonical Url": "http://ushr.gov",
 		"Redirect": false,
 		"Live": false,
 		"Agency": "The Legislative Branch (Congress)",
@@ -20134,6 +19844,21 @@
 		"Downgrades Https": false,
 		"Strictly Forces Https": false,
 		"Broken Root": false,
+		"Broken Www": false
+	},
+	{
+		"Domain Name": "usccr.gov",
+		"Canonical Url": "http://www.usccr.gov",
+		"Redirect": false,
+		"Live": true,
+		"Agency": "U.S. Commission on Civil Rights",
+		"City": "Washington",
+		"State": "DC",
+		"Valid Https": false,
+		"Defaults To Https": false,
+		"Downgrades Https": false,
+		"Strictly Forces Https": false,
+		"Broken Root": true,
 		"Broken Www": false
 	},
 	{
@@ -20616,22 +20341,6 @@
 		"Canonical Url": "http://www.mail.gov",
 		"Redirect": true,
 		"Redirect To": "https://www.usps.com/",
-		"Live": true,
-		"Agency": "U.S. Postal Service",
-		"City": "Raleigh",
-		"State": "NC",
-		"Valid Https": false,
-		"Defaults To Https": false,
-		"Downgrades Https": false,
-		"Strictly Forces Https": false,
-		"Broken Root": false,
-		"Broken Www": false
-	},
-	{
-		"Domain Name": "postoffice.gov",
-		"Canonical Url": "http://www.postoffice.gov",
-		"Redirect": true,
-		"Redirect To": "",
 		"Live": true,
 		"Agency": "U.S. Postal Service",
 		"City": "Raleigh",
