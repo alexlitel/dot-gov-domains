@@ -217,6 +217,64 @@
 		"Domain Count": 2
 	},
 	{
+		"Agency": "Department Of Agriculture",
+		"Domains": [
+			"myplate.gov"
+		],
+		"Domain Count": 1
+	},
+	{
+		"Agency": "Department Of Commerce",
+		"Domains": [
+			"2020census.gov",
+			"cep.gov"
+		],
+		"Domain Count": 2
+	},
+	{
+		"Agency": "Department Of Defense",
+		"Domains": [
+			"businessdefense.gov",
+			"defensebusiness.gov",
+			"defensemanufacturing.gov",
+			"dodbusiness.gov",
+			"mibp.gov"
+		],
+		"Domain Count": 5
+	},
+	{
+		"Agency": "Department Of Homeland Security",
+		"Domains": [
+			"evus.gov"
+		],
+		"Domain Count": 1
+	},
+	{
+		"Agency": "Department Of Justice",
+		"Domains": [
+			"elderjustice.gov"
+		],
+		"Domain Count": 1
+	},
+	{
+		"Agency": "Department Of Labor",
+		"Domains": [
+			"worker.gov"
+		],
+		"Domain Count": 1
+	},
+	{
+		"Agency": "Department Of State",
+		"Domains": [
+			"devtestfan1.gov",
+			"preprodfan.gov",
+			"securitytestfan.gov",
+			"supportfan.gov",
+			"usaseanconnect.gov"
+		],
+		"Domain Count": 5
+	},
+	{
 		"Agency": "Department of Agriculture",
 		"Domains": [
 			"aff.gov",
@@ -284,10 +342,8 @@
 			"census.gov",
 			"civilrightsusa.gov",
 			"climate.gov",
-			"climatechange.gov",
 			"commerce.gov",
 			"coop-uspto.gov",
-			"digitalliteracy.gov",
 			"dnsops.gov",
 			"doc.gov",
 			"drought.gov",
@@ -296,7 +352,6 @@
 			"export.gov",
 			"fcsm.gov",
 			"firstnet.gov",
-			"fishwatch.gov",
 			"getyouhome.gov",
 			"globalentry.gov",
 			"goes-r.gov",
@@ -307,7 +362,6 @@
 			"mapstats.gov",
 			"marinecadastre.gov",
 			"mbda.gov",
-			"mgi.gov",
 			"nehrp.gov",
 			"nist.gov",
 			"noaa.gov",
@@ -328,7 +382,7 @@
 			"wdol.gov",
 			"weather.gov"
 		],
-		"Domain Count": 52
+		"Domain Count": 48
 	},
 	{
 		"Agency": "Department of Defense",
@@ -355,7 +409,6 @@
 			"mojavedata.gov",
 			"mtmc.gov",
 			"mypay.gov",
-			"ncr.gov",
 			"nro.gov",
 			"nrojr.gov",
 			"nsa.gov",
@@ -367,7 +420,7 @@
 			"tswg.gov",
 			"usandc.gov"
 		],
-		"Domain Count": 33
+		"Domain Count": 32
 	},
 	{
 		"Agency": "Department of Education",
@@ -414,7 +467,6 @@
 			"energysavers.gov",
 			"fnal.gov",
 			"fueleconomy.gov",
-			"hanford.gov",
 			"highperformancebuildings.gov",
 			"homeenergyscore.gov",
 			"hydrogen.gov",
@@ -451,13 +503,12 @@
 			"solardecathlon.gov",
 			"srs.gov",
 			"swpa.gov",
-			"unnpp.gov",
 			"unrpnet.gov",
 			"wapa.gov",
 			"windpoweringamerica.gov",
 			"ymp.gov"
 		],
-		"Domain Count": 64
+		"Domain Count": 62
 	},
 	{
 		"Agency": "Department of Health And Human Services",
@@ -467,7 +518,6 @@
 			"afterschool.gov",
 			"aging.gov",
 			"agingstats.gov",
-			"ahcpr.gov",
 			"ahrq.gov",
 			"aids.gov",
 			"alzheimers.gov",
@@ -492,7 +542,6 @@
 			"diabetescommittee.gov",
 			"docline.gov",
 			"donaciondeorganos.gov",
-			"drugabuse.gov",
 			"drugfreeworkplace.gov",
 			"edison.gov",
 			"eldercare.gov",
@@ -570,14 +619,12 @@
 			"steroidabuse.gov",
 			"stopalcoholabuse.gov",
 			"stopbullying.gov",
-			"stopmedicarefraud.gov",
 			"surgeongeneral.gov",
 			"thecoolspot.gov",
 			"therealcost.gov",
 			"thisfreelife.gov",
 			"tissueengineering.gov",
 			"tobacco.gov",
-			"usability.gov",
 			"usbm.gov",
 			"usphs.gov",
 			"vaccines.gov",
@@ -586,7 +633,7 @@
 			"womenshealth.gov",
 			"youth.gov"
 		],
-		"Domain Count": 123
+		"Domain Count": 119
 	},
 	{
 		"Agency": "Department of Homeland Security",
@@ -675,9 +722,7 @@
 			"forensicscience.gov",
 			"forfeiture.gov",
 			"fpi.gov",
-			"getsmartaboutdrugs.gov",
 			"helpingamericasyouth.gov",
-			"ic3.gov",
 			"interpol.gov",
 			"iprcenter.gov",
 			"justice.gov",
@@ -685,12 +730,10 @@
 			"juvenilecouncil.gov",
 			"learnatf.gov",
 			"learndoj.gov",
-			"leo.gov",
 			"lep.gov",
 			"lookstoogood.gov",
 			"lookstoogoodtobetrue.gov",
 			"malwareinvestigator.gov",
-			"medalofvalor.gov",
 			"methresources.gov",
 			"namus.gov",
 			"nationalgangcenter.gov",
@@ -702,9 +745,7 @@
 			"niem.gov",
 			"nij.gov",
 			"nmvtis.gov",
-			"nsopr.gov",
 			"nsopw.gov",
-			"nvtc.gov",
 			"ojjdp.gov",
 			"ojp.gov",
 			"ovc.gov",
@@ -713,7 +754,6 @@
 			"projectsafeneighborhoods.gov",
 			"psn.gov",
 			"psob.gov",
-			"rcfl.gov",
 			"reentry.gov",
 			"scra.gov",
 			"servicemembers.gov",
@@ -729,7 +769,7 @@
 			"vcf.gov",
 			"vehiclehistory.gov"
 		],
-		"Domain Count": 87
+		"Domain Count": 80
 	},
 	{
 		"Agency": "Department of Labor",
@@ -807,7 +847,6 @@
 			"protectyourmove.gov",
 			"safeocs.gov",
 			"safercar.gov",
-			"safertruck.gov",
 			"sharetheroadsafely.gov",
 			"strongports.gov",
 			"sustainablecommunities.gov",
@@ -815,7 +854,7 @@
 			"trafficsafetymarketing.gov",
 			"transportation.gov"
 		],
-		"Domain Count": 27
+		"Domain Count": 26
 	},
 	{
 		"Agency": "Department of Veterans Affairs",
@@ -845,7 +884,6 @@
 			"boem.gov",
 			"boemre.gov",
 			"bor.gov",
-			"bsee.gov",
 			"coralreef.gov",
 			"cupcao.gov",
 			"doi.gov",
@@ -855,14 +893,12 @@
 			"everykid.gov",
 			"fcg.gov",
 			"fgdc.gov",
-			"firecode.gov",
 			"fireleadership.gov",
 			"firenet.gov",
 			"firescience.gov",
 			"fws.gov",
 			"gcdamp.gov",
 			"gcmrc.gov",
-			"geocommunicator.gov",
 			"geomac.gov",
 			"geoplatform.gov",
 			"iat.gov",
@@ -899,22 +935,18 @@
 			"osmre.gov",
 			"piedrasblancas.gov",
 			"reportband.gov",
-			"rivers.gov",
 			"safecom.gov",
 			"sciencebase.gov",
 			"sierrawild.gov",
 			"snap.gov",
 			"usbr.gov",
-			"usgs.gov",
 			"utahfireinfo.gov",
 			"volcano.gov",
 			"volunteer.gov",
 			"watermonitor.gov",
-			"wildlifeadaptationstrategy.gov",
-			"wlci.gov",
-			"youthgo.gov"
+			"wlci.gov"
 		],
-		"Domain Count": 81
+		"Domain Count": 74
 	},
 	{
 		"Agency": "Department of the Treasury",
@@ -1038,29 +1070,31 @@
 			"odni.gov",
 			"osis.gov",
 			"pix.gov",
-			"qart.gov",
-			"ugov.gov"
+			"qart.gov"
 		],
-		"Domain Count": 15
+		"Domain Count": 14
 	},
 	{
 		"Agency": "Environmental Protection Agency",
 		"Domains": [
 			"airnow.gov",
 			"cbi-epa.gov",
+			"e-enterprise.gov",
 			"energystar.gov",
 			"epa.gov",
 			"fdms.gov",
 			"fedcenter.gov",
 			"frtr.gov",
+			"glnpo.gov",
 			"greengov.gov",
 			"ofee.gov",
 			"regulations.gov",
 			"relocatefeds.gov",
 			"sustainability.gov",
+			"tox21.gov",
 			"urbanwaters.gov"
 		],
-		"Domain Count": 13
+		"Domain Count": 16
 	},
 	{
 		"Agency": "Equal Employment Opportunity Commission",
@@ -1068,6 +1102,17 @@
 			"eeoc.gov"
 		],
 		"Domain Count": 1
+	},
+	{
+		"Agency": "Executive Office Of The President",
+		"Domains": [
+			"ciso.gov",
+			"code.gov",
+			"cyber.gov",
+			"cybersecurity.gov",
+			"pitc.gov"
+		],
+		"Domain Count": 5
 	},
 	{
 		"Agency": "Executive Office of the President",
@@ -1079,7 +1124,6 @@
 			"earmarks.gov",
 			"egov.gov",
 			"eop.gov",
-			"ethics.gov",
 			"exrwh.gov",
 			"fiscalcommission.gov",
 			"hc.gov",
@@ -1094,7 +1138,6 @@
 			"omblog.gov",
 			"ondcp.gov",
 			"ostp.gov",
-			"paymentaccuracy.gov",
 			"pci.gov",
 			"presidio.gov",
 			"presidiotrust.gov",
@@ -1104,12 +1147,11 @@
 			"strongmiddleclass.gov",
 			"usdigitalservice.gov",
 			"usds.gov",
-			"ustr.gov",
 			"wh.gov",
 			"whitehouse.gov",
 			"whitehousedrugpolicy.gov"
 		],
-		"Domain Count": 36
+		"Domain Count": 33
 	},
 	{
 		"Agency": "Export/Import Bank of the U.S.",
@@ -1199,13 +1241,6 @@
 		"Agency": "Federal Maritime Commission",
 		"Domains": [
 			"fmc.gov"
-		],
-		"Domain Count": 1
-	},
-	{
-		"Agency": "Federal Mediation and Conciliation Service",
-		"Domains": [
-			"fmcs.gov"
 		],
 		"Domain Count": 1
 	},
@@ -1305,7 +1340,6 @@
 			"ecpic.gov",
 			"eisenhowermemorial.gov",
 			"epls.gov",
-			"esrs.gov",
 			"everykidinapark.gov",
 			"faca.gov",
 			"facadatabase.gov",
@@ -1323,7 +1357,9 @@
 			"firstgov.gov",
 			"fmi.gov",
 			"forms.gov",
+			"fpc.gov",
 			"fpds.gov",
+			"fpisc.gov",
 			"fpki-lab.gov",
 			"fpki.gov",
 			"frpg.gov",
@@ -1333,10 +1369,10 @@
 			"gobierno.gov",
 			"gobiernousa.gov",
 			"govsales.gov",
+			"greatagain.gov",
 			"gsa.gov",
 			"gsaadvantage.gov",
 			"gsaauctions.gov",
-			"gsaig.gov",
 			"gsaxcess.gov",
 			"howto.gov",
 			"idmanagement.gov",
@@ -1352,9 +1388,9 @@
 			"pclob.gov",
 			"performance.gov",
 			"pic.gov",
-			"pif.gov",
 			"ppirs.gov",
 			"presidentialinnovationfellows.gov",
+			"privacy.gov",
 			"ptt.gov",
 			"realestatesales.gov",
 			"realpropertyprofile.gov",
@@ -1376,12 +1412,10 @@
 			"usgovernment.gov",
 			"usip.gov",
 			"ussm.gov",
-			"vef.gov",
 			"vitm.gov",
-			"vote.gov",
-			"votebymail.gov"
+			"vote.gov"
 		],
-		"Domain Count": 105
+		"Domain Count": 104
 	},
 	{
 		"Agency": "Government Printing Office",
@@ -1390,7 +1424,6 @@
 			"congressionalrecord.gov",
 			"ecfr.gov",
 			"fdlp.gov",
-			"fdsys.gov",
 			"federalregister.gov",
 			"fedreg.gov",
 			"fmshrc.gov",
@@ -1409,7 +1442,7 @@
 			"usgovernmentmanual.gov",
 			"welcometousa.gov"
 		],
-		"Domain Count": 22
+		"Domain Count": 21
 	},
 	{
 		"Agency": "Gulf Coast Ecosystem Restoration Council (GCERC)",
@@ -1468,7 +1501,6 @@
 			"africanamericanhistorymonth.gov",
 			"americanmemory.gov",
 			"americaslibrary.gov",
-			"americasstory.gov",
 			"americastory.gov",
 			"asianpacificheritage.gov",
 			"commission.gov",
@@ -1500,7 +1532,7 @@
 			"wdl.gov",
 			"womenshistorymonth.gov"
 		],
-		"Domain Count": 34
+		"Domain Count": 33
 	},
 	{
 		"Agency": "Marine Mammal Commission",
@@ -1533,9 +1565,10 @@
 	{
 		"Agency": "Millennium Challenge Corporation",
 		"Domains": [
-			"mcc.gov"
+			"mcc.gov",
+			"mcctest.gov"
 		],
-		"Domain Count": 1
+		"Domain Count": 2
 	},
 	{
 		"Agency": "Morris K. Udall Foundation",
@@ -1551,10 +1584,17 @@
 			"globe.gov",
 			"nasa.gov",
 			"nswp.gov",
-			"scijinks.gov",
 			"usgeo.gov"
 		],
-		"Domain Count": 5
+		"Domain Count": 4
+	},
+	{
+		"Agency": "National Archives And Records Administration",
+		"Domains": [
+			"obamalibrary.gov",
+			"obamawhitehouse.gov"
+		],
+		"Domain Count": 2
 	},
 	{
 		"Agency": "National Archives and Records Administration",
@@ -1658,16 +1698,22 @@
 		"Domain Count": 1
 	},
 	{
+		"Agency": "National Nuclear Security Administration",
+		"Domains": [
+			"nnss.gov"
+		],
+		"Domain Count": 1
+	},
+	{
 		"Agency": "National Science Foundation",
 		"Domains": [
 			"arctic.gov",
-			"nsf.gov",
 			"research.gov",
 			"sac.gov",
 			"science360.gov",
 			"usap.gov"
 		],
-		"Domain Count": 6
+		"Domain Count": 5
 	},
 	{
 		"Agency": "National Security Agency",
@@ -1719,6 +1765,14 @@
 			"oshrc.gov"
 		],
 		"Domain Count": 1
+	},
+	{
+		"Agency": "Office Of Personnel Management",
+		"Domains": [
+			"cybercareers.gov",
+			"nbib.gov"
+		],
+		"Domain Count": 2
 	},
 	{
 		"Agency": "Office of Government Ethics",
@@ -1835,6 +1889,13 @@
 		"Domain Count": 1
 	},
 	{
+		"Agency": "Special Ig For Afghanistan Reconstruction",
+		"Domains": [
+			"sigar.gov"
+		],
+		"Domain Count": 1
+	},
+	{
 		"Agency": "Stennis Center for Public Service",
 		"Domains": [
 			"stennis.gov"
@@ -1896,14 +1957,11 @@
 			"gaonet.gov",
 			"gop.gov",
 			"gopconference.gov",
-			"gopleader.gov",
 			"house.gov",
 			"housecommunications.gov",
-			"housedemocrats.gov",
 			"housedems.gov",
 			"houselive.gov",
 			"housenewsletters.gov",
-			"jct.gov",
 			"listenstoyou.gov",
 			"majorityleader.gov",
 			"majoritywhip.gov",
@@ -1919,13 +1977,12 @@
 			"uscapital.gov",
 			"uscapitol.gov",
 			"uscapitolvisitorcenter.gov",
-			"uscvc.gov",
 			"ushouse.gov",
 			"ushr.gov",
 			"visitthecapital.gov",
 			"visitthecapitol.gov"
 		],
-		"Domain Count": 51
+		"Domain Count": 47
 	},
 	{
 		"Agency": "The Supreme Court",
@@ -1948,6 +2005,15 @@
 		"Domain Count": 1
 	},
 	{
+		"Agency": "U. S. Postal Service",
+		"Domains": [
+			"myusps.gov",
+			"uspsinformeddelivery.gov",
+			"uspsinnovates.gov"
+		],
+		"Domain Count": 3
+	},
+	{
 		"Agency": "U.S. Access Board",
 		"Domains": [
 			"access-board.gov"
@@ -1963,11 +2029,10 @@
 			"letgirlslearn.gov",
 			"neglecteddiseases.gov",
 			"ofda.gov",
-			"pmi.gov",
 			"usaid.gov",
 			"usaidallnet.gov"
 		],
-		"Domain Count": 9
+		"Domain Count": 8
 	},
 	{
 		"Agency": "U.S. Capitol Police",
@@ -2005,18 +2070,15 @@
 			"fjc.gov",
 			"judicialconference.gov",
 			"nmcourt.fed.us",
-			"pacer.gov",
 			"usbankruptcy.gov",
 			"usc.gov",
 			"uscavc.gov",
 			"uscourts.gov",
 			"uscva.gov",
 			"usprobation.gov",
-			"ussc.gov",
-			"ustaxcourt.gov",
-			"vetapp.gov"
+			"ustaxcourt.gov"
 		],
-		"Domain Count": 20
+		"Domain Count": 17
 	},
 	{
 		"Agency": "U.S. Holocaust Memorial Museum",
@@ -2093,11 +2155,5 @@
 			"usgcrp.gov"
 		],
 		"Domain Count": 4
-	},
-	{
-		"Agency": "United States Office of Government Ethics",
-		"Domains": [
-			"oge.gov"
-		]
 	}
 ]
