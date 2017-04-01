@@ -43,7 +43,6 @@
 			"enterpriseal.gov",
 			"fairhope-al.gov",
 			"fairhopeal.gov",
-			"goodhopeal.gov",
 			"guntersvilleal.gov",
 			"hooveral.gov",
 			"hooveralabama.gov",
@@ -52,11 +51,9 @@
 			"leedsalabama.gov",
 			"limestonecounty-al.gov",
 			"limestonecountyema-al.gov",
-			"madison-al.gov",
 			"madisonal.gov",
 			"mentonealabama.gov",
 			"mhb.gov",
-			"mobile-al.gov",
 			"mobilecountyal.gov",
 			"monroecountyal.gov",
 			"monroevilleal.gov",
@@ -85,7 +82,7 @@
 			"tuskegeealabama.gov",
 			"unionspringsal.gov"
 		],
-		"Domain Count": 82
+		"Domain Count": 79
 	},
 	{
 		"State": "Alaska",
@@ -138,7 +135,6 @@
 			"azboa.gov",
 			"azboc.gov",
 			"azboec.gov",
-			"azbof.gov",
 			"azbordertrash.gov",
 			"azbota.gov",
 			"azboxingandmma.gov",
@@ -149,7 +145,6 @@
 			"azcia.gov",
 			"azcjc.gov",
 			"azcleanelections.gov",
-			"azclimatechange.gov",
 			"azcoop.gov",
 			"azcorpcom.gov",
 			"azcorpcomm.gov",
@@ -188,11 +183,9 @@
 			"azgada.gov",
 			"azgaming.gov",
 			"azgfd.gov",
-			"azgita.gov",
 			"azgohs.gov",
 			"azgovernor.gov",
 			"azgrants.gov",
-			"azgu.gov",
 			"azguard.gov",
 			"azhealth.gov",
 			"azhighered.gov",
@@ -224,7 +217,6 @@
 			"azot.gov",
 			"azpa.gov",
 			"azparks.gov",
-			"azpcrpd.gov",
 			"azph.gov",
 			"azpharmacy.gov",
 			"azpost.gov",
@@ -246,7 +238,6 @@
 			"azstatejobs.gov",
 			"azstateparks.gov",
 			"azstats.gov",
-			"azstepsup.gov",
 			"azsummerfood.gov",
 			"azsurplus.gov",
 			"aztaxes.gov",
@@ -256,13 +247,11 @@
 			"azturbocourt.gov",
 			"azui.gov",
 			"azunclaimed.gov",
-			"azvoices.gov",
 			"azwater.gov",
 			"azwaterbank.gov",
 			"azwic.gov",
 			"azwifa.gov",
 			"azwpf.gov",
-			"azyes.gov",
 			"babyarizona.gov",
 			"bensonaz.gov",
 			"bisbeeaz.gov",
@@ -272,10 +261,8 @@
 			"cgaz.gov",
 			"chandleraz.gov",
 			"cityofkingman.gov",
-			"cityofsafford-az.gov",
 			"cityofsaffordaz.gov",
 			"cliftonaz.gov",
-			"collegegoalarizona.gov",
 			"coscpinalcountyaz.gov",
 			"cottonwoodaz.gov",
 			"devaz.gov",
@@ -284,11 +271,8 @@
 			"digitalaz.gov",
 			"douglasaz.gov",
 			"eagaraz.gov",
-			"elmirage-az.gov",
 			"elmirageaz.gov",
 			"eloyaz.gov",
-			"evfcaz.gov",
-			"familyresourceaz.gov",
 			"firstthingsfirstaz.gov",
 			"flagstaffaz.gov",
 			"florenceaz.gov",
@@ -301,7 +285,6 @@
 			"healthearizona.gov",
 			"healthearizonaplus.gov",
 			"huachucacityaz.gov",
-			"lapazcountyaz.gov",
 			"lhcaz.gov",
 			"maranaaz.gov",
 			"maricopa-az.gov",
@@ -323,7 +306,6 @@
 			"preventhaiaz.gov",
 			"qaaz.gov",
 			"qualityfirstaz.gov",
-			"safford-az.gov",
 			"saffordaz.gov",
 			"sahuaritaaz.gov",
 			"santacruzcountyaz.gov",
@@ -353,7 +335,7 @@
 			"yumacountyarizona.gov",
 			"yumacountyaz.gov"
 		],
-		"Domain Count": 239
+		"Domain Count": 224
 	},
 	{
 		"State": "Arkansas",
@@ -404,7 +386,6 @@
 			"alamedaca.gov",
 			"alpinecountyca.gov",
 			"angelscamp.gov",
-			"applevalleyca.gov",
 			"aqmd.gov",
 			"arcadiaca.gov",
 			"baaqmd.gov",
@@ -434,7 +415,6 @@
 			"cityofkingsburg-ca.gov",
 			"cityoflahabra-ca.gov",
 			"cityofpleasantonca.gov",
-			"cityofsantaana-ca.gov",
 			"cityofsanteeca.gov",
 			"cityoftorranceca.gov",
 			"cmsdca.gov",
@@ -476,7 +456,6 @@
 			"lomalinda-ca.gov",
 			"longbeach.gov",
 			"losaltosca.gov",
-			"losangeles-ca.gov",
 			"losgatosca.gov",
 			"madera-ca.gov",
 			"malibu-ca.gov",
@@ -501,7 +480,6 @@
 			"otaywater.gov",
 			"palmsprings-ca.gov",
 			"paloalto-ca.gov",
-			"pasadenaca.gov",
 			"pittsburgca.gov",
 			"pleasanthillca.gov",
 			"pleasantonca.gov",
@@ -517,13 +495,11 @@
 			"rpvca.gov",
 			"sandiego.gov",
 			"sandiegocounty.gov",
-			"sanfrancisco-ca.gov",
 			"sanfrancisco.gov",
 			"sanjoseca.gov",
 			"sanmarinoca.gov",
 			"sannet.gov",
 			"sanpabloca.gov",
-			"santaana-ca.gov",
 			"santabarbaraca.gov",
 			"santaclaraca.gov",
 			"santaclaracountyca.gov",
@@ -539,28 +515,24 @@
 			"stocktonca.gov",
 			"temeculaca.gov",
 			"torranceca.gov",
+			"trinitycounty-ca.gov",
 			"uplandca.gov",
 			"victorvilleca.gov",
-			"westminster-ca.gov",
-			"yucaipa-ca.gov"
+			"westminster-ca.gov"
 		],
-		"Domain Count": 142
+		"Domain Count": 136
 	},
 	{
 		"State": "Colorado",
 		"Domains": [
 			"boulder-co.gov",
 			"bouldercolorado.gov",
-			"bouldercounty-co.gov",
 			"bouldercountycolorado.gov",
 			"bowmar.gov",
-			"brandcolorado.gov",
-			"broomfieldco.gov",
 			"buenavistaco.gov",
 			"careersincolorado.gov",
 			"centennialco.gov",
 			"centerco.gov",
-			"cheyennecounty-co.gov",
 			"cityofgunnison-co.gov",
 			"cityofholyoke-co.gov",
 			"co.gov",
@@ -593,10 +565,8 @@
 			"frederickco.gov",
 			"garfieldcounty-co.gov",
 			"glenwoodspringsco.gov",
-			"greenmountainfallsco.gov",
 			"gunnisonco.gov",
 			"gwsco.gov",
-			"hayden-co.gov",
 			"hinsdalecounty-co.gov",
 			"hireacoloradovet.gov",
 			"leadville-co.gov",
@@ -604,8 +574,6 @@
 			"logancountyco.gov",
 			"longmontcolorado.gov",
 			"louisvilleco.gov",
-			"makingcolorado.gov",
-			"manitousprings-co.gov",
 			"millikenco.gov",
 			"millikencolorado.gov",
 			"mtcrestedbutte-co.gov",
@@ -622,11 +590,10 @@
 			"superiorcolorado.gov",
 			"talentfoundco.gov",
 			"telluride-co.gov",
-			"timnath-co.gov",
 			"townoflaveta-co.gov",
 			"wellingtoncolorado.gov"
 		],
-		"Domain Count": 76
+		"Domain Count": 67
 	},
 	{
 		"State": "Connecticut",
@@ -660,7 +627,6 @@
 			"hartford.gov",
 			"killinglyct.gov",
 			"lebanonct.gov",
-			"letsmovebridgeportct.gov",
 			"lymect.gov",
 			"manchesterct.gov",
 			"meridenct.gov",
@@ -678,12 +644,10 @@
 			"oldlyme-ct.gov",
 			"oldsaybrookct.gov",
 			"orange-ct.gov",
-			"ose-ct.gov",
 			"oxford-ct.gov",
 			"plainville-ct.gov",
 			"pomfretct.gov",
 			"rockyhillct.gov",
-			"roxbury-ct.gov",
 			"salemct.gov",
 			"simsbury-ct.gov",
 			"somersct.gov",
@@ -692,8 +656,6 @@
 			"stonington-ct.gov",
 			"suffieldct.gov",
 			"torrington-ct.gov",
-			"townofeasthaven-ct.gov",
-			"townofwallingford-ct.gov",
 			"trumbull-ct.gov",
 			"ttd.gov",
 			"vernon-ct.gov",
@@ -703,10 +665,9 @@
 			"westonct.gov",
 			"westportct.gov",
 			"wethersfieldct.gov",
-			"willingtonct.gov",
 			"woodstockct.gov"
 		],
-		"Domain Count": 74
+		"Domain Count": 68
 	},
 	{
 		"State": "Delaware",
@@ -744,7 +705,6 @@
 			"cityofsarasotafl.gov",
 			"cityofsunrisefl.gov",
 			"cityofsunriseflorida.gov",
-			"cityofwestpalmbeach-fl.gov",
 			"clewiston-fl.gov",
 			"colliercountyfl.gov",
 			"coralgables-fl.gov",
@@ -762,11 +722,9 @@
 			"fdot.gov",
 			"fl.gov",
 			"flboardofmedicine.gov",
-			"flcensus.gov",
 			"flcourts1.gov",
 			"flcrc.gov",
 			"fldoi.gov",
-			"fldot.gov",
 			"flhealth.gov",
 			"flhealthcomplaint.gov",
 			"flhealthsource.gov",
@@ -807,12 +765,12 @@
 			"floridaspodiatricmedicine.gov",
 			"floridaspsychology.gov",
 			"floridasspeechaudiology.gov",
-			"floridasunsetreviews.gov",
 			"floridasunshine.gov",
 			"floridatreasurehunt.gov",
 			"floridaunclaimedfunds.gov",
 			"floridaunclaimedproperty.gov",
 			"flrcm.gov",
+			"flsenate.gov",
 			"flsunshine.gov",
 			"fltreasurehunt.gov",
 			"flunclaimedfunds.gov",
@@ -832,8 +790,6 @@
 			"interlachen-fl.gov",
 			"inverness-fl.gov",
 			"jeffersoncountyfl.gov",
-			"jupiterfl.gov",
-			"kissimmee-fl.gov",
 			"kissimmeefl.gov",
 			"lakecountyfl.gov",
 			"lakepark-fl.gov",
@@ -868,7 +824,6 @@
 			"nsidfl.gov",
 			"oaklandfl.gov",
 			"oaklandparkfl.gov",
-			"onestopflorida.gov",
 			"opalockafl.gov",
 			"openmyfloridabusiness.gov",
 			"orlandofl.gov",
@@ -881,7 +836,6 @@
 			"pinellas.gov",
 			"pinellascounty-fl.gov",
 			"pinellascountyfl.gov",
-			"redistrictingflorida.gov",
 			"saferfloridaroads.gov",
 			"sanfordfl.gov",
 			"sarasotafl.gov",
@@ -904,17 +858,15 @@
 			"transparencyflorida.gov",
 			"unioncounty-fl.gov",
 			"virginiagardens-fl.gov",
-			"websterfl.gov",
 			"welaka-fl.gov",
 			"wellingtonfl.gov",
 			"westonfl.gov",
-			"westpalmbeach-fl.gov",
 			"wildwood-fl.gov",
 			"willistonfl.gov",
 			"wintergarden-fl.gov",
 			"winterspringsfl.gov"
 		],
-		"Domain Count": 185
+		"Domain Count": 176
 	},
 	{
 		"State": "Georgia",
@@ -926,7 +878,6 @@
 			"augustaga.gov",
 			"austellga.gov",
 			"bloomingdale-ga.gov",
-			"braswellga.gov",
 			"bremenga.gov",
 			"brookhavenga.gov",
 			"burkecounty-ga.gov",
@@ -946,7 +897,6 @@
 			"cityofdalton-ga.gov",
 			"cityofdouglasga.gov",
 			"cityoffolkston-ga.gov",
-			"cityoffortoglethorpega.gov",
 			"cityofhampton-ga.gov",
 			"cityofhiramga.gov",
 			"cityofmccaysvillega.gov",
@@ -967,7 +917,6 @@
 			"decaturcountyga.gov",
 			"douglasvillega.gov",
 			"dunwoodyga.gov",
-			"dunwoodygeorgia.gov",
 			"ellijay-ga.gov",
 			"emanuelco-ga.gov",
 			"eton-ga.gov",
@@ -982,7 +931,6 @@
 			"gatrees.gov",
 			"georgia.gov",
 			"georgiacourts.gov",
-			"georgiahealthinfo.gov",
 			"gilmercounty-ga.gov",
 			"glynncounty-ga.gov",
 			"gradycountyga.gov",
@@ -1014,13 +962,12 @@
 			"lovejoy-ga.gov",
 			"lowndescountyga.gov",
 			"lumpkincounty.gov",
-			"maconbibbcountyga.gov",
 			"maconcountyga.gov",
-			"maconga.gov",
 			"manchester-ga.gov",
 			"mansfieldga.gov",
 			"mariettaga.gov",
 			"mariettageorgia.gov",
+			"mcdonough-ga.gov",
 			"mcintoshcounty-ga.gov",
 			"meriwethercountyga.gov",
 			"monroega.gov",
@@ -1070,7 +1017,7 @@
 			"woodstockga.gov",
 			"wrga.gov"
 		],
-		"Domain Count": 150
+		"Domain Count": 145
 	},
 	{
 		"State": "Hawaii",
@@ -1097,11 +1044,9 @@
 			"bonnercountyid.gov",
 			"chooseidaho.gov",
 			"frames.gov",
-			"huetter-id.gov",
 			"id.gov",
 			"idaho.gov",
 			"idahoapprenticeship.gov",
-			"idahobyways.gov",
 			"idahofallsidaho.gov",
 			"idahoprepares.gov",
 			"idahovotes.gov",
@@ -1116,7 +1061,7 @@
 			"tetoncountyidaho.gov",
 			"visitidaho.gov"
 		],
-		"Domain Count": 26
+		"Domain Count": 24
 	},
 	{
 		"State": "Illinois",
@@ -1147,7 +1092,6 @@
 			"coalcity-il.gov",
 			"coberturamedicaillinois.gov",
 			"cookcountyil.gov",
-			"countryside-il.gov",
 			"cubaassessoril.gov",
 			"cubatwpil.gov",
 			"darienil.gov",
@@ -1164,9 +1108,9 @@
 			"greenmchenrycountyillinois.gov",
 			"hancockcounty-il.gov",
 			"heyworth-il.gov",
+			"highlandil.gov",
 			"homerglenil.gov",
 			"homewoodil.gov",
-			"hoopeston-il.gov",
 			"hopkinspark-il.gov",
 			"il.gov",
 			"ilattorneygeneral.gov",
@@ -1208,7 +1152,6 @@
 			"northbrookil.gov",
 			"oak-brook-il.gov",
 			"paloshills-il.gov",
-			"peoriaheights-il.gov",
 			"pulaskicountyil.gov",
 			"quincyil.gov",
 			"readymchenrycountyil.gov",
@@ -1216,13 +1159,10 @@
 			"rockford-il.gov",
 			"rockfordil.gov",
 			"rockislandtownshipil.gov",
-			"savanna-il.gov",
 			"stcharlesil.gov",
 			"stclaircountyil.gov",
 			"sterling-il.gov",
 			"sugargroveil.gov",
-			"tinleypark-il.gov",
-			"tinleyparkil.gov",
 			"towerlakes-il.gov",
 			"unioncountyil.gov",
 			"utica-il.gov",
@@ -1239,7 +1179,7 @@
 			"willowsprings-il.gov",
 			"woodstockil.gov"
 		],
-		"Domain Count": 117
+		"Domain Count": 112
 	},
 	{
 		"State": "Indiana",
@@ -1257,9 +1197,7 @@
 			"corydon-in.gov",
 			"crawfordsville-in.gov",
 			"frankfort-in.gov",
-			"franklin-in.gov",
 			"gibsoncounty-in.gov",
-			"grandview-in.gov",
 			"howardcountyin.gov",
 			"huntingburg-in.gov",
 			"in.gov",
@@ -1301,14 +1239,13 @@
 			"winchester-in.gov",
 			"zionsville-in.gov"
 		],
-		"Domain Count": 56
+		"Domain Count": 54
 	},
 	{
 		"State": "Iowa",
 		"Domains": [
 			"ankenyiowa.gov",
 			"bellevueia.gov",
-			"carlisle-ia.gov",
 			"carterlake-ia.gov",
 			"cedarrapids-ia.gov",
 			"cityoflisbon-ia.gov",
@@ -1326,14 +1263,12 @@
 			"employiowa.gov",
 			"employiowans.gov",
 			"fairfieldiowa.gov",
-			"fortmadison-ia.gov",
 			"futurereadyiowa.gov",
 			"gearupiowa.gov",
 			"grangeriowa.gov",
 			"greatiowatreasurehunt.gov",
 			"grimesiowa.gov",
 			"grinnelliowa.gov",
-			"healthyiowa.gov",
 			"homebaseiowa.gov",
 			"iaabatedoc.gov",
 			"iable.gov",
@@ -1345,7 +1280,6 @@
 			"iawork.gov",
 			"iaworks.gov",
 			"ihaveaplaniowa.gov",
-			"ijobsiowa.gov",
 			"indianolaiowa.gov",
 			"investiniowa.gov",
 			"iowa.gov",
@@ -1384,7 +1318,6 @@
 			"iowanext.gov",
 			"iowanswork.gov",
 			"iowaosha.gov",
-			"iowapib.gov",
 			"iowapma.gov",
 			"iowasmokefreeair.gov",
 			"iowastem.gov",
@@ -1406,6 +1339,7 @@
 			"licensediniowa.gov",
 			"maharishivediccity-iowa.gov",
 			"marshallcountyia.gov",
+			"marshalltown-ia.gov",
 			"muscatineiowa.gov",
 			"payiowa.gov",
 			"polkcityia.gov",
@@ -1418,12 +1352,13 @@
 			"tamacountyiowa.gov",
 			"teachiowa.gov",
 			"therightcalliowa.gov",
+			"vanburencountyia.gov",
 			"vanmeteria.gov",
 			"williamsburgiowa.gov",
 			"winnebagocountyiowa.gov",
 			"woodburycountyiowa.gov"
 		],
-		"Domain Count": 116
+		"Domain Count": 113
 	},
 	{
 		"State": "Kansas",
@@ -1434,7 +1369,6 @@
 			"cherokeecounty-ks.gov",
 			"cherokeecountyks.gov",
 			"cityofeudoraks.gov",
-			"cityoflenexaks.gov",
 			"cityofplainville-ks.gov",
 			"crawfordcountykansas.gov",
 			"eastborough-ks.gov",
@@ -1458,7 +1392,6 @@
 			"kscareernav.gov",
 			"kscjis.gov",
 			"ksda.gov",
-			"kshousingcorp.gov",
 			"ksready.gov",
 			"lenexa-ks.gov",
 			"louisburgkansas.gov",
@@ -1480,7 +1413,7 @@
 			"washingtoncountyks.gov",
 			"wichita.gov"
 		],
-		"Domain Count": 51
+		"Domain Count": 49
 	},
 	{
 		"State": "Kentucky",
@@ -1502,7 +1435,6 @@
 			"edgewoodky.gov",
 			"elizabethtownky.gov",
 			"florence-ky.gov",
-			"frankfort-ky.gov",
 			"georgetownky.gov",
 			"glenviewky.gov",
 			"greenupcountyky.gov",
@@ -1518,9 +1450,7 @@
 			"marionky.gov",
 			"marshallcountyky.gov",
 			"mayfieldky.gov",
-			"mccrackencountyky.gov",
 			"meadeky.gov",
-			"millersburgky.gov",
 			"morehead-ky.gov",
 			"murrayky.gov",
 			"newportky.gov",
@@ -1538,7 +1468,7 @@
 			"warrencountyky.gov",
 			"westbuechelky.gov"
 		],
-		"Domain Count": 52
+		"Domain Count": 49
 	},
 	{
 		"State": "Louisiana",
@@ -1564,7 +1494,6 @@
 			"louisianamusic.gov",
 			"melvillela.gov",
 			"natchitochesla.gov",
-			"neworleans-la.gov",
 			"neworleansla.gov",
 			"nola.gov",
 			"nolaerb.gov",
@@ -1584,12 +1513,11 @@
 			"walker-la.gov",
 			"westfelicianaparish-la.gov"
 		],
-		"Domain Count": 40
+		"Domain Count": 39
 	},
 	{
 		"State": "Maine",
 		"Domains": [
-			"511maine.gov",
 			"alfredme.gov",
 			"androscoggincountymaine.gov",
 			"auburnmaine.gov",
@@ -1604,7 +1532,6 @@
 			"dayton-me.gov",
 			"eastport-me.gov",
 			"eddingtonmaine.gov",
-			"exploremaine.gov",
 			"firstnetme.gov",
 			"hampdenmaine.gov",
 			"kennebeccounty-me.gov",
@@ -1613,7 +1540,6 @@
 			"knoxcountymaine.gov",
 			"lamoine-me.gov",
 			"lewistonmaine.gov",
-			"limerick-me.gov",
 			"lyman-me.gov",
 			"maine.gov",
 			"mainecareercenter.gov",
@@ -1641,7 +1567,7 @@
 			"yorkcountymaine.gov",
 			"yorkcountyme.gov"
 		],
-		"Domain Count": 51
+		"Domain Count": 48
 	},
 	{
 		"State": "Maryland",
@@ -1658,7 +1584,6 @@
 			"carrollcountymd.gov",
 			"cecilcountymd.gov",
 			"ceciltonmd.gov",
-			"centreville-md.gov",
 			"charlescountymd.gov",
 			"chesapeakebeachmd.gov",
 			"chesapeakecity-md.gov",
@@ -1692,7 +1617,6 @@
 			"maryland.gov",
 			"marylandattorneygeneral.gov",
 			"marylandhealthconnection.gov",
-			"marylandsos.gov",
 			"marylandtaxes.gov",
 			"mcac-md.gov",
 			"md.gov",
@@ -1719,7 +1643,7 @@
 			"williamsportmd.gov",
 			"worcestercountymd.gov"
 		],
-		"Domain Count": 72
+		"Domain Count": 70
 	},
 	{
 		"State": "Massachusetts",
@@ -1762,7 +1686,6 @@
 			"cityofboston.gov",
 			"clintonma.gov",
 			"colrain-ma.gov",
-			"concord-ma.gov",
 			"concordma.gov",
 			"cummington-ma.gov",
 			"dalton-ma.gov",
@@ -1913,7 +1836,7 @@
 			"woburnma.gov",
 			"worcesterma.gov"
 		],
-		"Domain Count": 188
+		"Domain Count": 187
 	},
 	{
 		"State": "Michigan",
@@ -1930,7 +1853,6 @@
 			"blendontownship-mi.gov",
 			"blissfieldmichigan.gov",
 			"boimi.gov",
-			"branchcountymi.gov",
 			"burtonmi.gov",
 			"calhouncountymi.gov",
 			"centerline.gov",
@@ -1978,8 +1900,6 @@
 			"mgcbmi.gov",
 			"mi.gov",
 			"mi365.gov",
-			"mibusiness1stop.gov",
-			"mibusinessonestop.gov",
 			"mich.gov",
 			"michigan.gov",
 			"michiganidc.gov",
@@ -2001,10 +1921,8 @@
 			"portage-mi.gov",
 			"portagemi.gov",
 			"romi.gov",
-			"romulus-mi.gov",
 			"roseville-mi.gov",
 			"royaloakmi.gov",
-			"saultstemarie-mi.gov",
 			"sebewaingmi.gov",
 			"sterlingheightsmi.gov",
 			"sturgismi.gov",
@@ -2018,7 +1936,7 @@
 			"wyomingmi.gov",
 			"zilwaukeemichigan.gov"
 		],
-		"Domain Count": 99
+		"Domain Count": 94
 	},
 	{
 		"State": "Minnesota",
@@ -2036,7 +1954,6 @@
 			"cityoffairfax-mn.gov",
 			"cityofhokah-mn.gov",
 			"cityoflacrescent-mn.gov",
-			"cityofnewulm-mn.gov",
 			"claycountymn.gov",
 			"columbiaheightsmn.gov",
 			"coonrapidsmn.gov",
@@ -2094,7 +2011,7 @@
 			"woodburymn.gov",
 			"wspmn.gov"
 		],
-		"Domain Count": 70
+		"Domain Count": 69
 	},
 	{
 		"State": "Mississippi",
@@ -2112,7 +2029,6 @@
 			"georgecountyms.gov",
 			"greenecountyms.gov",
 			"gulfport-ms.gov",
-			"hancockcountyms.gov",
 			"harrisoncounty-ms.gov",
 			"indianolams.gov",
 			"issaquenacountyms.gov",
@@ -2132,10 +2048,9 @@
 			"vicksburgms.gov",
 			"waveland-ms.gov",
 			"waynecountyms.gov",
-			"wessonms.gov",
 			"yazoocountyms.gov"
 		],
-		"Domain Count": 35
+		"Domain Count": 33
 	},
 	{
 		"State": "Missouri",
@@ -2207,7 +2122,6 @@
 		"Domains": [
 			"bighorncountymt.gov",
 			"blainecounty-mt.gov",
-			"bozeman-mt.gov",
 			"cascadecountymt.gov",
 			"cityofchoteau-mt.gov",
 			"csimt.gov",
@@ -2236,7 +2150,7 @@
 			"toolecountymt.gov",
 			"valleycountymt.gov"
 		],
-		"Domain Count": 30
+		"Domain Count": 29
 	},
 	{
 		"State": "Nebraska",
@@ -2271,9 +2185,6 @@
 	{
 		"State": "Nevada",
 		"Domains": [
-			"bouldercity-nv.gov",
-			"bouldercitynv.gov",
-			"cityofrenonv.gov",
 			"clarkcountynv.gov",
 			"douglascountynv.gov",
 			"elkocitynv.gov",
@@ -2284,13 +2195,10 @@
 			"hendersonnv.gov",
 			"homeagainnevada.gov",
 			"homemeansnevada.gov",
-			"inclinevillage-nv.gov",
 			"lasvegasnevada.gov",
-			"livehealthynevada.gov",
 			"mesquitenv.gov",
 			"mynevada.gov",
 			"nevada.gov",
-			"nevadaguard.gov",
 			"nevadahomeagain.gov",
 			"nevadaready.gov",
 			"nevadatreasurer.gov",
@@ -2312,7 +2220,7 @@
 			"whitepinecountynv.gov",
 			"whynevada.gov"
 		],
-		"Domain Count": 40
+		"Domain Count": 34
 	},
 	{
 		"State": "New Hampshire",
@@ -2342,7 +2250,6 @@
 			"litchfield-nh.gov",
 			"litchfieldnh.gov",
 			"lymenh.gov",
-			"lyndeboroughnh.gov",
 			"manchesternh.gov",
 			"marlownh.gov",
 			"merrimacknh.gov",
@@ -2372,7 +2279,7 @@
 			"winchester-nh.gov",
 			"windhamnh.gov"
 		],
-		"Domain Count": 54
+		"Domain Count": 53
 	},
 	{
 		"State": "New Jersey",
@@ -2388,7 +2295,6 @@
 			"capemaycountynj.gov",
 			"carneyspointnj.gov",
 			"chathamtownship-nj.gov",
-			"cityofenglewood-nj.gov",
 			"cityofpassaicnj.gov",
 			"cityofsalemnj.gov",
 			"cliffsideparknj.gov",
@@ -2430,14 +2336,11 @@
 			"newjerseyhomekeeper.gov",
 			"nj.gov",
 			"njalert.gov",
-			"njcancer.gov",
 			"njccc.gov",
-			"njccr.gov",
 			"njcivilrights.gov",
 			"njconsumeraffairs.gov",
 			"njcourts.gov",
 			"njdoc.gov",
-			"njflupandemic.gov",
 			"njhas.gov",
 			"njhmfa.gov",
 			"njhomekeeper.gov",
@@ -2458,11 +2361,9 @@
 			"njseniorgold.gov",
 			"njshc.gov",
 			"njsnap.gov",
-			"njspeakup.gov",
 			"njsrgold.gov",
 			"njstart.gov",
 			"northbrunswicknj.gov",
-			"oceangate-nj.gov",
 			"patersonnj.gov",
 			"plainfieldnj.gov",
 			"princetonnj.gov",
@@ -2477,18 +2378,14 @@
 			"salemcountynj.gov",
 			"scotchplainsnj.gov",
 			"secaucusnj.gov",
-			"shapingnewjersey.gov",
-			"shapingnj.gov",
 			"southamboynj.gov",
 			"southbrunswicknj.gov",
 			"staffordnj.gov",
 			"stanhopenj.gov",
-			"tabernaclenj.gov",
 			"teanecknj.gov",
 			"townshipoftabernacle-nj.gov",
 			"twpoceannj.gov",
 			"unionbeachnj.gov",
-			"unioncitynj.gov",
 			"uppertownshipnj.gov",
 			"victorygardensnj.gov",
 			"washingtonboro-nj.gov",
@@ -2499,7 +2396,7 @@
 			"westwoodnj.gov",
 			"willingboronj.gov"
 		],
-		"Domain Count": 121
+		"Domain Count": 111
 	},
 	{
 		"State": "New Mexico",
@@ -2507,7 +2404,6 @@
 			"albuquerque-nm.gov",
 			"angelfirenm.gov",
 			"artesianm.gov",
-			"atrisco-nm.gov",
 			"aztecnm.gov",
 			"belen-nm.gov",
 			"bernco.gov",
@@ -2542,12 +2438,11 @@
 			"ruidoso-nm.gov",
 			"sandovalcountynm.gov",
 			"santafenm.gov",
-			"sierracountynm.gov",
 			"socorronm.gov",
 			"sunlandpark-nm.gov",
 			"willardnm.gov"
 		],
-		"Domain Count": 42
+		"Domain Count": 40
 	},
 	{
 		"State": "New York",
@@ -2574,7 +2469,6 @@
 			"cityofrochester.gov",
 			"cohoes-ny.gov",
 			"coldspringny.gov",
-			"colonie-ny.gov",
 			"columbiacountyny.gov",
 			"cornwallny.gov",
 			"dutchessny.gov",
@@ -2583,7 +2477,6 @@
 			"edenny.gov",
 			"erie.gov",
 			"essexcountyny.gov",
-			"fabius-ny.gov",
 			"fayettevilleny.gov",
 			"fishkill-ny.gov",
 			"freeportny.gov",
@@ -2632,7 +2525,6 @@
 			"nycourthelp.gov",
 			"nycourts.gov",
 			"nygovoffice.gov",
-			"nyhallofgovernors.gov",
 			"nyhealth.gov",
 			"nyhousingsearch.gov",
 			"nyjuror.gov",
@@ -2649,7 +2541,6 @@
 			"oswegocountyny.gov",
 			"oysterbay-ny.gov",
 			"panynj.gov",
-			"pawling-ny.gov",
 			"piermont-ny.gov",
 			"pineplains-ny.gov",
 			"plandomeheights-ny.gov",
@@ -2683,7 +2574,9 @@
 			"townofbethlehem-ny.gov",
 			"townofcatskillny.gov",
 			"townofhalfmoon-ny.gov",
+			"townofhounsfield-ny.gov",
 			"townofislip-ny.gov",
+			"townofjayny.gov",
 			"townofkeeneny.gov",
 			"townofkentny.gov",
 			"townofnortheastny.gov",
@@ -2720,7 +2613,7 @@
 			"whiteplainsny.gov",
 			"yonkersny.gov"
 		],
-		"Domain Count": 167
+		"Domain Count": 165
 	},
 	{
 		"State": "North Carolina",
@@ -2804,7 +2697,6 @@
 			"midway-nc.gov",
 			"mocksvillenc.gov",
 			"moorecountync.gov",
-			"mooresville-nc.gov",
 			"morgantonnc.gov",
 			"myncretirement.gov",
 			"nagsheadnc.gov",
@@ -2814,9 +2706,7 @@
 			"ncagr.gov",
 			"ncbar.gov",
 			"ncbroadband.gov",
-			"nccarelink.gov",
 			"nccertifiedparalegal.gov",
-			"nccivilwar150.gov",
 			"nccob.gov",
 			"nccourts.gov",
 			"nccpaboard.gov",
@@ -2830,15 +2720,12 @@
 			"ncdor.gov",
 			"ncdot.gov",
 			"ncdps.gov",
-			"ncesc.gov",
 			"ncfast.gov",
-			"ncfindoffender.gov",
 			"ncforeclosureprevention.gov",
 			"ncforestproducts.gov",
 			"ncforestservice.gov",
 			"ncgrants.gov",
 			"nchealthconnex.gov",
-			"ncicac.gov",
 			"ncisaac.gov",
 			"nclamp.gov",
 			"nclap.gov",
@@ -2859,7 +2746,6 @@
 			"ncworks.gov",
 			"newtonnc.gov",
 			"northcarolina.gov",
-			"noscamnc.gov",
 			"onslowcountync.gov",
 			"orangecountync.gov",
 			"pendercountync.gov",
@@ -2892,7 +2778,6 @@
 			"townofblowingrocknc.gov",
 			"townofcarrboronc.gov",
 			"townofcarync.gov",
-			"townofchadbournnc.gov",
 			"townofclaytonnc.gov",
 			"townofnashvillenc.gov",
 			"townofrobersonville-nc.gov",
@@ -2922,7 +2807,7 @@
 			"yanceycountync.gov",
 			"yanceyvillenc.gov"
 		],
-		"Domain Count": 196
+		"Domain Count": 188
 	},
 	{
 		"State": "North Dakota",
@@ -2942,17 +2827,18 @@
 			"ndcensus.gov",
 			"ndcloud.gov",
 			"nddatacenter.gov",
-			"nddohpressroom.gov",
 			"ndhealth.gov",
+			"ndresponse.gov",
 			"ndstudies.gov",
 			"north-dakota.gov",
 			"northdakota.gov",
 			"pembinacountynd.gov",
 			"piercecountynd.gov",
+			"responsend.gov",
 			"starkcountynd.gov",
 			"westfargond.gov"
 		],
-		"Domain Count": 24
+		"Domain Count": 25
 	},
 	{
 		"State": "Ohio",
@@ -3011,7 +2897,6 @@
 			"glenwillow-oh.gov",
 			"golfmanoroh.gov",
 			"goshen-oh.gov",
-			"goshen-ohio.gov",
 			"graftontwp-oh.gov",
 			"grovecityohio.gov",
 			"hamilton-oh.gov",
@@ -3022,7 +2907,6 @@
 			"hilliardohio.gov",
 			"huroncounty-oh.gov",
 			"independenceohio.gov",
-			"jerome-oh.gov",
 			"lakecountyohio.gov",
 			"lebanonohio.gov",
 			"linndalevillage-oh.gov",
@@ -3107,7 +2991,6 @@
 			"shareohio.gov",
 			"springfieldohio.gov",
 			"starkcountyohio.gov",
-			"sullivanohio.gov",
 			"supremecourtofohio.gov",
 			"testohio.gov",
 			"tiffinohio.gov",
@@ -3127,10 +3010,9 @@
 			"wildohio.gov",
 			"willoughbyhills-oh.gov",
 			"wyomingohio.gov",
-			"xenia-oh.gov",
 			"youngstownohio.gov"
 		],
-		"Domain Count": 172
+		"Domain Count": 168
 	},
 	{
 		"State": "Oklahoma",
@@ -3147,7 +3029,6 @@
 			"duncanok.gov",
 			"forestparkok.gov",
 			"frederickok.gov",
-			"harrah-ok.gov",
 			"lawtonok.gov",
 			"nicholshills-ok.gov",
 			"ninnekahok.gov",
@@ -3170,6 +3051,7 @@
 			"poncacityok.gov",
 			"southcoffeyvilleok.gov",
 			"sperryok.gov",
+			"unioncityok.gov",
 			"warracres-ok.gov",
 			"yukonok.gov"
 		],
@@ -3202,7 +3084,6 @@
 			"hijossaludablesoregon.gov",
 			"hillsboro-oregon.gov",
 			"junctioncityoregon.gov",
-			"lowell-or.gov",
 			"mcminnvilleoregon.gov",
 			"milton-freewater-or.gov",
 			"milwaukieoregon.gov",
@@ -3220,13 +3101,13 @@
 			"oregonconsumer.gov",
 			"oregonforestry.gov",
 			"oregonhealthcare.gov",
-			"oregonhealthykids.gov",
 			"oregonhomeownersupport.gov",
 			"oregonlegislature.gov",
 			"oregonmarinereserves.gov",
 			"oregonmetro.gov",
 			"oregonmotorvoter.gov",
 			"oregonrx.gov",
+			"oregonsaves.gov",
 			"oregonstudentaid.gov",
 			"oregonusf.gov",
 			"oregonvotes.gov",
@@ -3252,7 +3133,7 @@
 			"woodburn-or.gov",
 			"yamhillcounty-or.gov"
 		],
-		"Domain Count": 73
+		"Domain Count": 72
 	},
 	{
 		"State": "Pennsylvania",
@@ -3262,14 +3143,12 @@
 			"allentownpa.gov",
 			"archbaldboroughpa.gov",
 			"attorneygeneral.gov",
-			"badenpa.gov",
 			"beavercountypa.gov",
 			"beaverpa.gov",
 			"bellefontepa.gov",
 			"bensalempa.gov",
 			"bethlehem-pa.gov",
 			"cambriacountypa.gov",
-			"carbondale-pa.gov",
 			"ceciltownship-pa.gov",
 			"centrecountypa.gov",
 			"chaddsfordpa.gov",
@@ -3297,6 +3176,7 @@
 			"gettysburg-pa.gov",
 			"gettysburgpa.gov",
 			"greencastlepa.gov",
+			"greenfieldtownshippa.gov",
 			"hanoverboroughpa.gov",
 			"harmartownship-pa.gov",
 			"harrisburgpa.gov",
@@ -3315,10 +3195,8 @@
 			"mckeesport-pa.gov",
 			"monroecountypa.gov",
 			"mountpocono-pa.gov",
-			"nanticokecity-pa.gov",
 			"narberthpa.gov",
 			"nazarethboroughpa.gov",
-			"nevilleisland-pa.gov",
 			"newcastlepa.gov",
 			"newtownpa.gov",
 			"northlebanontwppa.gov",
@@ -3341,14 +3219,11 @@
 			"plumstead.gov",
 			"poconopa.gov",
 			"pottertwp-pa.gov",
-			"quakertown-pa.gov",
 			"robinsonpa.gov",
 			"scrantonpa.gov",
 			"sevenspringsborough-pa.gov",
-			"silverspringtwp-pa.gov",
 			"slipperyrockboroughpa.gov",
 			"southabingtonpa.gov",
-			"southwilliamsport-pa.gov",
 			"springcitypa.gov",
 			"statecollegepa.gov",
 			"stmaryspa.gov",
@@ -3363,7 +3238,7 @@
 			"wilkinsburgpa.gov",
 			"yorkcountypa.gov"
 		],
-		"Domain Count": 105
+		"Domain Count": 99
 	},
 	{
 		"State": "Rhode Island",
@@ -3413,7 +3288,6 @@
 			"hartsvillesc.gov",
 			"hiltonheadislandsc.gov",
 			"jaspercountysc.gov",
-			"lancastercitysc.gov",
 			"lymansc.gov",
 			"marionsc.gov",
 			"mysc.gov",
@@ -3443,7 +3317,7 @@
 			"townofnorth-sc.gov",
 			"westcolumbiasc.gov"
 		],
-		"Domain Count": 50
+		"Domain Count": 49
 	},
 	{
 		"State": "South Dakota",
@@ -3469,7 +3343,6 @@
 		"State": "Tennessee",
 		"Domains": [
 			"abletn.gov",
-			"accesstn.gov",
 			"algoodtn.gov",
 			"ashlandcitytn.gov",
 			"bentoncountytn.gov",
@@ -3493,7 +3366,6 @@
 			"colliervilletn.gov",
 			"columbiatn.gov",
 			"cookeville-tn.gov",
-			"covertennessee.gov",
 			"covertn.gov",
 			"crossvilletn.gov",
 			"cumberlandcountytn.gov",
@@ -3549,7 +3421,6 @@
 			"millingtontn.gov",
 			"morgancountytn.gov",
 			"mountcarmeltn.gov",
-			"mountpleasanttn.gov",
 			"mtjuliet-tn.gov",
 			"murfreesborotn.gov",
 			"mytennessee.gov",
@@ -3567,8 +3438,6 @@
 			"retirereadytn.gov",
 			"roanecountytn.gov",
 			"rutherfordcountytn.gov",
-			"scottcounty-tn.gov",
-			"sequatchiecounty-tn.gov",
 			"seviercountytn.gov",
 			"shelbycountytn.gov",
 			"signalmountaintn.gov",
@@ -3626,7 +3495,7 @@
 			"wilsoncountytn.gov",
 			"workforceonetouchtn.gov"
 		],
-		"Domain Count": 157
+		"Domain Count": 152
 	},
 	{
 		"State": "Texas",
@@ -3661,7 +3530,6 @@
 			"boerne-tx.gov",
 			"bonneytexas.gov",
 			"borgertx.gov",
-			"brazoriacounty-tx.gov",
 			"brazoriacounty.gov",
 			"brazoriacountytx.gov",
 			"brazoscountytx.gov",
@@ -3687,11 +3555,6 @@
 			"cityofhuntsvilletx.gov",
 			"cityoflindaletx.gov",
 			"cityoflubbocktx.gov",
-			"cityofpalmvalley-tx.gov",
-			"cityofpearlandtx.gov",
-			"cityofsugar-landtx.gov",
-			"cityofsugarland-tx.gov",
-			"cityofsugarlandtx.gov",
 			"cityoftyler-tx.gov",
 			"cityoftylertx.gov",
 			"cityofwestonlakes-tx.gov",
@@ -3753,12 +3616,10 @@
 			"hickorycreek-tx.gov",
 			"hollywoodpark-tx.gov",
 			"hondo-tx.gov",
-			"horizoncity-tx.gov",
 			"horseshoe-bay-tx.gov",
 			"houstontx.gov",
 			"humbletx.gov",
 			"huntsvilletx.gov",
-			"hurst-texas.gov",
 			"hursttx.gov",
 			"huttotx.gov",
 			"inglesidetx.gov",
@@ -3781,7 +3642,6 @@
 			"libertyhilltx.gov",
 			"lindale-tx.gov",
 			"lindaletx.gov",
-			"loneoaktx.gov",
 			"longviewtexas.gov",
 			"longviewtx.gov",
 			"lorenatx.gov",
@@ -3831,20 +3691,15 @@
 			"rowletttx.gov",
 			"saladotx.gov",
 			"sanantonio.gov",
-			"sanmarcostexas.gov",
 			"sanmarcostx.gov",
 			"schertz-tx.gov",
 			"seabrooktx.gov",
 			"seguintexas.gov",
 			"simontontexas.gov",
+			"somervilletx.gov",
 			"southpadretexas.gov",
 			"stephenscountytx.gov",
-			"sugar-landcitytx.gov",
-			"sugarland-citytx.gov",
-			"sugarlandcity-tx.gov",
-			"sugarlandcitytx.gov",
 			"sugarlandtx.gov",
-			"tafttx.gov",
 			"tarrantcountytx.gov",
 			"taylortx.gov",
 			"templetx.gov",
@@ -3872,8 +3727,6 @@
 			"txcourts.gov",
 			"txdmv.gov",
 			"txdot.gov",
-			"txdps.gov",
-			"txmap.gov",
 			"txoag.gov",
 			"uctx.gov",
 			"universalcitytexas.gov",
@@ -3897,7 +3750,7 @@
 			"yorktowntx.gov",
 			"zapatacountytx.gov"
 		],
-		"Domain Count": 265
+		"Domain Count": 249
 	},
 	{
 		"State": "Utah",
@@ -3917,6 +3770,7 @@
 			"naplescityut.gov",
 			"relayutah.gov",
 			"sanpetecounty-ut.gov",
+			"slc.gov",
 			"southjordanutah.gov",
 			"taylorsvilleut.gov",
 			"tooelecountyut.gov",
@@ -3928,7 +3782,6 @@
 			"utahtrust.gov",
 			"utcourts.gov",
 			"webercountyutah.gov",
-			"westvalleycity-ut.gov",
 			"woodlandhills-ut.gov",
 			"wvc-ut.gov"
 		],
@@ -3983,7 +3836,6 @@
 			"blacksburg.gov",
 			"blandcountyva.gov",
 			"botetourtva.gov",
-			"boyceva.gov",
 			"buchanan-va.gov",
 			"buchanancounty-va.gov",
 			"campbellcountyva.gov",
@@ -4068,8 +3920,6 @@
 			"readyvirginia.gov",
 			"remington-va.gov",
 			"richlands-va.gov",
-			"richmond-va.gov",
-			"richmondva.gov",
 			"roanokecounty-va.gov",
 			"roanokecountyva.gov",
 			"roanokecountyvirginia.gov",
@@ -4109,7 +3959,7 @@
 			"windsor-va.gov",
 			"yorkcounty.gov"
 		],
-		"Domain Count": 140
+		"Domain Count": 137
 	},
 	{
 		"State": "Washington",
@@ -4121,6 +3971,7 @@
 			"bainbridgewa.gov",
 			"beauxarts-wa.gov",
 			"bellevuewa.gov",
+			"blackdiamondwa.gov",
 			"bothellwa.gov",
 			"bremertonwa.gov",
 			"burienwa.gov",
@@ -4135,7 +3986,6 @@
 			"cityofredmond.gov",
 			"cityofseattle.gov",
 			"cityofsnoqualmiewa.gov",
-			"cityoftukwila-wa.gov",
 			"cityolympia-wa.gov",
 			"cityolympiawa.gov",
 			"concretewa.gov",
@@ -4165,8 +4015,6 @@
 			"lewiscountywa.gov",
 			"libertylakewa.gov",
 			"longbeachwa.gov",
-			"longview-wa.gov",
-			"longviewwa.gov",
 			"lynnwoodwa.gov",
 			"maplevalleywa.gov",
 			"marysvillewa.gov",
@@ -4177,6 +4025,7 @@
 			"monroewa.gov",
 			"mountvernonwa.gov",
 			"mukilteowa.gov",
+			"newcastlewa.gov",
 			"normandyparkwa.gov",
 			"northbendwa.gov",
 			"nwcleanairwa.gov",
@@ -4191,7 +4040,6 @@
 			"pullman-wa.gov",
 			"redmond.gov",
 			"rentonwa.gov",
-			"ritzville-wa.gov",
 			"sammamishwa.gov",
 			"seattle.gov",
 			"selahwa.gov",
@@ -4209,7 +4057,6 @@
 			"sunnyside-wa.gov",
 			"tacomawa.gov",
 			"thurstoncountywa.gov",
-			"tukwila-wa.gov",
 			"tukwilawa.gov",
 			"tumwaterwa.gov",
 			"uniongapwa.gov",
@@ -4221,7 +4068,7 @@
 			"wsdot.gov",
 			"yakimawa.gov"
 		],
-		"Domain Count": 106
+		"Domain Count": 103
 	},
 	{
 		"State": "West Virginia",
@@ -4237,7 +4084,6 @@
 			"fairmontwv.gov",
 			"gilmercountywv.gov",
 			"harrisoncountywv.gov",
-			"kanawhacountywv.gov",
 			"mapwv.gov",
 			"morgancountywv.gov",
 			"morgantownwv.gov",
@@ -4265,7 +4111,6 @@
 			"wvlegislature.gov",
 			"wvoasis.gov",
 			"wvot.gov",
-			"wvota.gov",
 			"wvpresident.gov",
 			"wvpurchasing.gov",
 			"wvrevenue.gov",
@@ -4278,7 +4123,7 @@
 			"wvsurplus.gov",
 			"wvtax.gov"
 		],
-		"Domain Count": 51
+		"Domain Count": 49
 	},
 	{
 		"State": "Wisconsin",
@@ -4335,7 +4180,6 @@
 			"pleasantprairie-wi.gov",
 			"pleasantprairiewi.gov",
 			"ploverwi.gov",
-			"portagecountywi.gov",
 			"portagewi.gov",
 			"poynette-wi.gov",
 			"prairieduchien-wi.gov",
@@ -4346,7 +4190,6 @@
 			"ridesharewisconsin.gov",
 			"rockcounty-wi.gov",
 			"saukcountywi.gov",
-			"sheboyganfalls-wi.gov",
 			"sheboyganwi.gov",
 			"sisterbaywi.gov",
 			"stcroixfallswi.gov",
@@ -4365,9 +4208,7 @@
 			"westbendwi.gov",
 			"westonwi.gov",
 			"whitewater-wi.gov",
-			"whitingwi.gov",
 			"wi-time.gov",
-			"wi-worcs.gov",
 			"wi.gov",
 			"wibadgertracs.gov",
 			"wiconnections2030.gov",
@@ -4386,7 +4227,7 @@
 			"wisconsinroundabouts.gov",
 			"zeroinwisconsin.gov"
 		],
-		"Domain Count": 102
+		"Domain Count": 98
 	},
 	{
 		"State": "Wyoming",
@@ -4399,7 +4240,6 @@
 			"conversecountywy.gov",
 			"ewyoming.gov",
 			"fremontcountywy.gov",
-			"meeteetsecd-wy.gov",
 			"millswy.gov",
 			"natronacounty-wy.gov",
 			"pinebluffswy.gov",
@@ -4415,12 +4255,11 @@
 			"wyoboards.gov",
 			"wyoleg.gov",
 			"wyoming.gov",
-			"wyomingagcare.gov",
 			"wyominglmi.gov",
 			"wyomingofficeoftourism.gov",
 			"wyoreg.gov",
 			"wywindfall.gov"
 		],
-		"Domain Count": 29
+		"Domain Count": 27
 	}
 ]

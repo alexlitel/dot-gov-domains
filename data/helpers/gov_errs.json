@@ -1,0 +1,722 @@
+[
+	{
+		"amesburyma.gov": {
+			"missing": [],
+			"miscategorized": [],
+			"fields": {
+				"Domain Type": "State/local Govt"
+			}
+		},
+		"cambridgeretirementma.gov": {
+			"missing": [],
+			"miscategorized": [],
+			"fields": {
+				"Domain Type": "State/local Govt"
+			}
+		},
+		"conshohockenpa.gov": {
+			"missing": [],
+			"miscategorized": [],
+			"fields": {
+				"Domain Type": "State/local Govt"
+			}
+		},
+		"councilbluffs-ia.gov": {
+			"missing": [],
+			"miscategorized": [],
+			"fields": {
+				"Domain Type": "County"
+			}
+		},
+		"fortlauderdale.gov": {
+			"missing": [],
+			"miscategorized": [],
+			"fields": {
+				"Domain Type": "State/local Govt"
+			}
+		},
+		"gaithersburgmd.gov": {
+			"missing": [],
+			"miscategorized": [],
+			"fields": {
+				"Domain Type": "State/local Govt"
+			}
+		},
+		"gardner-ma.gov": {
+			"missing": [],
+			"miscategorized": [],
+			"fields": {
+				"Domain Type": "State/local Govt"
+			}
+		},
+		"golfmanoroh.gov": {
+			"missing": [],
+			"miscategorized": [],
+			"fields": {
+				"Domain Type": "State/local Govt"
+			}
+		},
+		"kingsburyny.gov": {
+			"missing": [],
+			"miscategorized": [],
+			"fields": {
+				"Domain Type": "County"
+			}
+		},
+		"loxahatcheegrovesfl.gov": {
+			"missing": [],
+			"miscategorized": [],
+			"fields": {
+				"Domain Type": "State/local Govt"
+			}
+		},
+		"milton-freewater-or.gov": {
+			"missing": [],
+			"miscategorized": [],
+			"fields": {
+				"Domain Type": "State/local Govt"
+			}
+		},
+		"monson-ma.gov": {
+			"missing": [],
+			"miscategorized": [],
+			"fields": {
+				"Domain Type": "State/local Govt"
+			}
+		},
+		"natickma.gov": {
+			"missing": [],
+			"miscategorized": [],
+			"fields": {
+				"Domain Type": "State/local Govt"
+			}
+		},
+		"peachtreecornersga.gov": {
+			"missing": [],
+			"miscategorized": [],
+			"fields": {
+				"Domain Type": "State/local Govt"
+			}
+		},
+		"perry-ga.gov": {
+			"missing": [],
+			"miscategorized": [],
+			"fields": {
+				"Domain Type": "State/local Govt"
+			}
+		},
+		"pinecrest-fl.gov": {
+			"missing": [],
+			"miscategorized": [],
+			"fields": {
+				"Domain Type": "State/local Govt"
+			}
+		},
+		"sacomaine.gov": {
+			"missing": [],
+			"miscategorized": [],
+			"fields": {
+				"Domain Type": "State/local Govt"
+			}
+		},
+		"sunriseflorida.gov": {
+			"missing": [],
+			"miscategorized": [],
+			"fields": {
+				"Domain Type": "State/local Govt"
+			}
+		},
+		"tewksbury-ma.gov": {
+			"missing": [],
+			"miscategorized": [],
+			"fields": {
+				"Domain Type": "State/local Govt"
+			}
+		},
+		"townofgoldenmeadow-la.gov": {
+			"missing": [],
+			"miscategorized": [],
+			"fields": {
+				"Domain Type": "State/local Govt"
+			}
+		},
+		"walpole-ma.gov": {
+			"missing": [],
+			"miscategorized": [],
+			"fields": {
+				"Domain Type": "State/local Govt"
+			}
+		},
+		"washingtonnc.gov": {
+			"missing": [],
+			"miscategorized": [],
+			"fields": {
+				"Domain Type": "State/local Govt"
+			}
+		},
+		"whitman-ma.gov": {
+			"missing": [],
+			"miscategorized": [],
+			"fields": {
+				"Domain Type": "State/local Govt"
+			}
+		},
+		"winterportmaine.gov": {
+			"missing": [],
+			"miscategorized": [],
+			"fields": {
+				"Domain Type": "State/local Govt"
+			}
+		},
+		"winterspringsfl.gov": {
+			"missing": [],
+			"miscategorized": [],
+			"fields": {
+				"Domain Type": "State/local Govt"
+			}
+		},
+		"baycounty-mi.gov": {
+			"missing": [],
+			"miscategorized": [],
+			"fields": {
+				"Domain Type": "City"
+			}
+		},
+		"chowancounty-nc.gov": {
+			"missing": [],
+			"miscategorized": [],
+			"fields": {
+				"Domain Type": "City"
+			}
+		},
+		"colliercountyfl.gov": {
+			"missing": [],
+			"miscategorized": [],
+			"fields": {
+				"Domain Type": "State/local Govt"
+			}
+		},
+		"collincountytexas.gov": {
+			"missing": [],
+			"miscategorized": [],
+			"fields": {
+				"Domain Type": "City"
+			}
+		},
+		"collincountytx.gov": {
+			"missing": [],
+			"miscategorized": [],
+			"fields": {
+				"Domain Type": "City"
+			}
+		},
+		"harpercountyks.gov": {
+			"missing": [],
+			"miscategorized": [],
+			"fields": {
+				"Domain Type": "City"
+			}
+		},
+		"loganco.gov": {
+			"missing": [],
+			"miscategorized": [],
+			"fields": {
+				"Domain Type": "City"
+			}
+		},
+		"palmbeachcountytaxcollector-fl.gov": {
+			"missing": [],
+			"miscategorized": [],
+			"fields": {
+				"Domain Type": "State/local Govt"
+			}
+		},
+		"rheacountytn.gov": {
+			"missing": [],
+			"miscategorized": [],
+			"fields": {
+				"Domain Type": "City"
+			}
+		},
+		"scottcountyiowa.gov": {
+			"missing": [],
+			"miscategorized": [],
+			"fields": {
+				"Domain Type": "State/local Govt"
+			}
+		},
+		"stillwatercountymt.gov": {
+			"missing": [],
+			"miscategorized": [],
+			"fields": {
+				"Domain Type": "State/local Govt"
+			}
+		},
+		"tricountyconservancy-in.gov": {
+			"missing": [],
+			"miscategorized": [],
+			"fields": {
+				"Domain Type": "City"
+			}
+		},
+		"wataugacountync.gov": {
+			"missing": [],
+			"miscategorized": [],
+			"fields": {
+				"Domain Type": "State/local Govt"
+			}
+		},
+		"whitecounty-il.gov": {
+			"missing": [],
+			"miscategorized": [],
+			"fields": {
+				"Domain Type": "City"
+			}
+		},
+		"yamhillcounty-or.gov": {
+			"missing": [],
+			"miscategorized": [],
+			"fields": {
+				"Domain Type": "City"
+			}
+		},
+		"access-board.gov": {
+			"missing": [],
+			"miscategorized": [],
+			"fields": {
+				"Agency": "U. S. Access Board"
+			}
+		},
+		"altusandc.gov": {
+			"missing": [],
+			"miscategorized": [],
+			"fields": {
+				"City": "Patrick, Afb"
+			}
+		},
+		"bankruptcy.gov": {
+			"missing": [],
+			"miscategorized": [],
+			"fields": {
+				"Agency": "U.s Courts"
+			}
+		},
+		"cavc.gov": {
+			"missing": [],
+			"miscategorized": [],
+			"fields": {
+				"Agency": "U.s Courts"
+			}
+		},
+		"changeofaddress.gov": {
+			"missing": [],
+			"miscategorized": [],
+			"fields": {
+				"Agency": "U. S. Postal Service"
+			}
+		},
+		"citizenscience.gov": {
+			"missing": [],
+			"miscategorized": [],
+			"fields": {
+				"City": "Nw"
+			}
+		},
+		"crimesolutions.gov": {
+			"missing": [],
+			"miscategorized": [],
+			"fields": {
+				"City": "Washinton "
+			}
+		},
+		"dcsc.gov": {
+			"missing": [],
+			"miscategorized": [],
+			"fields": {
+				"Agency": "U.s Courts"
+			}
+		},
+		"everykid.gov": {
+			"missing": [],
+			"miscategorized": [],
+			"fields": {
+				"Agency": "General Services Administration",
+				"City": "Washington Dc"
+			}
+		},
+		"everykidinapark.gov": {
+			"missing": [],
+			"miscategorized": [],
+			"fields": {
+				"City": "Washington Dc"
+			}
+		},
+		"federalcourts.gov": {
+			"missing": [],
+			"miscategorized": [],
+			"fields": {
+				"Agency": "U.s Courts"
+			}
+		},
+		"federalprobation.gov": {
+			"missing": [],
+			"miscategorized": [],
+			"fields": {
+				"Agency": "U.s Courts"
+			}
+		},
+		"federalrules.gov": {
+			"missing": [],
+			"miscategorized": [],
+			"fields": {
+				"Agency": "U.s Courts"
+			}
+		},
+		"fjc.gov": {
+			"missing": [],
+			"miscategorized": [],
+			"fields": {
+				"Agency": "U.s Courts"
+			}
+		},
+		"globalchange.gov": {
+			"missing": [],
+			"miscategorized": [],
+			"fields": {
+				"Agency": "United Stated Global Change Research Program"
+			}
+		},
+		"iab.gov": {
+			"missing": [],
+			"miscategorized": [],
+			"fields": {
+				"Agency": "Department Of Energy"
+			}
+		},
+		"ich.gov": {
+			"missing": [],
+			"miscategorized": [],
+			"fields": {
+				"Agency": "Us Interagency Council On Homelessness"
+			}
+		},
+		"ipcc-wg2.gov": {
+			"missing": [],
+			"miscategorized": [],
+			"fields": {
+				"Agency": "United Stated Global Change Research Program"
+			}
+		},
+		"judicialconference.gov": {
+			"missing": [],
+			"miscategorized": [],
+			"fields": {
+				"Agency": "U.s Courts"
+			}
+		},
+		"mail.gov": {
+			"missing": [],
+			"miscategorized": [],
+			"fields": {
+				"Agency": "U. S. Postal Service"
+			}
+		},
+		"max.gov": {
+			"missing": [],
+			"miscategorized": [],
+			"fields": {
+				"City": "Nw",
+				"State": "WA"
+			}
+		},
+		"nmcourt.fed.us": {
+			"missing": [],
+			"miscategorized": [],
+			"fields": {
+				"Agency": "U.s Courts"
+			}
+		},
+		"nps.gov": {
+			"missing": [],
+			"miscategorized": [],
+			"fields": {
+				"City": "Washington Dc"
+			}
+		},
+		"nwtrb.gov": {
+			"missing": [],
+			"miscategorized": [],
+			"fields": {
+				"Agency": "Department Of Energy"
+			}
+		},
+		"osc.gov": {
+			"missing": [],
+			"miscategorized": [],
+			"fields": {
+				"Agency": "U. S. Office Of Special Counsel"
+			}
+		},
+		"oscnet.gov": {
+			"missing": [],
+			"miscategorized": [],
+			"fields": {
+				"Agency": "U. S. Office Of Special Counsel"
+			}
+		},
+		"pacer.gov": {
+			"missing": [],
+			"miscategorized": [],
+			"fields": {
+				"Agency": "U.s Courts"
+			}
+		},
+		"peacecore.gov": {
+			"missing": [],
+			"miscategorized": [],
+			"fields": {
+				"Agency": "U. S. Peace Corps"
+			}
+		},
+		"peacecorp.gov": {
+			"missing": [],
+			"miscategorized": [],
+			"fields": {
+				"Agency": "U. S. Peace Corps"
+			}
+		},
+		"peacecorps.gov": {
+			"missing": [],
+			"miscategorized": [],
+			"fields": {
+				"Agency": "U. S. Peace Corps"
+			}
+		},
+		"postoffice.gov": {
+			"missing": [],
+			"miscategorized": [],
+			"fields": {
+				"Agency": "U. S. Postal Service"
+			}
+		},
+		"purchasing.gov": {
+			"missing": [],
+			"miscategorized": [],
+			"fields": {
+				"Agency": "U. S. Postal Service"
+			}
+		},
+		"sandbox.gov": {
+			"missing": [],
+			"miscategorized": [],
+			"fields": {
+				"City": "Washinton"
+			}
+		},
+		"sji.gov": {
+			"missing": [],
+			"miscategorized": [],
+			"fields": {
+				"Agency": "Department Of State"
+			}
+		},
+		"stateoig.gov": {
+			"missing": [],
+			"miscategorized": [],
+			"fields": {
+				"Agency": "Department Of State Oig"
+			}
+		},
+		"usbankruptcy.gov": {
+			"missing": [],
+			"miscategorized": [],
+			"fields": {
+				"Agency": "U.s Courts"
+			}
+		},
+		"usc.gov": {
+			"missing": [],
+			"miscategorized": [],
+			"fields": {
+				"Agency": "U.s Courts"
+			}
+		},
+		"uscavc.gov": {
+			"missing": [],
+			"miscategorized": [],
+			"fields": {
+				"Agency": "U.s Courts"
+			}
+		},
+		"uscourts.gov": {
+			"missing": [],
+			"miscategorized": [],
+			"fields": {
+				"Agency": "U.s Courts"
+			}
+		},
+		"usgcrp.gov": {
+			"missing": [],
+			"miscategorized": [],
+			"fields": {
+				"Agency": "United Stated Global Change Research Program"
+			}
+		},
+		"ushmm.gov": {
+			"missing": [],
+			"miscategorized": [],
+			"fields": {
+				"Agency": "U. S. Holocaust Memorial Museum"
+			}
+		},
+		"usich.gov": {
+			"missing": [],
+			"miscategorized": [],
+			"fields": {
+				"Agency": "Us Interagency Council On Homelessness"
+			}
+		},
+		"usitc.gov": {
+			"missing": [],
+			"miscategorized": [],
+			"fields": {
+				"Agency": "U. S. International Trade Commission"
+			}
+		},
+		"uspis.gov": {
+			"missing": [],
+			"miscategorized": [],
+			"fields": {
+				"Agency": "U. S. Postal Service"
+			}
+		},
+		"usprobation.gov": {
+			"missing": [],
+			"miscategorized": [],
+			"fields": {
+				"Agency": "U.s Courts"
+			}
+		},
+		"usps.gov": {
+			"missing": [],
+			"miscategorized": [],
+			"fields": {
+				"Agency": "U. S. Postal Service"
+			}
+		},
+		"ussc.gov": {
+			"missing": [],
+			"miscategorized": [],
+			"fields": {
+				"Agency": "U.s Courts"
+			}
+		},
+		"ustaxcourt.gov": {
+			"missing": [],
+			"miscategorized": [],
+			"fields": {
+				"Agency": "U.s Courts"
+			}
+		},
+		"ius.gov": {
+			"missing": [],
+			"miscategorized": [],
+			"fields": {
+				"Agency": "National Gallery Of Art"
+			}
+		},
+		"jobsfortn.gov": {
+			"missing": [],
+			"miscategorized": [],
+			"fields": {
+				"City": "38401"
+			}
+		},
+		"maryland.gov": {
+			"missing": [],
+			"miscategorized": [],
+			"fields": {
+				"City": "Crowsnville"
+			}
+		},
+		"md.gov": {
+			"missing": [],
+			"miscategorized": [],
+			"fields": {
+				"City": "Crowsnville"
+			}
+		},
+		"ndcloud.gov": {
+			"missing": [
+				"nofed-statesonly"
+			],
+			"miscategorized": [],
+			"fields": {
+				"State": "NORTH DAKOTA"
+			}
+		},
+		"serveohio.gov": {
+			"missing": [],
+			"miscategorized": [],
+			"fields": {
+				"City": "Columb Us"
+			}
+		},
+		"miami-fl.gov": {
+			"missing": [],
+			"miscategorized": [],
+			"fields": {
+				"Domain Type": "State/local Govt"
+			}
+		},
+		"pinellascountyfl.gov": {
+			"missing": [],
+			"miscategorized": [],
+			"fields": {
+				"Domain Type": "State/local Govt"
+			}
+		},
+		"serveindiana.gov": {
+			"missing": [],
+			"miscategorized": [],
+			"fields": {
+				"Domain Type": "State/local Govt"
+			}
+		},
+		"bernco.gov": {
+			"missing": [],
+			"miscategorized": [],
+			"fields": {
+				"Domain Type": "City"
+			}
+		},
+		"townofwingatenc.gov": {
+			"missing": [],
+			"miscategorized": [],
+			"fields": {
+				"Domain Type": "State/local Govt"
+			}
+		},
+		"clermontfl.gov": {
+			"missing": [],
+			"miscategorized": [],
+			"fields": {
+				"State": "FM"
+			}
+		},
+		"oakridgetn.gov": {
+			"missing": [],
+			"miscategorized": [],
+			"fields": {
+				"City": "Oak Ridge, TN 37830 United States"
+			}
+		},
+		"peacecorpsoig.gov": {
+			"missing": [],
+			"miscategorized": [],
+			"fields": {
+				"Agency": "U.S. Postal Service, Office of Inspector General"
+			}
+		}
+	}
+]

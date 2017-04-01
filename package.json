@@ -1,0 +1,31 @@
+{
+  "name": "gov_domains",
+  "version": "1.0.0",
+  "description": "[Dot Gov Domains](http://alexlitel.github.io/dot-gov-domains) is an Angular-based project intended to create a visually accessible means of sifting through data pertaining to federal and state .gov (and fed.us) domains. Data used in the project comes from the [GSA's .Gov Domains API](http://catalog.data.gov/dataset/gov-domains-api-c9856) and [18F's HTTPS pulse project](https://pulse.cio.gov/https/domains/). Although the data has been slightly modified (mostly for reasons of presentation), there may still be some signficant errors.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/alexlitel/dot-gov-domains.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/alexlitel/dot-gov-domains/issues"
+  },
+  "homepage": "https://github.com/alexlitel/dot-gov-domains#readme",
+  "devDependencies": {
+    "async": "^2.0.1",
+    "chalk": "^1.1.3",
+    "gulp": "^3.9.1",
+    "json-minify": "^1.0.0",
+    "lodash": "^4.15.0",
+    "moment": "^2.14.1",
+    "prompt": "^1.0.0"
+  },
+  "dependencies": {
+    "bluebird": "^3.4.7"
+  }
+}
